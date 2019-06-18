@@ -84,6 +84,8 @@
 
 - `Machine-learning-for-proteins` - Listing of papers about machine learning for proteins. https://github.com/yangkky/Machine-learning-for-proteins
 
+- `machine-learning-for-software-engineers` - A complete daily plan for studying to become a machine learning engineer. https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
 - `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
