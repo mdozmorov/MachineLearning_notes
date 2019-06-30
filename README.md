@@ -36,7 +36,11 @@
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
 - `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
-    - `fastai` - The fastai deep learning library, plus lessons and and tutorials. https://github.com/fastai/fastai. Video lectures: Introduction to Machine Learning for Coders, https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96, Practical Deep Learning For Coders 1, https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM, Cutting Edge Deep Learning for Coders 2, https://www.youtube.com/watch?v=Z0ssNAbe81M&list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia
+    - `fastai` - The fastai deep learning library, plus lessons and and tutorials. https://github.com/fastai/fastai. 
+    - Introduction to Machine Learning for Coders, http://course18.fast.ai/ml. Video: Introduction to Machine Learning for Coders, https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
+    - Video: Practical Deep Learning For Coders 1, https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
+    - Video: Cutting Edge Deep Learning for Coders 2, https://www.youtube.com/watch?v=Z0ssNAbe81M&list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia
+    - Part 2: Deep Learning from the Foundations, https://course.fast.ai/part2
 
 - `cs-video-courses` - List of Computer Science courses with video lectures. https://github.com/Developer-Y/cs-video-courses
 
