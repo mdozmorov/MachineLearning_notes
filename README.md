@@ -41,6 +41,7 @@
     - Video: Practical Deep Learning For Coders 1, https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
     - Video: Cutting Edge Deep Learning for Coders 2, https://www.youtube.com/watch?v=Z0ssNAbe81M&list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia
     - Part 2: Deep Learning from the Foundations, https://course.fast.ai/part2
+    - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course, https://www.fast.ai/2017/07/17/num-lin-alg/, GitHub: https://github.com/fastai/numerical-linear-algebra
 
 - `cs-video-courses` - List of Computer Science courses with video lectures. https://github.com/Developer-Y/cs-video-courses
 
