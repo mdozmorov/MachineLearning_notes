@@ -194,6 +194,8 @@
 
 ## Misc
 
+- Learn from ML experts at Google. https://ai.google/education
+
 - Google Colab Free GPU Tutorial. https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
 - Browse this awesome portal for State-of-the-Art #MachineLearning & #DeepLearning Algorithms — 1000+ leaderboards • 1100+ tasks • 1000+ datasets • 14,000+ papers with code: (link: https://paperswithcode.com/sota) https://paperswithcode.com/sota
