@@ -5,6 +5,7 @@
 * [Repositories](#repositories)
 * [Courses](#courses)
 * [Videos](#videos)
+* [Tools](#tools)
 * [Misc](#misc)
 
 ## Repositories
@@ -190,6 +191,17 @@
 - "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
 
 - "Advanced Deep Learning & Reinforcement Learning", a video-course on deep RL taught at @UCL by DeepMind researchers, https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+
+## Tools
+
+- `Janggu` - deep learning interface to genomic data (FASTA, BAM, BigWig, BED, GFF). Numpy-like Bioseq and Cover objects accessable by Keras. Includes model evaluation and interpretation features. https://github.com/BIMSBbioinfo/janggu, https://pypi.org/project/janggu/, https://janggu.readthedocs.io/en/latest/
+    - Kopp, Wolfgang, Remo Monti, Annalaura Tamburrini, Uwe Ohler, and Altuna Akalin. “Janggu: Deep Learning for Genomics,” n.d., 13.
+
+- `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
+    - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
+
+- "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
+
 
 
 ## Misc
