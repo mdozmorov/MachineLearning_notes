@@ -164,6 +164,8 @@
 
 ## Courses
 
+- Step-by-step guides to learn Applied Machine Learning, https://machinelearningmastery.com/start-here/
+
 - CS 221 ― Artificial Intelligence. https://stanford.edu/~shervine/teaching/cs-221/
 
 - "Machine Learning" course CD4780/CS5780 by Thorsten Joachims, Cornell Univerisity. Videos and slides. [http://machine-learning-course.joachims.org/(http://machine-learning-course.joachims.org/
