@@ -206,6 +206,9 @@
 
 - "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
 
+- `PennAI` - AI-Driven Data Science, entry-level machine learning interface for non-experts. https://github.com/EpistasisLab/pennai
+    - Olson, Randal S., Moshe Sipper, William La Cava, Sharon Tartarone, Steven Vitale, Weixuan Fu, Patryk Orzechowski, Ryan J. Urbanowicz, John H. Holmes, and Jason H. Moore. “A System for Accessible Artificial Intelligence.” ArXiv:1705.00594 [Cs], May 1, 2017. http://arxiv.org/abs/1705.00594.
+
 - `TPOT` - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. http://epistasislab.github.io/tpot/, https://github.com/EpistasisLab/tpot
     - Le, Trang T, Weixuan Fu, and Jason H Moore. “Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector.” Edited by Janet Kelso. Bioinformatics, June 4, 2019. https://doi.org/10.1093/bioinformatics/btz470.
 
