@@ -206,7 +206,7 @@
 
 - "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
 
-
+- `TPOT` - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. http://epistasislab.github.io/tpot/, https://github.com/EpistasisLab/tpot
 
 ## Misc
 
