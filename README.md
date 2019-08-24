@@ -244,3 +244,4 @@
 
 - Key Papers in Deep Reinforcement Learning, https://spinningup.openai.com/en/latest/spinningup/keypapers.html. [source](https://twitter.com/strnr/status/1110172093155627008?s=03)
 
+- 101 Machine Learning Algorithms - Brief description and R/Python examples of algorithms, categorized into several categories: classification, regression, neural networks, anomaly detection, dimensionality reduction, ensemble learning, clusterint, association rule analysis, regularization, https://blog.datasciencedojo.com/machine-learning-algorithms/
