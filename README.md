@@ -2,11 +2,25 @@
 
 # Table of content
 
+* [Cheatsheets](#cheatsheets)
 * [Repositories](#repositories)
 * [Courses](#courses)
 * [Videos](#videos)
 * [Tools](#tools)
 * [Misc](#misc)
+
+## Cheatsheets
+
+- "Machine Learning Cheatsheet". Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. https://ml-cheatsheet.readthedocs.io/en/latest/
+
+- `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+
+- `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
+
+- `stanford-cs-229-machine-learning` - VIP cheatsheets for Stanford's CS 229 Machine Learning. Web site, https://stanford.edu/~shervine/teaching/cs-229/, GitHub, https://github.com/afshinea/stanford-cs-229-machine-learning
+
+- `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
+
 
 ## Repositories
 
@@ -31,8 +45,6 @@
 - `awesome-machine-learning-operations` - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning. https://github.com/EthicalML/awesome-machine-learning-operations
 
 - `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
-
-- `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
@@ -102,8 +114,6 @@
 
 - `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
 
-- `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
-
 - `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 - `ml_techniques` - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest. [https://github.com/ShirinG/ml_techniques](https://github.com/ShirinG/ml_techniques)
@@ -138,8 +148,6 @@
 
 - `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
 
-- `stanford-cs-229-machine-learning` - VIP cheatsheets for Stanford's CS 229 Machine Learning. Web site, https://stanford.edu/~shervine/teaching/cs-229/, GitHub, https://github.com/afshinea/stanford-cs-229-machine-learning
-
 - `supervised-ML-case-studies-course` - Supervised machine learning case studies in R. https://supervised-ml-course.netlify.com/, https://github.com/juliasilge/supervised-ML-case-studies-course
 
 - `tensor2tensor` - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. https://github.com/tensorflow/tensor2tensor
@@ -153,8 +161,6 @@
 - `TensorFlow-LiveLessons` - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, [https://github.com/the-deep-learners/TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons)
 
 - `tf-tutorial` - A non-traditional TensorFlow tutorial, [https://github.com/dfm/tf-tutorial](https://github.com/dfm/tf-tutorial)
-
-- `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
 
 - `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
@@ -222,8 +228,6 @@
 - Google Colab Free GPU Tutorial. https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
 
 - Browse this awesome portal for State-of-the-Art #MachineLearning & #DeepLearning Algorithms — 1000+ leaderboards • 1100+ tasks • 1000+ datasets • 14,000+ papers with code: (link: https://paperswithcode.com/sota) https://paperswithcode.com/sota
-
-- "Machine Learning Cheatsheet". Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. https://ml-cheatsheet.readthedocs.io/en/latest/
 
 - "Interpretable Machine Learning" book by Christoph Molnar, A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/, https://leanpub.com/interpretable-machine-learning
 
