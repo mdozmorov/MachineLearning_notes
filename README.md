@@ -94,6 +94,8 @@
 
 - `hands-on-machine-learning-with-r` - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/hands-on-machine-learning-with-r
 
+- `homlr` - Supplementary material for Hands-On Machine Learning with R, an applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/homlr
+
 - `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
 - `image_classification_keras_tf` - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf)
