@@ -229,6 +229,8 @@
 
 ## Misc
 
+- Path to a free self-taught education in Computer Science. Links to courses, structured by topics. https://github.com/ossu/computer-science
+
 - Learn from ML experts at Google. https://ai.google/education
 
 - Google Colab Free GPU Tutorial. https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
