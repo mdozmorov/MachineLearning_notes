@@ -114,6 +114,8 @@
 
 - `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
 
+- `LatinR-2019-h2o-tutorial` - H2O Machine Learning Tutorial in R, https://github.com/ledell/LatinR-2019-h2o-tutorial
+
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
 - `machine_learning` - Machine learning in R notes by Dave Tang. [https://github.com/davetang/machine_learning](https://github.com/davetang/machine_learning). All Dave does is worth exploring here [https://github.com/davetang?tab=repositories](https://github.com/davetang?tab=repositories) and here [https://davetang.org/muse/](https://davetang.org/muse/)
