@@ -80,6 +80,8 @@
 
 - `DL_CSHSE_spring2018` - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, [https://github.com/aosokin/DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018), and video lectures [https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
+- `dlaicourse` - Notebooks for learning deep learning, Python, Jupyter notebooks. https://github.com/lmoroney/dlaicourse
+
 - `deep-review` - A collaboratively written review paper on deep learning, genomics, and precision medicine, lead by Dr. Casey Greene. Each issue on [https://github.com/greenelab/deep-review/issues](https://github.com/greenelab/deep-review/issues) corresponds to a paper on the subject. The final review is at [https://greenelab.github.io/deep-review/](https://greenelab.github.io/deep-review/) lists amazing resources and references on deep learning in genomics.
 
 - `DeepLearning-in-Bioinformatics` - For anyone who are eager to applying deep learning in bioinformatics! [https://github.com/Bjoux2/DeepLearning-in-Bioinformatics](https://github.com/Bjoux2/DeepLearning-in-Bioinformatics)
