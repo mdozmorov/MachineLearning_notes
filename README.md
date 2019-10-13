@@ -74,6 +74,8 @@
 
 - `deep-learning-with-r-notebooks` - R Markdown Notebooks for "Deep Learning with R", https://github.com/jjallaire/deep-learning-with-r-notebooks
 
+- `deep-learning-with-python-notebooks` - Jupyter notebooks for the code samples of the book "Deep Learning with Python", https://github.com/fchollet/deep-learning-with-python-notebooks
+
 - `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 
 - `DeepRL` - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL 
