@@ -96,6 +96,8 @@
 
 - `Grokking-Deep-Learning` - Python code for the "Grokking Deep Learning" book by Andrew Trask https://github.com/iamtrask/Grokking-Deep-Learning
 
+- `H2O-3` - The third version of H2OAI - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc. http://h2o.ai, https://github.com/h2oai/h2o-3
+
 - `hands-on-machine-learning-with-r` - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/hands-on-machine-learning-with-r
 
 - `homlr` - Supplementary material for Hands-On Machine Learning with R, an applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/homlr
