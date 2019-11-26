@@ -243,6 +243,8 @@
 
 ## Misc
 
+- Links on machine- and deep learning by Ming Tang, https://github.com/crazyhottommy/machine-learning-resource
+
 - 40+ Modern Tutorials Covering All Aspects of Machine Learning, https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning, [Source](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
 
 - Path to a free self-taught education in Computer Science. Links to courses, structured by topics. https://github.com/ossu/computer-science
