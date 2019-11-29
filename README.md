@@ -17,6 +17,8 @@
 
 - `Data-Science-Cheatsheet` - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet), https://github.com/ml874/Data-Science-Cheatsheet
 
+- `machine-learning-cheat-sheet` - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20). https://github.com/soulmachine/machine-learning-cheat-sheet
+
 - `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
 
 - `stanford-cs-229-machine-learning` - VIP cheatsheets for Stanford's CS 229 Machine Learning. Web site, https://stanford.edu/~shervine/teaching/cs-229/, GitHub, https://github.com/afshinea/stanford-cs-229-machine-learning
