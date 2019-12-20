@@ -32,6 +32,8 @@
 
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
 
+- `aml-london-2019` - Course materials for Applied Machine Learning course in 2019 in London, by Max Kuhn, https://github.com/topepo/aml-london-2019
+
 - `aml-training` - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn, https://github.com/tidymodels/aml-training
 
 - `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
