@@ -172,6 +172,8 @@
 
 - `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
 
+- `stat453-deep-learning-ss20` - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, https://github.com/rasbt/stat453-deep-learning-ss20
+
 - `supervised-ML-case-studies-course` - Supervised machine learning case studies in R. https://supervised-ml-course.netlify.com/, https://github.com/juliasilge/supervised-ML-case-studies-course
 
 - `tensor2tensor` - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. https://github.com/tensorflow/tensor2tensor
