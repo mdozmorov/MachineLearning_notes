@@ -174,6 +174,8 @@
 
 - `stat453-deep-learning-ss20` - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, https://github.com/rasbt/stat453-deep-learning-ss20
 
+- `stat479-machine-learning-fs19` - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, https://github.com/rasbt/stat479-machine-learning-fs19
+
 - `supervised-ML-case-studies-course` - Supervised machine learning case studies in R. https://supervised-ml-course.netlify.com/, https://github.com/juliasilge/supervised-ML-case-studies-course
 
 - `tensor2tensor` - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. https://github.com/tensorflow/tensor2tensor
