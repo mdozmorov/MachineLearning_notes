@@ -84,6 +84,8 @@
 
 - `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 
+- `DeepLearningProject` - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. Python. https://github.com/Spandan-Madan/DeepLearningProject
+
 - `DeepRL` - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL 
 
 - `DL_CSHSE_spring2018` - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, [https://github.com/aosokin/DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018), and video lectures [https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
