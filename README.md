@@ -134,6 +134,8 @@
 
 - `LatinR-2019-h2o-tutorial` - H2O Machine Learning Tutorial in R, https://github.com/ledell/LatinR-2019-h2o-tutorial
 
+- `lecture_i2ml` - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), https://github.com/compstat-lmu/lecture_i2ml
+
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
 - `machine_learning` - Machine learning in R notes by Dave Tang. [https://github.com/davetang/machine_learning](https://github.com/davetang/machine_learning). All Dave does is worth exploring here [https://github.com/davetang?tab=repositories](https://github.com/davetang?tab=repositories) and here [https://davetang.org/muse/](https://davetang.org/muse/)
