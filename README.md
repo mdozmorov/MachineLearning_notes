@@ -134,7 +134,7 @@
 
 - `LatinR-2019-h2o-tutorial` - H2O Machine Learning Tutorial in R, https://github.com/ledell/LatinR-2019-h2o-tutorial
 
-- `lecture_i2ml` - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), https://github.com/compstat-lmu/lecture_i2ml
+- `lecture_i2ml` - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python, https://github.com/compstat-lmu/lecture_i2ml
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
@@ -203,6 +203,8 @@
 
 
 ## Courses
+
+- The Best Courses to Learn Data Science in 2020. Python, R, Data Science, Machine learning. https://www.courseduck.com/programming/data-science/
 
 - Step-by-step guides to learn Applied Machine Learning, https://machinelearningmastery.com/start-here/
 
