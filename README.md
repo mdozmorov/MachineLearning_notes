@@ -218,6 +218,8 @@
 
 ## Video
 
+- [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
+
 - [Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016. Video course of short lectures introducing theoretical foundations of machine learning. [https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 
 - Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1. Includes code and video tutorial. [https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
