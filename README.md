@@ -204,6 +204,8 @@
 
 ## Courses
 
+- Dive into Deep Learning: an interactive deep learning book on Jupyter notebooks, using the NumPy interface. https://d2l.ai, https://github.com/d2l-ai/d2l-en
+
 - The Best Courses to Learn Data Science in 2020. Python, R, Data Science, Machine learning. https://www.courseduck.com/programming/data-science/
 
 - Step-by-step guides to learn Applied Machine Learning, https://machinelearningmastery.com/start-here/
