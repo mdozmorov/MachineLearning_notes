@@ -1,5 +1,7 @@
 # Machine learning and deep learning resources
 
+Each category lists online resources first, followed by links to GitHub repositories. Hold "Ctrl/Command" while clicking on a link to open it in a new window.
+
 # Table of content
 
 * [Cheatsheets](#cheatsheets)
@@ -11,20 +13,17 @@
 
 ## Cheatsheets
 
-- "Machine Learning Cheatsheet". Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. https://ml-cheatsheet.readthedocs.io/en/latest/
+- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
 
-- `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+- [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
 
-- `Data-Science-Cheatsheet` - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet), https://github.com/ml874/Data-Science-Cheatsheet
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
 
-- `machine-learning-cheat-sheet` - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20). https://github.com/soulmachine/machine-learning-cheat-sheet
+- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20)
 
-- `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
+- [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet) - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. [Online version](https://remicnrd.github.io./the-machine-learning-cheatsheet/)
 
-- `stanford-cs-229-machine-learning` - VIP cheatsheets for Stanford's CS 229 Machine Learning. Web site, https://stanford.edu/~shervine/teaching/cs-229/, GitHub, https://github.com/afshinea/stanford-cs-229-machine-learning
-
-- `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
-
+- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning. [Online version](https://stanford.edu/~shervine/teaching/cs-229/)
 
 ## Repositories
 
