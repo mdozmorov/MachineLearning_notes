@@ -7,7 +7,7 @@ Each category lists general online resources followed by links to GitHub reposit
 * [Cheatsheets](#cheatsheets)
 * [Machine learning](#machine-learning)
   * [ML Books](#ml-books)
-  * [ML Courses & Tutorials](#ml-courses-tutorials)
+  * [ML Courses & Tutorials](#ml-courses--tutorials)
   * [ML Videos](#ml-videos)
   * [ML Papers](#ml-papers)
   * [ML Misc](#ml-misc)
