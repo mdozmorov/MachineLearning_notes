@@ -1,303 +1,267 @@
-# Machine learning and deep learning resources
+# Machine Learning and Deep Learning resources
 
-Each category lists online resources first, followed by links to GitHub repositories. Hold "Ctrl/Command" while clicking on a link to open it in a new window.
+Each category lists general online resources followed by links to GitHub repositories. Hold "Ctrl/Command" while clicking on a link to open it in a new window.
 
 # Table of content
 
 * [Cheatsheets](#cheatsheets)
-* [Repositories](#repositories)
-* [Courses](#courses)
-* [Videos](#videos)
-* [Tools](#tools)
-* [Misc](#misc)
+* [Machine learning](#machine-learning)
+  * [ML Books](#ml-books)
+  * [ML Courses & Tutorials](#ml-courses-tutorials)
+  * [ML Videos](#ml-videos)
+  * [ML Papers](#ml-papers)
+  * [ML Misc](#ml-misc)
+* [Deep Learning](#deep-learning)
+  * [DL Books](#dl-books)
+  * [DL Courses & Tutorials](#dl-courses-tutorials)
+  * [DL Videos](#dl-videos)
+  * [DL Papers](#dl-papers)
+  * [DL Tools](#dl-tools)
+  * [DL Misc](#dl-misc)
 
-## Cheatsheets
+# Machine learning
 
-- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 
-- [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources
 
-- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+- [awesome-machine-learning-operations](https://github.com/EthicalML/awesome-machine-learning-operations) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
 
-- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
 
-- [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet) - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. [Online version](https://remicnrd.github.io./the-machine-learning-cheatsheet/)
+- [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
 
-- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning. [Online version](https://stanford.edu/~shervine/teaching/cs-229/)
 
-## Repositories
+## ML Books
 
-- `100-Days-Of-ML-Code` - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos. [https://github.com/Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [ciml](https://github.com/hal3/ciml) - book "A Course in Machine Learning". [Online version](http://ciml.info/)
 
-- `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) book by Christoph Molnar, A Guide for Making Black Box Models Explainable. [LearnPub](https://leanpub.com/interpretable-machine-learning)
 
-- `aml-london-2019` - Course materials for Applied Machine Learning course in 2019 in London, by Max Kuhn, https://github.com/topepo/aml-london-2019
+- [Introduction to Machine Learning](http://robotics.stanford.edu/people/nilsson/mlbook.html) book by Nils Nilsson, free PDF
 
-- `aml-training` - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn, https://github.com/tidymodels/aml-training
+- [hands-on-machine-learning-with-r](https://github.com/koalaverse/hands-on-machine-learning-with-r) - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. [Supplementary material](https://github.com/koalaverse/homlr), [Online version](https://bradleyboehmke.github.io/HOML/)
 
-- `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
+- [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. 
 
-- `awesome-decision-tree-papers` - A collection of research papers on decision, classification and regression trees with implementations. https://github.com/benedekrozemberczki/awesome-decision-tree-papers
+- [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - Code accompanying the book "[Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)"
 
-- `awesome-deep-learning` - A curated list of awesome Deep Learning tutorials, projects and communities. [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [rtemis](https://github.com/egenn/rtemis) - Advanced Machine Learning and Visualization in R. [Book](https://rtemis.netlify.com/)
 
-- `awesome-deep-learning-papers` - the most cited deep learning papers, https://github.com/terryum/awesome-deep-learning-papers
 
-- `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-- `awesome-machine-learning-interpretability` - A curated list of awesome machine learning interpretability resources. [https://github.com/jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+## ML Courses & Tutorials
 
-- `awesome-machine-learning-operations` - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning. https://github.com/EthicalML/awesome-machine-learning-operations
+- [40+ Modern Tutorials Covering All Aspects of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning), [Tweet](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
 
-- `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos.
 
-- `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
+- [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/) by Shirin Glander. [More in her blog posts, twitter etc.](https://shirinsplayground.netlify.com/)
 
-- `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
-    - `fastai` - The fastai deep learning library, plus lessons and and tutorials. https://github.com/fastai/fastai. 
-    - Introduction to Machine Learning for Coders, http://course18.fast.ai/ml. Video: Introduction to Machine Learning for Coders, https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96
-    - Video: Practical Deep Learning For Coders 1, https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM
-    - Video: Cutting Edge Deep Learning for Coders 2, https://www.youtube.com/watch?v=Z0ssNAbe81M&list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia
-    - Part 2: Deep Learning from the Foundations, https://course.fast.ai/part2
-    - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course, https://www.fast.ai/2017/07/17/num-lin-alg/, GitHub: https://github.com/fastai/numerical-linear-algebra
+- [aml-london-2019](https://github.com/topepo/aml-london-2019) - Course materials for Applied Machine Learning course in 2019 in London, by Max Kuhn
 
-- `cs-video-courses` - List of Computer Science courses with video lectures. https://github.com/Developer-Y/cs-video-courses
+- [aml-training](https://github.com/tidymodels/aml-training) - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn
 
-- `DALEX` - DALEX: Descriptive mAchine Learning EXplanations. In R. Very well-organized material on machine learning in R, with links to many texts and tutorials. [https://github.com/pbiecek/DALEX](https://github.com/pbiecek/DALEX)
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures
 
-- `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Randy Olson's data analysis and machine learning projects
 
-- `Deep_learning_examples` - Examples of using deep learning in Bioinformatics. https://github.com/lykaust15/Deep_learning_examples. Paper: Min, Seonwoo, Byunghan Lee, and Sungroh Yoon. “Deep Learning in Bioinformatics.” Briefings in Bioinformatics, July 29, 2016, bbw068. https://doi.org/10.1093/bib/bbw068.
+- [google-interview-university]((https://github.com/jwasham/google-interview-university)) - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer
 
-- `deep_learning_papers` - A place to collect papers that are related to deep learning and computational biology, by Harold Pimentel. https://github.com/pimentel/deep_learning_papers
+- [H2O-3](https://github.com/h2oai/h2o-3) - The third version of H2OAI - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 
-- `deep-learning-genomics-primer` - Deep Learning Genomics Primer, [https://github.com/abidlabs/deep-learning-genomics-primer](https://github.com/abidlabs/deep-learning-genomics-primer)
+- [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer
 
-- `Deep-Learning-Papers-Reading-Roadmap` - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+- [Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R) - Workshop (6 hours): preprocessing, cross-validation, lasso, decision trees, random forest, xgboost, superlearner ensembles
 
-- `deep-learning-with-r-notebooks` - R Markdown Notebooks for "Deep Learning with R", https://github.com/jjallaire/deep-learning-with-r-notebooks
+- [LatinR-2019-h2o-tutorial](https://github.com/ledell/LatinR-2019-h2o-tutorial) - H2O Machine Learning Tutorial in R
 
-- `deep-learning-with-python-notebooks` - Jupyter notebooks for the code samples of the book "Deep Learning with Python", https://github.com/fchollet/deep-learning-with-python-notebooks
+- [lecture_i2ml](https://github.com/compstat-lmu/lecture_i2ml) - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python
 
-- `deeplearning-biology` - A list of papers on deep learning implementations in biology, https://github.com/hussius/deeplearning-biology
+- [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
 
-- `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning course mlcourse.ai, 2018 English version. [Online version](https://mlcourse.ai), [Video](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 
-- `DeepLearningProject` - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. Python. https://github.com/Spandan-Madan/DeepLearningProject
+- [MTH594_MachineLearning](https://github.com/diefimov/MTH594_MachineLearning) - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)
 
-- `DeepRL` - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL 
+- [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 
-- `DL_CSHSE_spring2018` - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, [https://github.com/aosokin/DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018), and video lectures [https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
+- [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R. [Book](https://supervised-ml-course.netlify.com/)
 
-- `dlaicourse` - Notebooks for learning deep learning, Python, Jupyter notebooks. https://github.com/lmoroney/dlaicourse
+- [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
 
-- `deep-review` - A collaboratively written review paper on deep learning, genomics, and precision medicine, lead by Dr. Casey Greene. Each issue on [https://github.com/greenelab/deep-review/issues](https://github.com/greenelab/deep-review/issues) corresponds to a paper on the subject. The final review is at [https://greenelab.github.io/deep-review/](https://greenelab.github.io/deep-review/) lists amazing resources and references on deep learning in genomics.
 
-- `DeepLearning-in-Bioinformatics` - For anyone who are eager to applying deep learning in bioinformatics! [https://github.com/Bjoux2/DeepLearning-in-Bioinformatics](https://github.com/Bjoux2/DeepLearning-in-Bioinformatics)
+## ML Videos
 
-- `easy-tensorflow` - Simple and comprehensive tutorials in TensorFlow. GitHub, https://github.com/easy-tensorflow/easy-tensorflow, and the web site http://www.easy-tensorflow.com/
+- [Learning from data](https://work.caltech.edu/lectures.html#lectures) - Statistical learning theory course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. Videos, slides
 
-- `Fundamentals-of-Deep-Learning-Book` - Code companion to the O'Reilly "Fundamentals of Deep Learning" book, https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book
+- [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
 
-- `janggu` - Janggu is a python package that facilitates deep learning in the context of genomics. FASTA/BAM/BIGWIG/BED/GFF as input, trained neural network for classification as an output. [https://github.com/BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu)
+## ML Papers
 
-- `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
+- Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. [Video lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
 
-- `Grokking-Deep-Learning` - Python code for the "Grokking Deep Learning" book by Andrew Trask https://github.com/iamtrask/Grokking-Deep-Learning
 
-- `H2O-3` - The third version of H2OAI - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc. http://h2o.ai, https://github.com/h2oai/h2o-3
 
-- `hands-on-machine-learning-with-r` - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/hands-on-machine-learning-with-r
+## ML Misc
 
-- `homlr` - Supplementary material for Hands-On Machine Learning with R, an applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/homlr
+- [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks]
 
-- `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+- [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations
 
-- `image_classification_keras_tf` - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf)
+- [lares](https://github.com/laresbernardo/lares) - R Library for Analytics and Machine Learning
 
-- `Interactive_Tools` - Interactive Tools for Machine Learning, Deep Learning and Math. https://github.com/Machine-Learning-Tokyo/Interactive_Tools
+- [ml_techniques](https://github.com/ShirinG/ml_techniques) - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest, by Shirin Glander
 
-- `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms
 
-- `keras-workshop` - Data and scripts for keras course, [https://github.com/MangoTheCat/keras-workshop](https://github.com/MangoTheCat/keras-workshop)
+- [Machine- and deep learning notes by Ming Tang](https://github.com/crazyhottommy/machine-learning-resource)
 
-- `lares` - R Library for Analytics and Machine Learning, [https://github.com/laresbernardo/lares](https://github.com/laresbernardo/lares)
+- [Gradient Boosting Essentials in R Using XGBOOST](http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/)
 
-- `Machine-learning-for-proteins` - Listing of papers about machine learning for proteins. https://github.com/yangkky/Machine-learning-for-proteins
 
-- `machine-learning-for-software-engineers` - A complete daily plan for studying to become a machine learning engineer. https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
-- `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
+# Deep Learning
 
-- `lares` - an R Package for Analytics and Machine Learning. https://github.com/laresbernardo/lares
+- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 
-- `LatinR-2019-h2o-tutorial` - H2O Machine Learning Tutorial in R, https://github.com/ledell/LatinR-2019-h2o-tutorial
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
 
-- `lecture_i2ml` - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python, https://github.com/compstat-lmu/lecture_i2ml
+- [DeepRL](https://github.com/smc77/DeepRL ) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
 
-- `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
+## DL Books
 
-- `machine_learning` - Machine learning in R notes by Dave Tang. [https://github.com/davetang/machine_learning](https://github.com/davetang/machine_learning). All Dave does is worth exploring here [https://github.com/davetang?tab=repositories](https://github.com/davetang?tab=repositories) and here [https://davetang.org/muse/](https://davetang.org/muse/)
+- [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
-- `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
+- [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
-- `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
-- `ml_techniques` - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest. [https://github.com/ShirinG/ml_techniques](https://github.com/ShirinG/ml_techniques)
+- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" book
 
-- `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - "Python Machine Learning (3rd Ed.) Code Repository" book by Sebastian Raschka, iPython notebooks
 
-- `mlcourse_open` - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. https://github.com/Yorko/mlcourse_open, text (eng) https://medium.com/open-machine-learning-course, video https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+- [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) - Python code for Sutton & Barto's book "[Reinforcement Learning: An Introduction (2nd Edition)](http://incompleteideas.net/book/the-book-2nd.html)"
 
-- `mlcourse.ai` - Open Machine Learning course mlcourse.ai, 2018 English version. GitHub, https://mlcourse.ai https://github.com/Yorko/mlcourse.ai, web-site, https://mlcourse.ai/, video lectures, https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX
+- [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) paper by Terence Parr and Jeremy Howard
 
-- `mlr` - Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
-- `MTH594_MachineLearning` - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah). https://github.com/diefimov/MTH594_MachineLearning
+## DL Courses & Tutorials
 
-- `neural-networks-and-deep-learning` - Code samples for "Neural Networks and Deep Learning" book available at [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/), code at [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
 
-- `neuralart_tensorflow` - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow. https://github.com/ckmarkoh/neuralart_tensorflow
+- [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
-- `nn-from-scratch` - Implementing a Neural Network from Scratch – An Introduction. [http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) and [https://github.com/dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)
+- [Step-by-step guides to learn Applied Machine Learning](https://machinelearningmastery.com/start-here/) - Foundations, beginner and intermediate machine learning, deep learning
 
-- `pathology_learning` - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides. [https://github.com/millett/pathology_learning](https://github.com/millett/pathology_learning)
+- [Stanford Computer Science courses CD221/229/230](https://stanford.edu/~shervine/teaching/cs-221/) ― Artificial Intelligence, machine learnint, deep learning
 
-- `pattern_classification` - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks [https://github.com/rasbt/pattern_classification](https://github.com/rasbt/pattern_classification)
+- [Machine Learning courses by Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) - CD4780/CS5780 Machine Learning for Intelligent Systems, CS6780 Advanced Machine Learning, and more. Videos and slides
 
-- `Practical_DL` - Deep learning course, Python notebooks, PDF lectures, videos. https://github.com/yandexdataschool/Practical_DL
+- [Machine and deep learning courses by Google](https://ai.google/education)
 
-- `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
+- [ML Resources](https://sgfin.github.io/learning-resources/) - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. 
 
-- `reinforcement-learning-an-introduction` - Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition). The book, [http://incompleteideas.net/book/the-book-2nd.html](http://incompleteideas.net/book/the-book-2nd.html), and the code, [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+- [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. Python
 
-- `rtemis` - Advanced Machine Learning and Visualization in R. Documentation, https://rtemis.netlify.com/, and the R package, https://github.com/egenn/rtemis
+- [d2l-en](https://github.com/d2l-ai/d2l-en) - Dive into Deep Learning: an interactive deep learning book on Jupyter notebooks, using the NumPy interface. [Online version](https://d2l.ai) 
 
-- `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
+- [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
-- `stat453-deep-learning-ss20` - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, https://github.com/rasbt/stat453-deep-learning-ss20
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks
 
-- `stat479-machine-learning-fs19` - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, https://github.com/rasbt/stat479-machine-learning-fs19
+- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow. [Online version](http://www.easy-tensorflow.com/)
 
-- `supervised-ML-case-studies-course` - Supervised machine learning case studies in R. https://supervised-ml-course.netlify.com/, https://github.com/juliasilge/supervised-ML-case-studies-course
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
-- `tensor2tensor` - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. https://github.com/tensorflow/tensor2tensor
+- [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
 
-- `Tensorflow-101` - TensorFlow tutorials with data. [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
+- [keras-workshop](https://github.com/MangoTheCat/keras-workshop) - Keras R workshop
 
-- `TensorFlow-Course` - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. [https://github.com/open-source-for-science/TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
+- [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch – An Introduction. [Notes](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
-- `TensorFlow-Examples` - TensorFlow Tutorial and Examples for Beginners with Latest APIs. [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+- [Practical_DL](https://github.com/yandexdataschool/Practical_DL) - Deep learning course, Python notebooks, PDF lectures, videos
 
-- `TensorFlow-LiveLessons` - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, [https://github.com/the-deep-learners/TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons)
+- [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, videos
 
-- `tf-tutorial` - A non-traditional TensorFlow tutorial, [https://github.com/dfm/tf-tutorial](https://github.com/dfm/tf-tutorial)
+- [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
 
-- `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
+- [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - Tensorflow Tutorials using Jupyter Notebook with data
 
-- `Webinar_ML_for_disease` - Presentation slides and code for webinar: Building meaningful machine learning models for disease prediction, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/Webinar_ML_for_disease](https://github.com/ShirinG/Webinar_ML_for_disease)
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots
 
-- `workshop_keras_tensorflow_r` - Workshop: Building Neural Networks with Keras and TensorFlow in R, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/workshop_keras_tensorflow_r](https://github.com/ShirinG/workshop_keras_tensorflow_r)
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
 
+- [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks
 
-
-## Courses
-
-- Dive into Deep Learning: an interactive deep learning book on Jupyter notebooks, using the NumPy interface. https://d2l.ai, https://github.com/d2l-ai/d2l-en
-
-- The Best Courses to Learn Data Science in 2020. Python, R, Data Science, Machine learning. https://www.courseduck.com/programming/data-science/
-
-- Step-by-step guides to learn Applied Machine Learning, https://machinelearningmastery.com/start-here/
-
-- CS 221 ― Artificial Intelligence. https://stanford.edu/~shervine/teaching/cs-221/
-
-- "Machine Learning" course CD4780/CS5780 by Thorsten Joachims, Cornell Univerisity. Videos and slides. [http://machine-learning-course.joachims.org/(http://machine-learning-course.joachims.org/
-)]
+## DL Videos
 
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
 
+- [Coursera Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) - Video course of short lectures introducing theoretical foundations of machine learning
 
-## Video
+- [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Includes code and video tutorial
 
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
-- [Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016. Video course of short lectures introducing theoretical foundations of machine learning. [https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+- [Undergraduate machine learning at UBC 2012](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) by Nando de Freitas. [Slides](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
-- Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1. Includes code and video tutorial. [https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+ - [Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) by Nando de Freitas. [Slides](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
-- "Undergraduate machine learning at UBC 2012" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) and slides, [http://www.cs.ubc.ca/~nando/340-2012/lectures.php](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
+- [Heroes of Deep Learning, Interviews](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR) by Andrew Ng. 
 
- - "Deep learning at Oxford 2015" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and slides, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-
-- "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
-
-- Statistical Machine Learning: Spring 2017, by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University. [http://www.stat.cmu.edu/~ryantibs/statml/](http://www.stat.cmu.edu/~ryantibs/statml/)
-
-- `DATASCIENCE.COM` - many machine learning/data science resources, videos. [https://datascience.hubs.vidyard.com/](https://datascience.hubs.vidyard.com/)
-
-- "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
-
-- "Advanced Deep Learning & Reinforcement Learning", a video-course on deep RL taught at @UCL by DeepMind researchers, https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
-
-## Tools
-
-- `Janggu` - deep learning interface to genomic data (FASTA, BAM, BigWig, BED, GFF). Numpy-like Bioseq and Cover objects accessable by Keras. Includes model evaluation and interpretation features. https://github.com/BIMSBbioinfo/janggu, https://pypi.org/project/janggu/, https://janggu.readthedocs.io/en/latest/
-    - Kopp, Wolfgang, Remo Monti, Annalaura Tamburrini, Uwe Ohler, and Altuna Akalin. “Janggu: Deep Learning for Genomics,” n.d., 13.
-
-- `maui` - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. https://github.com/bimsbbioinfo/maui
-    - Ronen, Jonathan, Sikander Hayat, and Altuna Akalin. “Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning,” November 12, 2018. https://doi.org/10.1101/464743.
-
-- `Ludwig` is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. http://ludwig.ai, https://github.com/uber/ludwig
-
-- "Gradient Boosting Essentials in R Using XGBOOST", http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/
-
-- `PennAI` - AI-Driven Data Science, entry-level machine learning interface for non-experts. https://github.com/EpistasisLab/pennai
-    - Olson, Randal S., Moshe Sipper, William La Cava, Sharon Tartarone, Steven Vitale, Weixuan Fu, Patryk Orzechowski, Ryan J. Urbanowicz, John H. Holmes, and Jason H. Moore. “A System for Accessible Artificial Intelligence.” ArXiv:1705.00594 [Cs], May 1, 2017. http://arxiv.org/abs/1705.00594.
-
-- `TPOT` - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. http://epistasislab.github.io/tpot/, https://github.com/EpistasisLab/tpot
-    - Le, Trang T, Weixuan Fu, and Jason H Moore. “Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector.” Edited by Janet Kelso. Bioinformatics, June 4, 2019. https://doi.org/10.1093/bioinformatics/btz470.
+- [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
 
-## Misc
+## DL Papers
 
-- Links on machine- and deep learning by Ming Tang, https://github.com/crazyhottommy/machine-learning-resource
+- Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). https://github.com/abidlabs/deep-learning-genomics-primer
 
-- 40+ Modern Tutorials Covering All Aspects of Machine Learning, https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning, [Source](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
+- [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
-- Path to a free self-taught education in Computer Science. Links to courses, structured by topics. https://github.com/ossu/computer-science
+- [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. Paper: Min, Seonwoo, Byunghan Lee, and Sungroh Yoon. “Deep Learning in Bioinformatics.” Briefings in Bioinformatics, July 29, 2016, bbw068. https://doi.org/10.1093/bib/bbw068.
 
-- Learn from ML experts at Google. https://ai.google/education
+- [deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology, by Harold Pimentel
 
-- Google Colab Free GPU Tutorial. https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
-- Browse this awesome portal for State-of-the-Art #MachineLearning & #DeepLearning Algorithms — 1000+ leaderboards • 1100+ tasks • 1000+ datasets • 14,000+ papers with code: (link: https://paperswithcode.com/sota) https://paperswithcode.com/sota
+- [deeplearning-biology](https://github.com/hussius/deeplearning-biology) - A list of papers on deep learning implementations in biology
 
-- "Interpretable Machine Learning" book by Christoph Molnar, A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/, https://leanpub.com/interpretable-machine-learning
+- [deep-review](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 
-- "Three Must-Own Books for Deep Learning Practitioners" by Jason Brownlee, https://machinelearningmastery.com/books-for-deep-learning-practitioners/
+- [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - List of papers about machine learning for proteins
 
-- "Code for Workshop: Introduction to Machine Learning with R" by Shirin Glander. [https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/). More in her blog posts, twitter etc. [https://shirinsplayground.netlify.com/](https://shirinsplayground.netlify.com/)
+- [Key Papers in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/spinningup/keypapers.html),  [Twitter](https://twitter.com/strnr/status/1110172093155627008?s=03)
 
-- "ML Resources" - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. https://sgfin.github.io/learning-resources/
 
-- "TensorFlow Tutorial For Beginners" detailed and illustrated tutorial. https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+## DL Tools
 
-- Colah's blog, articles on neural networks, visualization [https://colah.github.io/](https://colah.github.io/)
+- [Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math. Play with deep neural network in browser
 
-- "Neural networks and deep learning" book [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) and code [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans [http://keras.io/](http://keras.io/)
 
-- "Machine Learning Bookshelf" - list of gold standard books for statistics and machine learning, with summary. [http://ghyslain.me/bookshelf](http://ghyslain.me/bookshelf)
+- [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
 
-- "Introduction to Machine Learning" book by Nils Nilsson, free PDF. [http://robotics.stanford.edu/people/nilsson/mlbook.html](http://robotics.stanford.edu/people/nilsson/mlbook.html)
+- [pathology_learning](https://github.com/millett/pathology_learning) - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides
 
-- "Tutorial Slides by Andrew Moore", lecture slides on diverse ML topics. [https://www.autonlab.org/tutorials](https://www.autonlab.org/tutorials)
+- [ruta](https://github.com/fdavidcl/ruta) - Unsupervised Deep Architechtures in R, autoencoders. Requires Keras and TensorFlow. [Book](https://ruta.software/)
 
-- An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+- [tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research
 
-- "The Matrix Calculus You Need For Deep Learning" paper by Terence Parr and Jeremy Howard. [http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+- [Janggu](https://github.com/BIMSBbioinfo/janggu) - deep learning interface to genomic data (FASTA, BAM, BigWig, BED, GFF). Numpy-like Bioseq and Cover objects accessable by Keras. Includes model evaluation and interpretation features. [Pypi](https://pypi.org/project/janggu/), [Docs](https://janggu.readthedocs.io/en/latest/), [Paper: Janggu - Deep learning for genomics](https://www.biorxiv.org/content/10.1101/700450v2)
 
-- Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. - Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. Video lectures at [https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+- [maui](https://github.com/bimsbbioinfo/maui) - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. [Paper: Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning](https://www.life-science-alliance.org/content/2/6/e201900517)
 
-- Key Papers in Deep Reinforcement Learning, https://spinningup.openai.com/en/latest/spinningup/keypapers.html. [source](https://twitter.com/strnr/status/1110172093155627008?s=03)
+- [Ludwig](http://ludwig.ai) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. [GitHub](https://github.com/uber/ludwig)
 
-- 101 Machine Learning Algorithms - Brief description and R/Python examples of algorithms, categorized into several categories: classification, regression, neural networks, anomaly detection, dimensionality reduction, ensemble learning, clusterint, association rule analysis, regularization, https://blog.datasciencedojo.com/machine-learning-algorithms/
+- [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [Paper: A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
+
+- [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
+
+
+## DL Misc
+
+- [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+
+
+
