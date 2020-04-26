@@ -231,11 +231,11 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Papers
 
-- Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). https://github.com/abidlabs/deep-learning-genomics-primer
+- [Deep learning in genomics overview](https://github.com/abidlabs/deep-learning-genomics-primer) (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more)
 
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
-- [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. Paper: Min, Seonwoo, Byunghan Lee, and Sungroh Yoon. “Deep Learning in Bioinformatics.” Briefings in Bioinformatics, July 29, 2016, bbw068. https://doi.org/10.1093/bib/bbw068.
+- [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Paper: Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
 
 - [deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology, by Harold Pimentel
 
@@ -249,6 +249,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Key Papers in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/spinningup/keypapers.html),  [Twitter](https://twitter.com/strnr/status/1110172093155627008?s=03)
 
+[Paper: LeCun, Bengio, and Hinton, “Deep Learning.”](https://www.nature.com/articles/nature14539) - Classical deep learning review. Areas of application, historical development, principles of supervised learning, stochastic gradient descent (Figure 1 - illustration of forward and backpropagation, with equations), convolutional neural networks for image recognition and in other areas, language processing, recurrent neural networks, LSTMs
 
 ## DL Tools
 
