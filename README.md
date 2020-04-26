@@ -19,6 +19,20 @@ Each category lists general online resources followed by links to GitHub reposit
   * [DL Tools](#dl-tools)
   * [DL Misc](#dl-misc)
 
+## Cheatsheets
+
+- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
+
+- [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
+
+- [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
+
+- [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20)
+
+- [ml_cheatsheet](https://github.com/remicnrd/ml_cheatsheet) - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. [Online version](https://remicnrd.github.io./the-machine-learning-cheatsheet/)
+
+- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning. [Online version](https://stanford.edu/~shervine/teaching/cs-229/)
+
 # Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
