@@ -151,6 +151,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
+- [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html). [Introduction to Deep Learning course](https://courses.d2l.ai/berkeley-stat-157/index.html) and [videos](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" book
