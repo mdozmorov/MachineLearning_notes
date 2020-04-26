@@ -13,7 +13,7 @@ Each category lists general online resources followed by links to GitHub reposit
   * [ML Misc](#ml-misc)
 * [Deep Learning](#deep-learning)
   * [DL Books](#dl-books)
-  * [DL Courses & Tutorials](#dl-courses-tutorials)
+  * [DL Courses & Tutorials](#dl-courses--tutorials)
   * [DL Videos](#dl-videos)
   * [DL Papers](#dl-papers)
   * [DL Tools](#dl-tools)
