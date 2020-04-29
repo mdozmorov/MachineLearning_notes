@@ -253,6 +253,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 [Paper: LeCun, Bengio, and Hinton, “Deep Learning.”](https://www.nature.com/articles/nature14539) - Classical deep learning review. Areas of application, historical development, principles of supervised learning, stochastic gradient descent (Figure 1 - illustration of forward and backpropagation, with equations), convolutional neural networks for image recognition and in other areas, language processing, recurrent neural networks, LSTMs
 
+[Paper: Vincent et al., “Extracting and Composing Robust Features with Denoising Autoencoders.”](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) - Denoising autoencoder paper, statistical formulations
+
 ## DL Tools
 
 - [Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math. Play with deep neural network in browser
