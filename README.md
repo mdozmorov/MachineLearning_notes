@@ -267,6 +267,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
 
+- [MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - neural artistic style transfer using MXNet. PyTorch and Torch implementations available
+
 - [pathology_learning](https://github.com/millett/pathology_learning) - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides
 
 - [ruta](https://github.com/fdavidcl/ruta) - Unsupervised Deep Architechtures in R, autoencoders. Requires Keras and TensorFlow. [Book](https://ruta.software/)
