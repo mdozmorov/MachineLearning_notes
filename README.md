@@ -168,7 +168,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
 
-- [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [videos](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW), [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157)
+- [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157)
 
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
@@ -219,6 +219,8 @@ Each category lists general online resources followed by links to GitHub reposit
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
 
 - [Coursera Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) - Video course of short lectures introducing theoretical foundations of machine learning
+
+- [Introduction to Deep Learning course, D2L, Berkeley STAT 157, video lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
 - [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Includes code and video tutorial
 
