@@ -279,6 +279,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Ludwig](http://ludwig.ai) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. [GitHub](https://github.com/uber/ludwig)
 
+- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+
 - [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [Paper: A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
