@@ -259,6 +259,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 [Paper: Vincent et al., “Extracting and Composing Robust Features with Denoising Autoencoders.”](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) - Denoising autoencoder paper, statistical formulations
 
+[Paper: Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
+
 ## DL Tools
 
 - [Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math. Play with deep neural network in browser
