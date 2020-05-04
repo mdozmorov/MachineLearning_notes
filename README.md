@@ -292,6 +292,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Misc
 
+- [Collections of GitHub repositories of deep learning projects, Analytics Vidhya](https://www.analyticsvidhya.com/blog/category/github/?utm_source=blog&utm_medium=6-open-source-data-science-projects-try-home)
+
 - [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
 - [How to use R with Google Colaboratory?](https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory), direct link to [a new R-notebook](https://colab.research.google.com/notebook#create=true&language=r)
