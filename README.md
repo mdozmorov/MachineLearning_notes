@@ -17,6 +17,7 @@ Each category lists general online resources followed by links to GitHub reposit
   * [DL Videos](#dl-videos)
   * [DL Papers](#dl-papers)
   * [DL Tools](#dl-tools)
+    * [DL models](#dl-models)
   * [DL Misc](#dl-misc)
 
 ## Cheatsheets
@@ -290,6 +291,16 @@ Each category lists general online resources followed by links to GitHub reposit
 - [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [Paper: A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
+
+### DL models
+
+- [PyTorch model zoos](https://pytorch.org/docs/stable/torchvision/models.html)
+
+- [Keras model zoos](https://keras.io/applications/)
+
+- [Tensorflow model zoos](https://github.com/tensorflow/models)
+
+- [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Paper: Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
 
 
 ## DL Misc
