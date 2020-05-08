@@ -265,6 +265,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ### DL Papers Genomics
 
+- [Paper: Eraslan et al., “Deep Learning.”](https://www.nature.com/articles/s41576-019-0122-6) - Deep learning in genomics review. Big data description, evolution of machine learning into deep learning with the help of GPUs. Supervised learning - Four major classes of neural networks (fully connected, convolutional, recurrent and graph convolutional). Two unsupervised learning techniques, autoencoders and generative adversarial networks (GANs). From basic logistic regression to each network architecture illustrated on figures, theory descriptions, examples of applications in genomics. Transfer learning, model zoos, interpretation/feature importance.
+
 - [Paper: Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
 
 
