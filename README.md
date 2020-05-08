@@ -16,6 +16,7 @@ Each category lists general online resources followed by links to GitHub reposit
   * [DL Courses & Tutorials](#dl-courses--tutorials)
   * [DL Videos](#dl-videos)
   * [DL Papers](#dl-papers)
+    * [DL Papers Genomics](#dl-papers-genomics)
   * [DL Tools](#dl-tools)
     * [DL models](#dl-models)
   * [DL Misc](#dl-misc)
@@ -258,11 +259,15 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Paper: LeCun, Bengio, and Hinton, “Deep Learning.”](https://www.nature.com/articles/nature14539) - Classical deep learning review. Areas of application, historical development, principles of supervised learning, stochastic gradient descent (Figure 1 - illustration of forward and backpropagation, with equations), convolutional neural networks for image recognition and in other areas, language processing, recurrent neural networks, LSTMs
 
-- [Paper: Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
-
 - [Paper: Vincent et al., “Extracting and Composing Robust Features with Denoising Autoencoders.”](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) - Denoising autoencoder paper, statistical formulations
 
 - [Paper: Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
+
+### DL Papers Genomics
+
+- [Paper: Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
+
+
 
 ## DL Tools
 
