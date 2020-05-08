@@ -271,6 +271,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Paper: Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
 
+- [Paper: Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5) - Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). [GitHub repo](https://github.com/abidlabs/deep-learning-genomics-primer) and [Colab notebook](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr) with Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs
 
 
 ## DL Tools
@@ -313,6 +314,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 
 ## DL Misc
+
+- [Deep learning resources](https://www.nature.com/articles/s41588-018-0295-5/tables/1) - (cloud) platforms, software, educational resources. From [Paper: Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5)
 
 - [Collections of GitHub repositories of deep learning projects, Analytics Vidhya](https://www.analyticsvidhya.com/blog/category/github/?utm_source=blog&utm_medium=6-open-source-data-science-projects-try-home)
 
