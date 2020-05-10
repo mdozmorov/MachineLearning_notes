@@ -302,6 +302,9 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
 
+- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
+
+
 ### DL models
 
 - [PyTorch model zoos](https://pytorch.org/docs/stable/torchvision/models.html)
