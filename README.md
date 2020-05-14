@@ -194,7 +194,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow. [Online version](http://www.easy-tensorflow.com/)
 
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [Medium blog post](https://medium.com/datadriveninvestor/homemade-machine-learning-in-python-ed77c4d6e25b)
 
 - [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
 
