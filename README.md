@@ -226,6 +226,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Includes code and video tutorial
 
+- [Machine Learning & Deep Learning Fundamentals, by DeepLizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - information-dense short videos about fundamentals and math behind neural networks. [Blog posts](https://deeplizard.com/learn/video/gZmobeGL0Yg)
+
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
 - [Undergraduate machine learning at UBC 2012](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) by Nando de Freitas. [Slides](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
