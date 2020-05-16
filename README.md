@@ -170,7 +170,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
 
-- [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157)
+- [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157), [Video course](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
