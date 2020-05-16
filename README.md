@@ -171,6 +171,8 @@ Each category lists general online resources followed by links to GitHub reposit
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
 
 - [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157), [Video course](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+    - [d2l.ai](https://d2l.ai) - Dive into Deep Learning: An interactive deep learning book with code, math, and discussions, based on the NumPy interface, [Jupyter notebooks](https://github.com/d2l-ai/d2l-en)
+    - [Mathematics for Deep Learning, d2l.ai](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) - systematic deep learning math, linear algebra and matrix operations, eigendecomposition, single- and multivariable calculus, integral calculus, maximum likelihood and optimization, statistics (random variables, distributions, naive Bayes), information theory
 
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
@@ -185,8 +187,6 @@ Each category lists general online resources followed by links to GitHub reposit
 - [ML Resources](https://sgfin.github.io/learning-resources/) - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. 
 
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. Python
-
-- [d2l-en](https://github.com/d2l-ai/d2l-en) - Dive into Deep Learning: an interactive deep learning book on Jupyter notebooks, using the NumPy interface. [Online version](https://d2l.ai) 
 
 - [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
