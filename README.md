@@ -19,6 +19,7 @@ Each category lists general online resources followed by links to GitHub reposit
     * [DL Papers Genomics](#dl-papers-genomics)
   * [DL Tools](#dl-tools)
     * [DL models](#dl-models)
+    * [DL fun](#dl-fun)
   * [DL Misc](#dl-misc)
 
 ## Cheatsheets
@@ -282,8 +283,6 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans [http://keras.io/](http://keras.io/)
 
-- [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
-
 - [MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - neural artistic style transfer using MXNet. PyTorch and Torch implementations available
 
 - [pathology_learning](https://github.com/millett/pathology_learning) - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides
@@ -304,8 +303,11 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
 
-- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
+### DL fun
 
+- [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
+
+- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
 
 ### DL models
 
