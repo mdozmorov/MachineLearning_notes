@@ -303,12 +303,6 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
 
-### DL fun
-
-- [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
-
-- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
-
 ### DL models
 
 - [PyTorch model zoos](https://pytorch.org/docs/stable/torchvision/models.html)
@@ -319,6 +313,13 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Paper: Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
 
+### DL fun
+
+- [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
+
+- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
+
+- [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
 
 ## DL Misc
 
