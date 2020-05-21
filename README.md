@@ -124,6 +124,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## ML Misc
 
+- [The Algorithms - R](https://github.com/TheAlgorithms/R) - GitHub repo with code examples of main machine learning algorithms
+
 - [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks]
 
 - [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations
