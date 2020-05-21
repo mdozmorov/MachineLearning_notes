@@ -239,6 +239,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
+- [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials)
 
 ## DL Papers
 
