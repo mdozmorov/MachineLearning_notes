@@ -19,7 +19,7 @@ Each category lists general online resources followed by links to GitHub reposit
     * [DL Papers Genomics](#dl-papers-genomics)
   * [DL Tools](#dl-tools)
     * [DL models](#dl-models)
-    * [DL fun](#dl-fun)
+    * [DL projects](#dl-projects)
   * [DL Misc](#dl-misc)
 
 ## Cheatsheets
@@ -239,7 +239,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
-- [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials)
+- [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials) - Main deep learning topics. [Weights & Biases Youtube channell](https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig)
 
 ## DL Papers
 
@@ -314,7 +314,11 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Paper: Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
 
-### DL fun
+### DL projects
+
+- [Weights & Biases Gallery of Curated machine learning reports](https://app.wandb.ai/gallery) - selected examples with code
+- [Machine learning lessons and teaching projects designed for engineers](https://github.com/lukas/ml-class) - GitHub repo by Lukas Biewald, the founder of Weights and Biases. Code and video tutorials
+- [Weights & Biases GitHub examples of deep learning projects](https://github.com/wandb/examples)
 
 - [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
 
