@@ -219,6 +219,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks
 
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples
+
 ## DL Videos
 
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
