@@ -160,7 +160,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
-- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" book. Examples, theory, and practice of deep learning
+- [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" book. Python/Theano examples, theory, and practice of deep learning by Michael Nielsen
 
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - "Python Machine Learning (3rd Ed.) Code Repository" book by Sebastian Raschka, iPython notebooks
 
