@@ -318,6 +318,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Paper: Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
 
+- [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
+
 ### DL projects
 
 - [Weights & Biases Gallery of Curated machine learning reports](https://app.wandb.ai/gallery) - selected examples with code
