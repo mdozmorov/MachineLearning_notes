@@ -154,6 +154,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
+- [The Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville. Includes lectures in `.key` and `.pdf` formats, [videos discussing different chapters](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos). https://www.deeplearningbook.org/
+
 - [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
 - [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. 
