@@ -173,6 +173,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Courses & Tutorials
 
+- [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
+
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
 
 - [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157), [Video course](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
