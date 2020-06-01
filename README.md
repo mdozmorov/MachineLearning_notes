@@ -249,7 +249,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
-- [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials) - Main deep learning topics. [Weights & Biases Youtube channell](https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig)
+- [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials) - Short videos and text with Python code for individual topics, by Lukas Biewald. [GitHub repo](https://github.com/lukas/ml-class) with code. [Weights & Biases Youtube channel](https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig)
 
 ## DL Papers
 
