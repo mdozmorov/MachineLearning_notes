@@ -150,6 +150,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [DeepRL](https://github.com/smc77/DeepRL ) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
 
+- [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers
+
 ## DL Books
 
 - [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
