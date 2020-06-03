@@ -229,6 +229,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Videos
 
+- [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - MIT video course by Alexander Amini & Ava Soleimani, dense and informative ~45min lectures covering various topics of deep learning. [introtodeeplearning.com](http://introtodeeplearning.com/) - course web site with slides, video, and other material
+
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
 
 - [Coursera Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) - Video course of short lectures introducing theoretical foundations of machine learning
@@ -250,6 +252,9 @@ Each category lists general online resources followed by links to GitHub reposit
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
 - [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials) - Short videos and text with Python code for individual topics, by Lukas Biewald. [GitHub repo](https://github.com/lukas/ml-class) with code. [Weights & Biases Youtube channel](https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig)
+
+- [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow with Laurence Moroney. Computer vision-focused 
+
 
 ## DL Papers
 
