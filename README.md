@@ -258,6 +258,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Papers
 
+- [deep-review](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
+
 - [Deep learning in genomics overview](https://github.com/abidlabs/deep-learning-genomics-primer) (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more)
 
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
@@ -269,8 +271,6 @@ Each category lists general online resources followed by links to GitHub reposit
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
 - [deeplearning-biology](https://github.com/hussius/deeplearning-biology) - A list of papers on deep learning implementations in biology
-
-- [deep-review](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine
 
 - [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) - List of papers about machine learning for proteins
 
