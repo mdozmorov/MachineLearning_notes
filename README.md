@@ -229,7 +229,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## DL Videos
 
-- [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - MIT video course by Alexander Amini & Ava Soleimani, dense and informative ~45min lectures covering various topics of deep learning. [introtodeeplearning.com](http://introtodeeplearning.com/) - course web site with slides, video, and other material
+- [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - MIT video course by Alexander Amini, Ava Soleimani, and guests. Dense and informative ~45min lectures covering various topics of deep learning. [introtodeeplearning.com](http://introtodeeplearning.com/) - course web site with slides, video, and other material
 
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
 
@@ -240,6 +240,8 @@ Each category lists general online resources followed by links to GitHub reposit
 - [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Includes code and video tutorial
 
 - [Machine Learning & Deep Learning Fundamentals, by DeepLizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - information-dense short videos about fundamentals and math behind neural networks. [Blog posts](https://deeplizard.com/learn/video/gZmobeGL0Yg)
+
+- [Brandon Rohrer's YouTube channel](https://www.youtube.com/user/BrandonRohrer) - short videos about basics of deep learning and neural networks
 
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
