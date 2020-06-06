@@ -255,12 +255,13 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow with Laurence Moroney. Computer vision-focused 
 
+- [UCL Course on Reinforcement Learning](http://davidsilver.uk/teaching/) by David Silver. Slides and video lectures
 
 ## DL Papers
 
-- [deep-review](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
+- [Deep Review: Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
 
-- [Deep learning in genomics overview](https://github.com/abidlabs/deep-learning-genomics-primer) (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more)
+- [Deep Learning Genomics Primer](https://github.com/abidlabs/deep-learning-genomics-primer) - This tutorial is a supplement to the manuscript, [A Primer on Deep Learning in Genomics](https://www.nature.com/articles/s41588-018-0295-5) (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). Python tutorial on detecting DNA motifs.
 
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
