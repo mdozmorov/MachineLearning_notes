@@ -112,6 +112,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## ML Videos
 
+- NC ASA Webinar: Introduction to Machine Learning, by Dr. Funda Gunes, [Part 1](https://www.youtube.com/watch?v=UcV17JEs5eQ), [Part 2](https://www.youtube.com/watch?v=fv-l4AuAgns). A one hour overview of the main machine learning concepts
+
 - [Learning from data](https://work.caltech.edu/lectures.html#lectures) - Statistical learning theory course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. Videos, slides
 
 - [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
