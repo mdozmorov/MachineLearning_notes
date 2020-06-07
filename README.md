@@ -24,7 +24,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 ## Cheatsheets
 
-- [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/), R/Python codes
+- [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/) - Brief description and R/Python examples of algorithms, categorized into several categories: classification, regression, neural networks, anomaly detection, dimensionality reduction, ensemble learning, clusterint, association rule analysis, regularization
 
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
 
