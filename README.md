@@ -295,6 +295,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Paper: Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5) - Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). [GitHub repo](https://github.com/abidlabs/deep-learning-genomics-primer) and [Colab notebook](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr) with Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs
 
+- [Paper: Pérez-Enciso, and Zingaretti. “A Guide for Using Deep Learning for Complex Trait Genomic Prediction.” Genes, 2019](https://doi.org/10.3390/genes10070553) - Deep learning for predicting phenotypes from genomics data. Deep learning basics, definitions
 
 ## DL Tools
 
