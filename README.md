@@ -146,13 +146,13 @@ Each category lists general online resources followed by links to GitHub reposit
 
 # Deep Learning
 
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities. https://github.com/ChristosChristofidis/awesome-deep-learning
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 
-- [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers. https://github.com/terryum/awesome-deep-learning-papers
+- [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
 
-- [AI and DeepRL](https://github.com/smc77/DeepRL) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL
+- [AI and DeepRL](https://github.com/smc77/DeepRL) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
 
-- [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers. https://www.asimovinstitute.org/neural-network-zoo/
+- [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers
 
 ## DL Books
 
@@ -160,9 +160,9 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [The Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville. Includes lectures in `.key` and `.pdf` formats, [videos discussing different chapters](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos). https://www.deeplearningbook.org/
 
-- [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
+- [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Python code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
-- [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. 
+- [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. https://d2l.ai/
 
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
@@ -179,7 +179,7 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
 
-- [Colah's blog, articles on neural networks, visualization](https://colah.github.io/)
+- [Colah's blog, articles on neural networks, visualization](https://colah.github.io/) - Illustrated and highly informative posts on types of neural networks and their applications by Christopher Olah
 
 - [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157), [Video course](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
     - [d2l.ai](https://d2l.ai) - Dive into Deep Learning: An interactive deep learning book with code, math, and discussions, based on the NumPy interface, [Jupyter notebooks](https://github.com/d2l-ai/d2l-en)
@@ -187,33 +187,31 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
-- [Step-by-step guides to learn Applied Machine Learning](https://machinelearningmastery.com/start-here/) - Foundations, beginner and intermediate machine learning, deep learning
+- [Step-by-step guides to learn Applied Machine Learning](https://machinelearningmastery.com/start-here/) - Machine Learning Mastery web site aggregating structured posts for beginner and intermediate machine learning users, deep learning
 
-- [Stanford Computer Science courses CD221/229/230](https://stanford.edu/~shervine/teaching/cs-221/) ― Artificial Intelligence, machine learnint, deep learning
+- [Stanford Computer Science courses CS221/229/230](https://stanford.edu/~shervine/teaching/cs-221/) ― Several GitBook-formatted courses on Artificial Intelligence, machine learnint, deep learning
 
-- [Machine Learning courses by Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) - CD4780/CS5780 Machine Learning for Intelligent Systems, CS6780 Advanced Machine Learning, and more. Videos and slides
+- [Machine Learning courses by Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) - Thorsten Joachims' home page with links to courses and more. CS4780/CS5780 Machine Learning for Intelligent Systems, CS6780 Advanced Machine Learning, and more. Videos and slides
 
-- [Machine and deep learning courses by Google](https://ai.google/education)
+- [Machine and deep learning courses by Google](https://ai.google/education) - a collection of Google Developers courses
 
-- [ML Resources](https://sgfin.github.io/learning-resources/) - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. 
-
-- [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch. Python
+- [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
 
 - [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
-- [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks, by Laurence Moroney, Google
 
-- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow. [Online version](http://www.easy-tensorflow.com/)
+- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow, by Jahandar Jahanipour. [Online version](http://www.easy-tensorflow.com/)
 
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [Medium blog post](https://medium.com/datadriveninvestor/homemade-machine-learning-in-python-ed77c4d6e25b)
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained, by Oleksii Trekhleb. [Medium blog post](https://medium.com/datadriveninvestor/homemade-machine-learning-in-python-ed77c4d6e25b)
 
 - [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
 
-- [keras-workshop](https://github.com/MangoTheCat/keras-workshop) - Keras R workshop
+- [keras-workshop](https://github.com/MangoTheCat/keras-workshop) - Keras R workshop, by Doug Ashton. slides, simple examples
 
-- [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch – An Introduction. [Notes](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+- [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch – An Introduction, by Denny Britz. [Notes](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
-- [Practical_DL](https://github.com/yandexdataschool/Practical_DL) - Deep learning course, Python notebooks, PDF lectures, videos
+- [Practical_DL](https://github.com/yandexdataschool/Practical_DL) - Deep learning course, Python notebooks, PDF lectures, videos. DL course co-developed by YSDA, HSE and Skoltech
 
 - [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, videos
 
@@ -221,13 +219,13 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - Tensorflow Tutorials using Jupyter Notebook with data
 
-- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. By Amirsina Torfi
 
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs, by Aymeric Damien
 
-- [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks
+- [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, by Jon Krohn
 
-- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples, by Yunjey Choi
 
 ## DL Videos
 
@@ -237,13 +235,17 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [Coursera Neural Networks for Machine Learning — Geoffrey Hinton](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) - Video course of short lectures introducing theoretical foundations of machine learning
 
-- [Introduction to Deep Learning course, D2L, Berkeley STAT 157, video lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+- [Introduction to Deep Learning course, D2L, Berkeley STAT 157, video lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola. Accompanies the https://d2l.ai/ book
 
-- [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Includes code and video tutorial
+- [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Several posts, each ncludes video, text and code tutorial
 
 - [Machine Learning & Deep Learning Fundamentals, by DeepLizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - information-dense short videos about fundamentals and math behind neural networks. [Blog posts](https://deeplizard.com/learn/video/gZmobeGL0Yg)
 
 - [Brandon Rohrer's YouTube channel](https://www.youtube.com/user/BrandonRohrer) - short videos about basics of deep learning and neural networks
+
+- [Undergraduate machine learning at UBC 2012](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) by Nando de Freitas. [Slides](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
+
+ - [Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) by Nando de Freitas. [Slides](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
