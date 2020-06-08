@@ -146,13 +146,13 @@ Each category lists general online resources followed by links to GitHub reposit
 
 # Deep Learning
 
-- [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities. https://github.com/ChristosChristofidis/awesome-deep-learning
 
-- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
+- [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers. https://github.com/terryum/awesome-deep-learning-papers
 
-- [DeepRL](https://github.com/smc77/DeepRL ) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
+- [AI and DeepRL](https://github.com/smc77/DeepRL) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL
 
-- [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers
+- [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers. https://www.asimovinstitute.org/neural-network-zoo/
 
 ## DL Books
 
