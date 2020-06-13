@@ -217,7 +217,9 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [stat453-deep-learning-ss20](https://github.com/rasbt/stat453-deep-learning-ss20) - Intro to Deep Learning, UW-Madison (Spring 2020) by Sebastian Raschka, videos
 
-- [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison
+- [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, pdf slides
+
+- [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19) - Course material for STAT 479: Deep Learning (SS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, pdf slides
 
 - [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - Tensorflow Tutorials using Jupyter Notebook with data
 
