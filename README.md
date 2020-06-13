@@ -2,6 +2,8 @@
 
 Each category lists general online resources followed by links to GitHub repositories. Hold "Ctrl/Command" while clicking on a link to open it in a new window.
 
+Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly available datasets for machine learning
+
 # Table of content
 
 * [Cheatsheets](#cheatsheets)
