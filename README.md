@@ -105,6 +105,8 @@ Each category lists general online resources followed by links to GitHub reposit
 
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
 
+- [sklearn-classification](https://github.com/dformoso/sklearn-classification) - Data Science Notebook on a Classification Task, using sklearn and Tensorflow. Jupyter Notebook, the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data. Docker-wrapped
+
 - [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R. [Book](https://supervised-ml-course.netlify.com/)
 
 - [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
