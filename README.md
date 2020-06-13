@@ -347,6 +347,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 ### DL projects
 
+- [Deeplearning-digital-pathology](https://github.com/zhaoxuanma/Deeplearning-digital-pathology) - Python code demonstrating image classification using Keras with Caffe or TensorFlow backend, image manipulation utilities
+
 - [Weights & Biases Gallery of Curated machine learning reports](https://app.wandb.ai/gallery) - selected examples with code
 - [Machine learning lessons and teaching projects designed for engineers](https://github.com/lukas/ml-class) - GitHub repo by Lukas Biewald, the founder of Weights and Biases. Code and video tutorials
 - [Weights & Biases GitHub examples of deep learning projects](https://github.com/wandb/examples)
