@@ -12,6 +12,7 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
   * [ML Courses & Tutorials](#ml-courses--tutorials)
   * [ML Videos](#ml-videos)
   * [ML Papers](#ml-papers)
+  * [ML Tools](#ml-tools)
   * [ML Misc](#ml-misc)
 * [Deep Learning](#deep-learning)
   * [DL Books](#dl-books)
@@ -126,7 +127,9 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. [Video lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
 
+## ML Tools
 
+- [mlr3](https://mlr3.mlr-org.com/) - Machine learning in R R package, the unified interface to classification, regression, survival analysis, and other machine learning tasks. [GitHub repo](https://github.com/mlr-org/mlr3), [mlr3gallery](https://mlr3gallery.mlr-org.com/) - Examples of problems and code solutions, [mlr3 Manual](https://mlr3book.mlr-org.com/) - mlr3 bookdown. More on the [mlr3 package site](https://github.com/mlr-org/mlr3), including videos
 
 ## ML Misc
 
