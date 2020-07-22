@@ -350,6 +350,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 ### DL projects
 
+- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
+
 - [Deeplearning-digital-pathology](https://github.com/zhaoxuanma/Deeplearning-digital-pathology) - Python code demonstrating image classification using Keras with Caffe or TensorFlow backend, image manipulation utilities
 
 - [Weights & Biases Gallery of Curated machine learning reports](https://app.wandb.ai/gallery) - selected examples with code
