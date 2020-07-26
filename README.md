@@ -274,6 +274,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 ## DL Papers
 
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
 - [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Paper: Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
