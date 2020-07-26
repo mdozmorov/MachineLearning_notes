@@ -274,10 +274,6 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 ## DL Papers
 
-- [Deep Review: Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
-
-- [Deep Learning Genomics Primer](https://github.com/abidlabs/deep-learning-genomics-primer) - This tutorial is a supplement to the manuscript, [A Primer on Deep Learning in Genomics](https://www.nature.com/articles/s41588-018-0295-5) (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). Python tutorial on detecting DNA motifs.
-
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
 - [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Paper: Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
@@ -299,6 +295,10 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 - [Paper: Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
 
 ### DL Papers Genomics
+
+- [Deep Review: Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
+
+- [Deep Learning Genomics Primer](https://github.com/abidlabs/deep-learning-genomics-primer) - This tutorial is a supplement to the manuscript, [A Primer on Deep Learning in Genomics](https://www.nature.com/articles/s41588-018-0295-5) (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). Python tutorial on detecting DNA motifs.
 
 - [Paper: Eraslan et al., “Deep Learning.”](https://www.nature.com/articles/s41576-019-0122-6) - Deep learning in genomics review. Big data description, evolution of machine learning into deep learning with the help of GPUs. Supervised learning - Four major classes of neural networks (fully connected, convolutional, recurrent and graph convolutional). Two unsupervised learning techniques, autoencoders and generative adversarial networks (GANs). From basic logistic regression to each network architecture illustrated on figures, theory descriptions, examples of applications in genomics. Transfer learning, model zoos, interpretation/feature importance.
 
