@@ -161,6 +161,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers
 
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn), [Tweet by Andrew Trask](https://twitter.com/iamtrask/status/1289658159972270080?s=20)
+
 ## DL Books
 
 - [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
