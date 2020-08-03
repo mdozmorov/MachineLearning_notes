@@ -188,6 +188,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
 
+- [MIT 6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/) - machine/deep learning, genomics, systems biology MIT course, Spring 2020. Taught by David Gifford, Manolis Kellis, Sachit Dinesh Saksena, Corban Swain, Timothy Fei Truong Jr. Lecture videos, slides, reading references. [GitHub repo](https://github.com/mit6874/mit6874.github.io)
+
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/) - Illustrated and highly informative posts on types of neural networks and their applications by Christopher Olah
 
 - [Introduction to Deep Learning course, D2L, Berkeley STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html),  [Jupyter notebooks](https://courses.d2l.ai/berkeley-stat-157/syllabus.html), [GitHub repository with slides and notebooks](https://github.com/d2l-ai/berkeley-stat-157), [Video course](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
