@@ -51,10 +51,14 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
 
+- [data-science](https://github.com/open-source-society/data-science) - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning
+
 - [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
 
 
 ## ML Books
+
+- [100+ Free Data Science Books](http://www.learndatasci.com/free-books/)
 
 - [ciml](https://github.com/hal3/ciml) - book "A Course in Machine Learning". [Online version](http://ciml.info/)
 
@@ -69,6 +73,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 - [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - Code accompanying the book "[Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)"
 
 - [rtemis](https://github.com/egenn/rtemis) - Advanced Machine Learning and Visualization in R. [Book](https://rtemis.netlify.com/)
+
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) by Kuhn and Johnson, [GitHub](https://github.com/topepo/FES)
 
 
 
@@ -150,6 +156,9 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 - [Machine- and deep learning notes by Ming Tang](https://github.com/crazyhottommy/machine-learning-resource)
 
 - [Gradient Boosting Essentials in R Using XGBOOST](http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/)
+
+- [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible, problems and solutions in R. XGBoost, SVM, neural networks, and other methods
+
 
 
 
@@ -286,7 +295,7 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
 
-- [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Paper: Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
+- [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
 
 - [deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology, by Harold Pimentel
 
@@ -298,11 +307,11 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [Key Papers in Deep Reinforcement Learning](https://spinningup.openai.com/en/latest/spinningup/keypapers.html),  [Twitter](https://twitter.com/strnr/status/1110172093155627008?s=03)
 
-- [Paper: LeCun, Bengio, and Hinton, “Deep Learning.”](https://www.nature.com/articles/nature14539) - Classical deep learning review. Areas of application, historical development, principles of supervised learning, stochastic gradient descent (Figure 1 - illustration of forward and backpropagation, with equations), convolutional neural networks for image recognition and in other areas, language processing, recurrent neural networks, LSTMs
+- [LeCun, Bengio, and Hinton, “Deep Learning.”](https://www.nature.com/articles/nature14539) - Classical deep learning review. Areas of application, historical development, principles of supervised learning, stochastic gradient descent (Figure 1 - illustration of forward and backpropagation, with equations), convolutional neural networks for image recognition and in other areas, language processing, recurrent neural networks, LSTMs
 
-- [Paper: Vincent et al., “Extracting and Composing Robust Features with Denoising Autoencoders.”](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) - Denoising autoencoder paper, statistical formulations
+- [Vincent et al., “Extracting and Composing Robust Features with Denoising Autoencoders.”](https://www.cs.toronto.edu/~larocheh/publications/icml-2008-denoising-autoencoders.pdf) - Denoising autoencoder paper, statistical formulations
 
-- [Paper: Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
+- [Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
 
 ### DL Papers Genomics
 
@@ -310,15 +319,19 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [Deep Learning Genomics Primer](https://github.com/abidlabs/deep-learning-genomics-primer) - This tutorial is a supplement to the manuscript, [A Primer on Deep Learning in Genomics](https://www.nature.com/articles/s41588-018-0295-5) (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). Python tutorial on detecting DNA motifs.
 
-- [Paper: Eraslan et al., “Deep Learning.”](https://www.nature.com/articles/s41576-019-0122-6) - Deep learning in genomics review. Big data description, evolution of machine learning into deep learning with the help of GPUs. Supervised learning - Four major classes of neural networks (fully connected, convolutional, recurrent and graph convolutional). Two unsupervised learning techniques, autoencoders and generative adversarial networks (GANs). From basic logistic regression to each network architecture illustrated on figures, theory descriptions, examples of applications in genomics. Transfer learning, model zoos, interpretation/feature importance.
+- [Eraslan et al., “Deep Learning.”](https://www.nature.com/articles/s41576-019-0122-6) - Deep learning in genomics review. Big data description, evolution of machine learning into deep learning with the help of GPUs. Supervised learning - Four major classes of neural networks (fully connected, convolutional, recurrent and graph convolutional). Two unsupervised learning techniques, autoencoders and generative adversarial networks (GANs). From basic logistic regression to each network architecture illustrated on figures, theory descriptions, examples of applications in genomics. Transfer learning, model zoos, interpretation/feature importance.
 
-- [Paper: Angermueller et al., “Deep Learning for Computational Biology.”](https://doi.org/10.15252/msb.20156651) - Review on machine learning, (epi)genomics examples. Supervised vs. unsupervised learning. Deep neural networks. Box 1 - network basics. Box 2 - convolutional NN. TOOLS: Caffe, Theano, Torch7, TensorFlow. Data preparation, model training and optimization
+- [Angermueller et al., “Deep Learning for Computational Biology.”](https://doi.org/10.15252/msb.20156651) - Review on machine learning, (epi)genomics examples. Supervised vs. unsupervised learning. Deep neural networks. Box 1 - network basics. Box 2 - convolutional NN. TOOLS: Caffe, Theano, Torch7, TensorFlow. Data preparation, model training and optimization
 
-- [Paper: Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
+- [Min, Lee, and Yoon, “Deep Learning in Bioinformatics.”](https://academic.oup.com/bib/article/18/5/851/2562808) - Deep neural networks in bioinformatics. Overview of deep learning development, programming libraries, basic structure of neural networks, convolutional NNs, recurrent NNs. Table 4 - Omics applications, biomedical imaging, biomedical signal processing. References. [Code examples (Jupyter notebooks) of eight bioinformatics deep learning applications](https://github.com/lykaust15/Deep_learning_examples)
 
-- [Paper: Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5) - Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). [GitHub repo](https://github.com/abidlabs/deep-learning-genomics-primer) and [Colab notebook](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr) with Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs
+- [Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5) - Deep learning in genomics overview (feed-forward, convolutional, recurrent) and a Python tutorial on detecting DNA motifs. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). [GitHub repo](https://github.com/abidlabs/deep-learning-genomics-primer) and [Colab notebook](https://colab.research.google.com/drive/17E4h5aAOioh5DiTo7MZg4hpL6Z_0FyWr) with Interactive tutorial to build a convolutional neural network to discover DNA-binding motifs
 
-- [Paper: Pérez-Enciso, and Zingaretti. “A Guide for Using Deep Learning for Complex Trait Genomic Prediction.” Genes, 2019](https://doi.org/10.3390/genes10070553) - Deep learning for predicting phenotypes from genomics data. Deep learning basics, definitions
+- [Pérez-Enciso, and Zingaretti. “A Guide for Using Deep Learning for Complex Trait Genomic Prediction.” Genes, 2019](https://doi.org/10.3390/genes10070553) - Deep learning for predicting phenotypes from genomics data. Deep learning basics, definitions
+
+- [Sakellaropoulos, Theodore, Konstantinos Vougas, Sonali Narang, Filippos Koinis, Athanassios Kotsinas, Alexander Polyzos, Tyler J. Moss, et al. “A Deep Learning Framework for Predicting Response to Therapy in Cancer.” Cell Reports, December 2019](https://doi.org/10.1016/j.celrep.2019.11.017) - Drug response prediction from gene expression data. Deep Neural Network (DNN, H2O.ai framework) compared with Elastic Net, Random Forest. Trained on highly variable (by MAD) gene expression in 1001 cell lines and 251 drugs pharmacogenomic dataset (GDSC. CCLP) to predict IC50. Hyper-parameter optimization using 5-fold cross-validation and minimizing Mean Square Error. Batch correction between the datasets Tested on unseen patient cohorts (OCCAMS, MD Anderson, TCGA, Multiple Myeloma Consortium) to predict IC50 and test low, medium, high IC50 groups for survival differences. [RDS files data](https://genome.med.nyu.edu/public/tsirigoslab/deep-drug-response/), [R code](https://genome.med.nyu.edu/public/tsirigoslab/deep-drug-response/)
+
+- [M. Jannesari, M. Habibzadeh, H. Aboulkheyr, P. Khosravi, O. Elemento, M. Totonchi, and I. Hajirasouliha. “Breast Cancer Histopathological Image Classification: A Deep Learning Approach.” In 2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2018](https://doi.org/10.1109/BIBM.2018.8621307) - Breast cancer image classification. Data from [Stanford Tissue Microarray Database (TMAD)](https://tma.im/cgi-bin/home.pl) and [Breast Cancer Histopathological Database (BreakHis)](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/), >6K images. Different variants of ResNet and Inception architectures. Data augmentation (resizing, rotation, cropping, flipping). Training details. Classification into malignant and benign, or into subtypes. Can handle images at different magnifications. ResNet performs better. [GitHub repository](https://github.com/MachineLearning4Work/DeepBreastCancer) includes crawler to get images
 
 ## DL Tools
 
@@ -334,17 +347,17 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research
 
-- [Janggu](https://github.com/BIMSBbioinfo/janggu) - deep learning interface to genomic data (FASTA, BAM, BigWig, BED, GFF). Numpy-like Bioseq and Cover objects accessable by Keras. Includes model evaluation and interpretation features. [Pypi](https://pypi.org/project/janggu/), [Docs](https://janggu.readthedocs.io/en/latest/), [Paper: Janggu - Deep learning for genomics](https://www.biorxiv.org/content/10.1101/700450v2)
+- [Janggu](https://github.com/BIMSBbioinfo/janggu) - deep learning interface to genomic data (FASTA, BAM, BigWig, BED, GFF). Numpy-like Bioseq and Cover objects accessable by Keras. Includes model evaluation and interpretation features. [Pypi](https://pypi.org/project/janggu/), [Docs](https://janggu.readthedocs.io/en/latest/), [Janggu - Deep learning for genomics](https://www.biorxiv.org/content/10.1101/700450v2)
 
-- [maui](https://github.com/bimsbbioinfo/maui) - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. [Paper: Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning](https://www.life-science-alliance.org/content/2/6/e201900517)
+- [maui](https://github.com/bimsbbioinfo/maui) - Multi-omics Autoencoder Integration. Latent factors from different data types (stacked variational autoencoders), and their clustering, testing for association with survival. Tested vs. latent factors extracted using Multifactor Analysis (MFA) and iCluster+, on TCGA colorectal cancer RNA-seq, SNPs, CNVs. [Evaluation of Colorectal Cancer Subtypes and Cell Lines Using Deep Learning](https://www.life-science-alliance.org/content/2/6/e201900517)
 
 - [Ludwig](http://ludwig.ai) is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. [GitHub](https://github.com/uber/ludwig)
 
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
-- [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [Paper: A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
+- [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
 
-- [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Paper: Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
+- [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
 
 ### DL models
 
@@ -354,7 +367,7 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [Tensorflow model zoos](https://github.com/tensorflow/models)
 
-- [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Paper: Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
+- [Kipoi](https://kipoi.org/) - a model zoo for genomics. Examples of transfer learning, predicting pathogenic variants, TFBSs. [Avsec et al., “The Kipoi Repository Accelerates Community Exchange and Reuse of Predictive Models for Genomics.”](https://www.nature.com/articles/s41587-019-0140-0), [GitHub repo](https://github.com/kipoi/kipoi) 
 
 - [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
 
@@ -370,13 +383,13 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 
 - [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
 
-- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Paper: Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
+- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
 
 - [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
 
 ## DL Misc
 
-- [Deep learning resources](https://www.nature.com/articles/s41588-018-0295-5/tables/1) - (cloud) platforms, software, educational resources. From [Paper: Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5)
+- [Deep learning resources](https://www.nature.com/articles/s41588-018-0295-5/tables/1) - (cloud) platforms, software, educational resources. From [Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5)
 
 - [Collections of GitHub repositories of deep learning projects, Analytics Vidhya](https://www.analyticsvidhya.com/blog/category/github/?utm_source=blog&utm_medium=6-open-source-data-science-projects-try-home)
 
