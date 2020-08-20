@@ -1,31 +1,36 @@
-# Machine Learning and Deep Learning resources
+# Machine- and Deep Learning resources
 
-Each category lists general online resources followed by links to GitHub repositories. Hold "Ctrl/Command" while clicking on a link to open it in a new window.
-
-Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly available datasets for machine learning
+Machine and deep learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
 # Table of content
 
-* [Cheatsheets](#cheatsheets)
-* [Machine learning](#machine-learning)
-  * [ML Books](#ml-books)
-  * [ML Courses & Tutorials](#ml-courses--tutorials)
-  * [ML Videos](#ml-videos)
-  * [ML Papers](#ml-papers)
-  * [ML Tools](#ml-tools)
-  * [ML Misc](#ml-misc)
-* [Deep Learning](#deep-learning)
-  * [DL Books](#dl-books)
-  * [DL Courses & Tutorials](#dl-courses--tutorials)
-  * [DL Videos](#dl-videos)
-  * [DL Papers](#dl-papers)
-    * [DL Papers Genomics](#dl-papers-genomics)
-  * [DL Tools](#dl-tools)
-    * [DL models](#dl-models)
-    * [DL projects](#dl-projects)
-  * [DL Misc](#dl-misc)
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-## Cheatsheets
+
+- [Cheatsheets](#cheatsheets)
+- [Machine learning](#machine-learning)
+  - [ML Books](#ml-books)
+  - [ML Courses & Tutorials](#ml-courses--tutorials)
+  - [ML Videos](#ml-videos)
+  - [ML Papers](#ml-papers)
+  - [ML Tools](#ml-tools)
+  - [ML Misc](#ml-misc)
+- [Deep Learning](#deep-learning)
+  - [DL Books](#dl-books)
+  - [DL Courses & Tutorials](#dl-courses--tutorials)
+  - [DL Videos](#dl-videos)
+  - [DL Papers](#dl-papers)
+    - [DL Papers Genomics](#dl-papers-genomics)
+  - [DL Tools](#dl-tools)
+    - [DL models](#dl-models)
+    - [DL projects](#dl-projects)
+  - [DL Misc](#dl-misc)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
+# Cheatsheets
 
 - [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/) - Brief description and R/Python examples of algorithms, categorized into several categories: classification, regression, neural networks, anomaly detection, dimensionality reduction, ensemble learning, clusterint, association rule analysis, regularization
 
@@ -290,6 +295,8 @@ Check [Data_notes](https://github.com/mdozmorov/Data_notes) - Lists of publicly 
 - [UCL Course on Reinforcement Learning](http://davidsilver.uk/teaching/) by David Silver. Slides and video lectures
 
 ## DL Papers
+
+- [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning publications in the field of computational biology
 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
