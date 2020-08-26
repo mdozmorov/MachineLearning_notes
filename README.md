@@ -166,7 +166,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible, problems and solutions in R. XGBoost, SVM, neural networks, and other methods
 
-
+- Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
 
 # Deep Learning
