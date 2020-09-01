@@ -201,6 +201,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html) paper by Terence Parr and Jeremy Howard
 
+- [Algorithms for Convex Optimization](https://convex-optimization.github.io), by Nisheeth K. Vishnoi. [PDF](https://convex-optimization.github.io/ACO-v1.pdf), [Tweet](https://twitter.com/NisheethVishnoi/status/1300487896894443521?s=20) 
 
 ## DL Courses & Tutorials
 
