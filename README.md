@@ -383,6 +383,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ### DL projects
 
+- [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
+
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
 
 - [Deeplearning-digital-pathology](https://github.com/zhaoxuanma/Deeplearning-digital-pathology) - Python code demonstrating image classification using Keras with Caffe or TensorFlow backend, image manipulation utilities
