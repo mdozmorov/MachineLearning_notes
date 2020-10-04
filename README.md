@@ -209,6 +209,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+
 - [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
 
 - [MIT 6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/) - machine/deep learning, genomics, systems biology MIT course, Spring 2020. Taught by David Gifford, Manolis Kellis, Sachit Dinesh Saksena, Corban Swain, Timothy Fei Truong Jr. Lecture videos, slides, reading references. [GitHub repo](https://github.com/mit6874/mit6874.github.io)
