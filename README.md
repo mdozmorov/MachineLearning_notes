@@ -87,6 +87,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Courses & Tutorials
 
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com) - from development to deployment of machine learning methods
+
 - [40+ Modern Tutorials Covering All Aspects of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning), [Tweet](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
 
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos.
