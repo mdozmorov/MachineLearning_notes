@@ -65,6 +65,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Books
 
+- [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) by Mihail Eric @mihail_eric. [Tweet](https://twitter.com/omarsar0/status/1312697532414394370?s=20)
+
 - [100+ Free Data Science Books](http://www.learndatasci.com/free-books/)
 
 - [ciml](https://github.com/hal3/ciml) - book "A Course in Machine Learning". [Online version](http://ciml.info/)
