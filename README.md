@@ -211,6 +211,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
+
 - [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
 - [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
