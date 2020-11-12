@@ -413,6 +413,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Misc
 
+- [Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of deep learning cloud providers
+
 - [Deep learning resources](https://www.nature.com/articles/s41588-018-0295-5/tables/1) - (cloud) platforms, software, educational resources. From [Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5)
 
 - [Collections of GitHub repositories of deep learning projects, Analytics Vidhya](https://www.analyticsvidhya.com/blog/category/github/?utm_source=blog&utm_medium=6-open-source-data-science-projects-try-home)
