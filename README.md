@@ -50,6 +50,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning. [Online version](https://stanford.edu/~shervine/teaching/cs-229/)
 
+- [Machine Learning 101](https://t.co/IgQLSdmuYI?amp=1) - Machine and deep learning overview in 100 slides, or [35-min video](https://www.youtube.com/watch?v=X4I9QmcSEYo) by [Jason Mayers](http://www.jasonmayes.com/). [Tweet](https://twitter.com/iamtrask/status/1327537017891282947?s=20)
+
 # Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
