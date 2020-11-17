@@ -393,6 +393,9 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
 
+- [BERT](https://github.com/google-research/bert), Bidirectional Encoder Representations from Transformers, for natural language processing tasks. Model architecture, implemented using TensorFlow. Applications - Masked Language Model, next sentence prediction. Excels in several benchmarks. [Pretrained models and code](https://github.com/google-research/bert). See also [BioBert](https://github.com/dmis-lab/biobert)
+    - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. “[BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)”
+
 ### DL projects
 
 - [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
