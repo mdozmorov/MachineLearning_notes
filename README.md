@@ -275,6 +275,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Videos
 
+- [3blue1brown Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), and [other 3blue1brown playlists](https://www.youtube.com/c/3blue1brown/playlists) 
+
 - [MIT Introduction to Deep Learning | 6.S191](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - MIT video course by Alexander Amini, Ava Soleimani, and guests. Dense and informative \~45min lectures covering various topics of deep learning. [introtodeeplearning.com](http://introtodeeplearning.com/) - course web site with slides, video, and other material. [GitHub](https://github.com/aamini/introtodeeplearning)
 
 - [Deep Learning Crash Course for Beginner](https://youtu.be/VyWAvY2CF9c) - a 1h 25m overview of deep learning techniques, highly informative narrative by Jason Dsouza
