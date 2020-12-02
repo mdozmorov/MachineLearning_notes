@@ -215,6 +215,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
+
 - [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
 
 - [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
