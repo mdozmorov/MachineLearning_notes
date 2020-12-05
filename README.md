@@ -215,6 +215,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
+
 - [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
 
 - [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
