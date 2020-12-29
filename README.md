@@ -426,6 +426,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Misc
 
+- [traingenerator.jrieke.com](https://traingenerator.jrieke.com) - A web app to generate template code for machine learning. [GitHub](https://github.com/jrieke/traingenerator), [Tweet](https://twitter.com/jrieke/status/1343587198671720449?s=20)
+
 - [Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of deep learning cloud providers
 
 - [Deep learning resources](https://www.nature.com/articles/s41588-018-0295-5/tables/1) - (cloud) platforms, software, educational resources. From [Zou et al., “A Primer on Deep Learning in Genomics.”](https://www.nature.com/articles/s41588-018-0295-5)
