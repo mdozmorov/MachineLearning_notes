@@ -215,6 +215,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries, tutorials etc. [Tweet](https://twitter.com/omarsar0/status/1344007449506885639?s=20)
+
 - [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
 
 - [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
