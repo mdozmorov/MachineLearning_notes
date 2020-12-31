@@ -319,6 +319,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [UCL Course on Reinforcement Learning](http://davidsilver.uk/teaching/) by David Silver. Slides and video lectures
 
+- [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) - Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
+
 ## DL Papers
 
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
