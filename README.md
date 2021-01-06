@@ -69,6 +69,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Books
 
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy. [Tweet](https://twitter.com/omarsar0/status/1345021214671122433?s=20)
+
 - [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) by Mihail Eric @mihail_eric. [Tweet](https://twitter.com/omarsar0/status/1312697532414394370?s=20)
 
 - [100+ Free Data Science Books](http://www.learndatasci.com/free-books/)
