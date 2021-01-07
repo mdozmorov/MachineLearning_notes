@@ -416,6 +416,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ### DL projects
 
+- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
+
 - [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
 Yury Kashnitsky
 
