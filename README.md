@@ -416,6 +416,9 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ### DL projects
 
+- [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
+Yury Kashnitsky
+
 - [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
 
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
