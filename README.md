@@ -195,6 +195,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Books
 
+- [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
+
 - [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 
 - [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
