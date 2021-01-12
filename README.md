@@ -69,6 +69,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Books
 
+- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc.
+
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas. [Tweet](https://twitter.com/svpino/status/1346442575557758976?s=20)
 
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy. [Tweet](https://twitter.com/omarsar0/status/1345021214671122433?s=20)
