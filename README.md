@@ -62,6 +62,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
 
+- [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
+
 - [data-science](https://github.com/open-source-society/data-science) - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning
 
 - [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
