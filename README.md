@@ -333,6 +333,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Papers
 
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production.
+
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
 
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning publications in the field of computational biology
