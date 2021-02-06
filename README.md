@@ -341,7 +341,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 
-- [Papers with code](https://paperswithcode.com/sota) - Systematic collection of machine- and deep learning papers with code
+- [Papers with code](https://paperswithcode.com) - Systematic collection of machine- and deep learning papers with code, [State-of-the-art](https://paperswithcode.com/sota), [Methods](https://paperswithcode.com/methods), [Datasets](https://paperswithcode.com/datasets)
 
 - [Deep_learning_examples](https://github.com/lykaust15/Deep_learning_examples) - Examples of using deep learning in Bioinformatics. [Deep Learning in Bioinformatics](https://doi.org/10.1093/bib/bbw068)
 
