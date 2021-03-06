@@ -113,7 +113,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [aml-training](https://github.com/tidymodels/aml-training) - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn
 
-- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of 800+ Computer Science courses with video lectures, [Tweet](https://twitter.com/PrasoonPratham/status/1367404646101184518?s=20)
 
 - [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Randy Olson's data analysis and machine learning projects
 
