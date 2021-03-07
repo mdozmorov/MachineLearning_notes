@@ -197,6 +197,10 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn), [Tweet by Andrew Trask](https://twitter.com/iamtrask/status/1289658159972270080?s=20)
 
+- [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries, tutorials etc. [Tweet](https://twitter.com/omarsar0/status/1344007449506885639?s=20)
+
+- [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN). [Tweet](https://twitter.com/omarsar0/status/1368167852763717641?s=20)
+
 ## DL Books
 
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
@@ -224,8 +228,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Algorithms for Convex Optimization](https://convex-optimization.github.io), by Nisheeth K. Vishnoi. [PDF](https://convex-optimization.github.io/ACO-v1.pdf), [Tweet](https://twitter.com/NisheethVishnoi/status/1300487896894443521?s=20) 
 
 ## DL Courses & Tutorials
-
-- [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries, tutorials etc. [Tweet](https://twitter.com/omarsar0/status/1344007449506885639?s=20)
 
 - [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
 
