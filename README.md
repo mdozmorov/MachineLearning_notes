@@ -52,6 +52,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Machine Learning 101](https://t.co/IgQLSdmuYI?amp=1) - Machine and deep learning overview in 100 slides, or [35-min video](https://www.youtube.com/watch?v=X4I9QmcSEYo) by [Jason Mayers](http://www.jasonmayes.com/). [Tweet](https://twitter.com/iamtrask/status/1327537017891282947?s=20)
 
+- [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) blog post by Dhawal Shah with links to free courses in Computer Science, Data Science, Programming, Humanities, Business, Art & Design, Science, Social Sciences, Health & Medicine, Engineering, Mathematics, Education & Teaching, and Personal Development
+
 # Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
