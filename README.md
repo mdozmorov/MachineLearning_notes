@@ -145,6 +145,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
 
+- [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. [Course website](https://web.stanford.edu/class/cs224w/)
+
 
 ## ML Videos
 
