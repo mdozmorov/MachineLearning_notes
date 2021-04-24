@@ -432,6 +432,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
 
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
+
 - [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
 
 - [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
