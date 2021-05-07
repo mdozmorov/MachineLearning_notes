@@ -145,8 +145,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
 
-- [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. [Course website](https://web.stanford.edu/class/cs224w/)
-
 
 ## ML Videos
 
@@ -232,6 +230,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Algorithms for Convex Optimization](https://convex-optimization.github.io), by Nisheeth K. Vishnoi. [PDF](https://convex-optimization.github.io/ACO-v1.pdf), [Tweet](https://twitter.com/NisheethVishnoi/status/1300487896894443521?s=20) 
 
 ## DL Courses & Tutorials
+
+- [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. Main concepts and deep neural networks training on graphs. [Course website](https://web.stanford.edu/class/cs224w/)
 
 - [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
 
