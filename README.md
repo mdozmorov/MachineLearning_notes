@@ -434,6 +434,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
 
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. Learn voice characteristics from a short audio clip and perform text-to-speech conversion using this voice.
+
 - [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
 
 - [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
