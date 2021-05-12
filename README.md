@@ -472,3 +472,5 @@ Yury Kashnitsky
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
 
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. [Google Slides](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.g78327f1586_1537_920)
+
+- [Machine-Learning-Figures](https://github.com/Neuraxio/Machine-Learning-Figures) - images of most representative concepts and diagrams for machine- and deep learning.
