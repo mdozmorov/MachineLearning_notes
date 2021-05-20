@@ -235,6 +235,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) by Terence Parr and Jeremy Howard.
 
+- [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL), [Tweet](https://twitter.com/omarsar0/status/1384214802214526984?s=20)
+
 - [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. Main concepts and deep neural networks training on graphs. [Course website](https://web.stanford.edu/class/cs224w/)
 
 - [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
