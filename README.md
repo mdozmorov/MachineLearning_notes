@@ -150,6 +150,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Videos
 
+- [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd), [Tweet](https://twitter.com/omarsar0/status/1383360564710174720?s=20)
+
 - [10 Powerful YouTube Channels for Data Science Aspirants](https://www.analyticsvidhya.com/blog/2020/08/10-powerful-youtube-channels-for-data-science-aspirants/) - Analytics Vidhya's post. [Sentdex](https://www.youtube.com/c/sentdex/playlists), [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists), [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/playlists), [StatQuest](https://www.youtube.com/c/joshstarmer/playlists), [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists), [Python Programmer](https://www.youtube.com/c/FlickThrough/playlists), [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists), [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists), [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/playlists), [365 Data Science](https://www.youtube.com/c/365DataScience/playlists)
 
 - NC ASA Webinar: Introduction to Machine Learning, by Dr. Funda Gunes, [Part 1](https://www.youtube.com/watch?v=UcV17JEs5eQ), [Part 2](https://www.youtube.com/watch?v=fv-l4AuAgns). A one hour overview of the main machine learning concepts
