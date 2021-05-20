@@ -73,6 +73,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Books
 
+- [Mathematics for Machine Learning](https://mml-book.github.io), 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. 
+
 - [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc.
 
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas. [Tweet](https://twitter.com/svpino/status/1346442575557758976?s=20)
@@ -230,6 +232,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Algorithms for Convex Optimization](https://convex-optimization.github.io), by Nisheeth K. Vishnoi. [PDF](https://convex-optimization.github.io/ACO-v1.pdf), [Tweet](https://twitter.com/NisheethVishnoi/status/1300487896894443521?s=20) 
 
 ## DL Courses & Tutorials
+
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) by Terence Parr and Jeremy Howard.
 
 - [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. Main concepts and deep neural networks training on graphs. [Course website](https://web.stanford.edu/class/cs224w/)
 
