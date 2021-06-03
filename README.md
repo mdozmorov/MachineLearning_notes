@@ -42,6 +42,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
 
+- [Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between
+
 - [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers
 
 - [machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) - 30-page MachineLearning cheat sheet with classical equations & diagrams, [Tweet by Kirk Borne](https://twitter.com/KirkDBorne/status/1199688188958330882?s=20)
