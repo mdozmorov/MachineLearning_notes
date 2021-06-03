@@ -269,6 +269,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Machine and deep learning courses by Google](https://ai.google/education) - a collection of Google Developers courses
 
+- [Deep Learning in Computer Vision](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html) with Prof. Kosta Derpanis (Ryerson University)
+
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
 
 - [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
