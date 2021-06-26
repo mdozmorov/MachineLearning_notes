@@ -311,6 +311,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Videos
 
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet]()
+
 - [Applied Deep Learning](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4) playlist, short course lectures by Maziar Raissi. [GitHub](https://github.com/maziarraissi/Applied-Deep-Learning). 
 
 - [3blue1brown Neural Networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi), and [other 3blue1brown playlists](https://www.youtube.com/c/3blue1brown/playlists) 
