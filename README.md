@@ -70,6 +70,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [data-science](https://github.com/open-source-society/data-science) - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning
 
+- [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place
+
 - [free-data-science](https://github.com/alastairrushworth/free-data-science) - Thematic list of high-quality data science resources. R, Python, Shell, Regular Expressions, Git, Docker, Markdown/Latex, Statistics, Machine/Deep learning, Visualization, Time Series, Spatial Analysis, more.
 
 - [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
