@@ -111,6 +111,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Courses & Tutorials
 
+- [Machine Learning 2021](https://bioinformaticsdotca.github.io/MLE_2021) - a seven-module course covering basics of machine learning, by Bioinformatics.ca. [Youtube playlist](https://www.youtube.com/playlist?list=PL3izGL6oi0S_zXasgxccctQLNhIyVT_5o), [Course material on Google Drive](https://drive.google.com/drive/folders/1YBI_ellYJ7AKl2O1Y1glIqFxALjG2WPh)
+
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com) - from development to deployment of machine learning methods
 
 - [40+ Modern Tutorials Covering All Aspects of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning), [Tweet](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
