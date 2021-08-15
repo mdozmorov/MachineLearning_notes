@@ -229,6 +229,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. https://d2l.ai/
 
+- [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) and [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - GitHub with the source code
+
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
 - [neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for "[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)" book. Python/Theano examples, theory, and practice of deep learning by Michael Nielsen
