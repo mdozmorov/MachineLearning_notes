@@ -217,6 +217,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Books
 
+- [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html), [Tweet](https://twitter.com/thedataprof/status/1427667925436039170?s=20)
+
 - [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
 
 - [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
