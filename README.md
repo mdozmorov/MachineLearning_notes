@@ -27,7 +27,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [DL Tools](#dl-tools)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
-  - [DL Misc](#dl-misc)
+  - [DL Misc](#dl-misc))
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -140,8 +140,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [LatinR-2019-h2o-tutorial](https://github.com/ledell/LatinR-2019-h2o-tutorial) - H2O Machine Learning Tutorial in R
 
 - [lecture_i2ml](https://github.com/compstat-lmu/lecture_i2ml) - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python
-
-- [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
 
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning course mlcourse.ai, 2018 English version. [Online version](https://mlcourse.ai), [Video](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 
@@ -284,8 +282,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Deep Learning in Computer Vision](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html) with Prof. Kosta Derpanis (Ryerson University)
 
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
-
-- [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
 - [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks, by Laurence Moroney, Google
 
@@ -504,3 +500,10 @@ Yury Kashnitsky
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. [Google Slides](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit#slide=id.g78327f1586_1537_920)
 
 - [Machine-Learning-Figures](https://github.com/Neuraxio/Machine-Learning-Figures) - images of most representative concepts and diagrams for machine- and deep learning.
+
+# Material in Russian
+
+- [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
+
+- [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
+
