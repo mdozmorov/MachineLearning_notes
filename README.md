@@ -509,4 +509,6 @@ Yury Kashnitsky
 
 - [Ordinary Differential Equations](https://ode.mathbook.info/) - Обыкновенные дифференциальные уравнения, Интерактивный учебник, Илья Щуров (НИУ ВШЭ)
 
+- [Calculus](https://calculus.mathbook.info) - Математический анализ, Записки лекций, Илья Щуров (НИУ ВШЭ). [Tweet](https://twitter.com/ilyaschurov/status/1432811362904944644?s=20)
+
 - [mathprofi.ru](http://mathprofi.ru) - Высшая математика – просто и доступно. [Mirror](http://mathprofi.net)
