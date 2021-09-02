@@ -507,3 +507,4 @@ Yury Kashnitsky
 
 - [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
 
+- [Ordinary Differential Equations](https://ode.mathbook.info/) - Обыкновенные дифференциальные уравнения, Интерактивный учебник, Илья Щуров (НИУ ВШЭ)
