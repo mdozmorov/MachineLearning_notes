@@ -503,6 +503,8 @@ Yury Kashnitsky
 
 # Material in Russian
 
+- [ml-course-hse](https://github.com/esokolov/ml-course-hse) - machine learning course at the Computer Sciences Department, High Schoool of Economy. Multiple years, videos
+
 - [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
 
 - [DL_CSHSE_spring2018](https://github.com/aosokin/DL_CSHSE_spring2018) - Deep learning, Anton Osokin, Higher School of Economics, Computer Sciences Department (Russian), course material, and [video lectures](https://www.youtube.com/playlist?list=PLzY5g-rVmFayEkCcgO3_-it6HZwPZL3ld)
