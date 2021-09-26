@@ -503,6 +503,8 @@ Yury Kashnitsky
 
 # Material in Russian
 
+- [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - matplotlib for scientific graphics. 3 parts, 13 chapters. By Pavel Shabanov
+
 - [ml-course-hse](https://github.com/esokolov/ml-course-hse) - machine learning course at the Computer Sciences Department, High Schoool of Economy. Multiple years, videos
 
 - [mlcourse_open](https://github.com/Yorko/mlcourse_open) - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. [Video](https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl)
