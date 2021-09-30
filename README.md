@@ -483,6 +483,8 @@ Yury Kashnitsky
 
 ## DL Misc
 
+- [Elvis Saravia](https://github.com/omarsar) - machine learning researcher at Facebook AI, [Twitter account](https://twitter.com/omarsar0) to follow.
+
 - [traingenerator.jrieke.com](https://traingenerator.jrieke.com) - A web app to generate template code for machine learning. [GitHub](https://github.com/jrieke/traingenerator), [Tweet](https://twitter.com/jrieke/status/1343587198671720449?s=20)
 
 - [Deep-learning-in-cloud](https://github.com/zszazi/Deep-learning-in-cloud) - List of deep learning cloud providers
