@@ -245,6 +245,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan) - A complete study plan to become a Machine Learning Engineer with links to all FREE resources. 
+
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) by Terence Parr and Jeremy Howard.
 
 - [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL), [Tweet](https://twitter.com/omarsar0/status/1384214802214526984?s=20)
