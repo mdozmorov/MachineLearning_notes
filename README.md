@@ -281,6 +281,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Machine and deep learning courses by Google](https://ai.google/education) - a collection of Google Developers courses
 
+- [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK, Microsoft
+
 - [Deep Learning in Computer Vision](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html) with Prof. Kosta Derpanis (Ryerson University)
 
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
