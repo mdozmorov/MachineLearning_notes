@@ -365,6 +365,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Papers
 
+- [DeepMind Research](https://github.com/deepmind/deepmind-research) - implementations and illustrative code to accompany DeepMind publications. Jupyter notebooks and data, list of projects
+
 - Lee, Benjamin D, Anthony Gitter, Casey S Greene, Sebastian Raschka, Finlay Maguire, Alexander J Titus, Michael D Kessler, et al. “[Ten Quick Tips for Deep Learning in Biology](https://arxiv.org/abs/2105.14372).” ArXiv 29 May 2021 - 1. Use appropriate method; 2. Establish baseline; 3. Train reproducibly; 4. Know your data; 5. Select sensible architecture; 6. Optimize hyperparameters; 7. Mitigate overfitting; 8. Maximize interpretability; 9. Avoid over-interpretation; 10. Prioritize research ethics. Summary in Figure 1. References. [Latest version](https://benjamin-lee.github.io/deep-rules/)
 
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production.
