@@ -397,6 +397,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ### DL Papers Genomics
 
+- Greener, Joe G., Shaun M. Kandathil, Lewis Moffat, and David T. Jones. “[A Guide to Machine Learning for Biologists](https://doi.org/10.1038/s41580-021-00407-0).” Nature Reviews Molecular Cell Biology, September 13, 2021. - Introduction to machine/deep learning, focusing on biology applications. General terms, supervised/unsupervised learning, loss function, parameters and hyperparameters, training/validation/testing, overfitting, bias-variance tradeoff, Classification, regression, clustering, dimensionality reduction, neural networks (CNN, LSTM/RNN/transformers, autoencoders), network training, data leakage. Evaluation of machine learning reports. References on each topic.
+
 - [Deep Review: Opportunities and obstacles for deep learning in biology and medicine](https://greenelab.github.io/deep-review/) - A collaboratively written review paper on deep learning, genomics, and precision medicine led by Casey Greene and many others
 
 - [Deep Learning Genomics Primer](https://github.com/abidlabs/deep-learning-genomics-primer) - This tutorial is a supplement to the manuscript, [A Primer on Deep Learning in Genomics](https://www.nature.com/articles/s41588-018-0295-5) (Nature Genetics, 2018) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. Box 1 and 2 - concepts and definitions. Box 3 - online resources (cloud platforms, GPU services, software libraries, educational resources, more). Python tutorial on detecting DNA motifs.
