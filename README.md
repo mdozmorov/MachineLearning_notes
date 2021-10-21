@@ -56,6 +56,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) blog post by Dhawal Shah with links to free courses in Computer Science, Data Science, Programming, Humanities, Business, Art & Design, Science, Social Sciences, Health & Medicine, Engineering, Mathematics, Education & Teaching, and Personal Development
 
+- [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! Links to many resources
+
 # Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
