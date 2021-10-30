@@ -462,6 +462,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [BERT](https://github.com/google-research/bert), Bidirectional Encoder Representations from Transformers, for natural language processing tasks. Model architecture, implemented using TensorFlow. Applications - Masked Language Model, next sentence prediction. Excels in several benchmarks. [Pretrained models and code](https://github.com/google-research/bert). See also [BioBert](https://github.com/dmis-lab/biobert)
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. “[BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)”
 
+- [progressive_growing_of_gans](https://github.com/tkarras/progressive_growing_of_gans) - Progressive Growing of GANs for Improved Quality, Stability, and Variation — Official TensorFlow implementation of the ICLR 2018 paper
+
 ### DL projects
 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
