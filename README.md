@@ -461,6 +461,9 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Caffe Model Zoo](http://caffe.berkeleyvision.org/model_zoo.html)
 
+- [DNABERT](https://github.com/jerryji1993/DNABERT) - pre-trained Bidirectional Encoder Representation from Transformers (BERT) model for DNA sequence, captures contextual information. Input - k-mer tokens (6-mer perform best). Architecture details, comparison with RNN, CNN, Transformers. Applied to promoter region prediction, transcription factor binding sites, splicing sites, genetic variants. visualization of learned attention patterns.[Supplementary material](https://doi.org/10.1093/bioinformatics/btab083) contains detailed description of the model's architecture, input data, training, evaluation, various case scenarios, visualization. [Bringing BERT to the field](https://towardsdatascience.com/bringing-bert-to-the-field-how-to-predict-gene-expression-from-corn-dna-9287af91fcf8) blog post contains more details and links to transformer resources.
+    - Ji, Yanrong, Zhihan Zhou, Han Liu, and Ramana V Davuluri. “[DNABERT: Pre-Trained Bidirectional Encoder Representations from Transformers Model for DNA-Language in Genome](https://doi.org/10.1093/bioinformatics/btab083).” Bioinformatics, (August 9, 2021) 
+
 - [BERT](https://github.com/google-research/bert), Bidirectional Encoder Representations from Transformers, for natural language processing tasks. Model architecture, implemented using TensorFlow. Applications - Masked Language Model, next sentence prediction. Excels in several benchmarks. [Pretrained models and code](https://github.com/google-research/bert). See also [BioBert](https://github.com/dmis-lab/biobert)
     - Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. “[BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)”
 
