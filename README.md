@@ -373,6 +373,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - Lee, Benjamin D, Anthony Gitter, Casey S Greene, Sebastian Raschka, Finlay Maguire, Alexander J Titus, Michael D Kessler, et al. “[Ten Quick Tips for Deep Learning in Biology](https://arxiv.org/abs/2105.14372).” ArXiv 29 May 2021 - 1. Use appropriate method; 2. Establish baseline; 3. Train reproducibly; 4. Know your data; 5. Select sensible architecture; 6. Optimize hyperparameters; 7. Mitigate overfitting; 8. Maximize interpretability; 9. Avoid over-interpretation; 10. Prioritize research ethics. Summary in Figure 1. References. [Latest version](https://benjamin-lee.github.io/deep-rules/)
 
+- Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762v5),” arXiv:1706.03762, 6 Dec 2017 - Transformer paper. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://youtu.be/4Bdc55j80l8) - 15 min video. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - PyTorch implementation of the original transformer paper. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - blog post by Jay Alammar explaining Transformer architecture.
+
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
