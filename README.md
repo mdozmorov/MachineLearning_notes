@@ -253,6 +253,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) by Terence Parr and Jeremy Howard.
 
+- [t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) - Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks
+
 - [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL), [Tweet](https://twitter.com/omarsar0/status/1384214802214526984?s=20)
 
 - [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. Main concepts and deep neural networks training on graphs. [Course website](https://web.stanford.edu/class/cs224w/)
