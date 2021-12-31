@@ -377,6 +377,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762v5),” arXiv:1706.03762, 6 Dec 2017 - Transformer paper. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://youtu.be/4Bdc55j80l8) - 15 min video. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - PyTorch implementation of the original transformer paper. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - blog post by Jay Alammar explaining Transformer architecture. [Tweet](https://twitter.com/iScienceLuvr/status/1471032149100797954?s=20) - best resources to learn Transformers
 
+- [Sebastian Ruder](https://ruder.io/), “[An Overview of Gradient Descent Optimization Algorithms](http://arxiv.org/abs/1609.04747).” June 15, 2017 - Gradient descent optimization algorithm review, by . Definitions, intuitive progression of algorithm improvements. Gradient descent variants: Batch, Stochastic, Mini-batch. Gradient descent algorithme: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam. Visualizattion. Parallel implementations. 
+
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml) - Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020) - A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code
