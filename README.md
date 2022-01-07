@@ -58,6 +58,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Here are 450 Ivy League courses you can take online right now for free](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/) blog post by Dhawal Shah with links to free courses in Computer Science, Data Science, Programming, Humanities, Business, Art & Design, Science, Social Sciences, Health & Medicine, Engineering, Mathematics, Education & Teaching, and Personal Development
 
+- [TOP 10 GitHub Repositories for Data Science](https://www.analyticsvidhya.com/blog/2022/01/top-10-github-repositories-for-data-science/) by Analysics Vidhya (Ayushi Gupta)
+
 - [machine-learning-resource](https://github.com/crazyhottommy/machine-learning-resource) - Machine- and deep learning notes by Ming Tang
 
 # Machine learning
