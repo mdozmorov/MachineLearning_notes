@@ -11,6 +11,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 
 - [Cheatsheets](#cheatsheets)
+- [JAX](#jax)
 - [Machine learning](#machine-learning)
   - [ML Books](#ml-books)
   - [ML Courses & Tutorials](#ml-courses--tutorials)
@@ -61,6 +62,14 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [TOP 10 GitHub Repositories for Data Science](https://www.analyticsvidhya.com/blog/2022/01/top-10-github-repositories-for-data-science/) by Analysics Vidhya (Ayushi Gupta)
 
 - [machine-learning-resource](https://github.com/crazyhottommy/machine-learning-resource) - Machine- and deep learning notes by Ming Tang
+
+# JAX
+
+JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear ALgebra). XLA is a compiler developed by Google to work on TPU units. Jax has Numpy as its higher layer of abstraction, and works the same way on CPU, GPU, and TPU (much faster). 
+
+- [awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources
+
+- [JAX](https://github.com/yvrjsharma/JAX) - Jupyter (Colab) notebooks introducing JAX basic (jit, vmap, pmap, grad, and other) and advanced concepts, by [@yvrjsharma](https://github.com/yvrjsharma)
 
 # Machine learning
 
