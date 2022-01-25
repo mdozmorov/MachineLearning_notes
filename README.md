@@ -20,6 +20,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [ML Tools](#ml-tools)
   - [ML Misc](#ml-misc)
 - [Deep Learning](#deep-learning)
+  - [Keras, Tensorflow](#keras-tensorflow)
+  - [PyTorch](#pytorch)
   - [DL Books](#dl-books)
   - [DL Courses & Tutorials](#dl-courses--tutorials)
   - [DL Videos](#dl-videos)
@@ -222,9 +224,53 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn), [Tweet by Andrew Trask](https://twitter.com/iamtrask/status/1289658159972270080?s=20)
 
+- [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN). [Tweet](https://twitter.com/omarsar0/status/1368167852763717641?s=20)
+
+## Keras, Tensorflow
+
+- [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+- [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
+
+- [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks, by Laurence Moroney, Google
+
+- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow, by Jahandar Jahanipour. [Online version](http://www.easy-tensorflow.com/)
+
+- [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
+
+- [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Several posts, each ncludes video, text and code tutorial
+
+- [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
+
+- [keras-workshop](https://github.com/MangoTheCat/keras-workshop) - Keras R workshop, by Doug Ashton. slides, simple examples
+
+- [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) and [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - GitHub with the source code
+
+- [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow with Laurence Moroney. Computer vision-focused 
+
+- [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - Tensorflow Tutorials using Jupyter Notebook with data
+
+- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. By Amirsina Torfi
+
+- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs, by Aymeric Damien
+
+- [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, by Jon Krohn
+
+- [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
+
+- [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
+
+
+## PyTorch
+
 - [Awesome-Pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries, tutorials etc. [Tweet](https://twitter.com/omarsar0/status/1344007449506885639?s=20)
 
-- [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN). [Tweet](https://twitter.com/omarsar0/status/1368167852763717641?s=20)
+- [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+
+- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples, by Yunjey Choi
+
+- [tutorials](https://github.com/pytorch/tutorials) - official PyTorch tutorials, with videos. [Website](https://pytorch.org/tutorials/)
+
 
 ## DL Books
 
@@ -232,19 +278,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html), [Tweet](https://twitter.com/thedataprof/status/1427667925436039170?s=20)
 
-- [handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
-
-- [Deep Learning with PyTorch](https://pytorch.org/deep-learning-with-pytorch)
-
-- [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-
 - [The Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville. Includes lectures in `.key` and `.pdf` formats, [videos discussing different chapters](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos). https://www.deeplearningbook.org/
 
 - [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Python code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
 - [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions, based on [MXNet](https://mxnet.apache.org/), useful as general learning material. https://d2l.ai/
-
-- [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow) and [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - GitHub with the source code
 
 - [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - Python code for the "[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)" book by Andrew Trask 
 
@@ -276,14 +314,6 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [2020 - 2021: Machine-Learning / Deep-Learning / AI -Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more
 
-- [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
-
-- [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
-
-- [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
-
-- [Deep Learning with Keras and TensorFlow in R Workflow](https://community.rstudio.com/t/deep-learning-with-keras-and-tensorflow-in-r-workflow-rstudio-conf-2020/49099) by Brad Boehmke. [GutHub repo](https://github.com/rstudio-conf-2020/dl-keras-tf) with Rmd files for data download, code examples, lectures.
-
 - [MIT 6.874 Computational Systems Biology: Deep Learning in the Life Sciences](https://mit6874.github.io/) - machine/deep learning, genomics, systems biology MIT course, Spring 2020. Taught by David Gifford, Manolis Kellis, Sachit Dinesh Saksena, Corban Swain, Timothy Fei Truong Jr. Lecture videos, slides, reading references. [GitHub repo](https://github.com/mit6874/mit6874.github.io)
 
 - [Colah's blog, articles on neural networks, visualization](https://colah.github.io/) - Illustrated and highly informative posts on types of neural networks and their applications by Christopher Olah
@@ -308,15 +338,7 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
 
-- [dlaicourse](https://github.com/lmoroney/dlaicourse) - Deep learning course, TensorFlow, Jupyter notebooks, by Laurence Moroney, Google
-
-- [easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow, by Jahandar Jahanipour. [Online version](http://www.easy-tensorflow.com/)
-
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained, by Oleksii Trekhleb. [Medium blog post](https://medium.com/datadriveninvestor/homemade-machine-learning-in-python-ed77c4d6e25b)
-
-- [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
-
-- [keras-workshop](https://github.com/MangoTheCat/keras-workshop) - Keras R workshop, by Doug Ashton. slides, simple examples
 
 - [nn-from-scratch](https://github.com/dennybritz/nn-from-scratch) - Implementing a Neural Network from Scratch – An Introduction, by Denny Britz. [Notes](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 
@@ -327,16 +349,6 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 - [stat479-machine-learning-fs19](https://github.com/rasbt/stat479-machine-learning-fs19) - Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, pdf slides
 
 - [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19) - Course material for STAT 479: Deep Learning (SS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, pdf slides
-
-- [Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101) - Tensorflow Tutorials using Jupyter Notebook with data
-
-- [TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course) - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. By Amirsina Torfi
-
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs, by Aymeric Damien
-
-- [TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons) - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, by Jon Krohn
-
-- [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples, by Yunjey Choi
 
 ## DL Videos
 
@@ -356,8 +368,6 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Introduction to Deep Learning course, D2L, Berkeley STAT 157, video lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola. Accompanies the https://d2l.ai/ book
 
-- [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Several posts, each ncludes video, text and code tutorial
-
 - [Machine Learning & Deep Learning Fundamentals, by DeepLizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) - information-dense short videos about fundamentals and math behind neural networks. [Blog posts](https://deeplizard.com/learn/video/gZmobeGL0Yg)
 
 - [Brandon Rohrer's YouTube channel](https://www.youtube.com/user/BrandonRohrer) - short videos about basics of deep learning and neural networks
@@ -365,8 +375,6 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 - [Undergraduate machine learning at UBC 2012](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) by Nando de Freitas. [Slides](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
  - [Deep learning at Oxford 2015](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) by Nando de Freitas. [Slides](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-
-- [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
 - [Undergraduate machine learning at UBC 2012](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) by Nando de Freitas. [Slides](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
@@ -377,8 +385,6 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 - [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) - a video-course on deep RL taught at @UCL by DeepMind researchers
 
 - [Weights & Biases video and code tutorials](https://www.wandb.com/tutorials) - Short videos and text with Python code for individual topics, by Lukas Biewald. [GitHub repo](https://github.com/lukas/ml-class) with code. [Weights & Biases Youtube channel](https://www.youtube.com/channel/UCBp3w4DCEC64FZr4k9ROxig)
-
-- [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow with Laurence Moroney. Computer vision-focused 
 
 - [UCL Course on Reinforcement Learning](http://davidsilver.uk/teaching/) by David Silver. Slides and video lectures
 
