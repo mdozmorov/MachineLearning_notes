@@ -271,6 +271,7 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [tutorials](https://github.com/pytorch/tutorials) - official PyTorch tutorials, with videos. [Website](https://pytorch.org/tutorials/)
 
+- [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
 
 ## DL Books
 
