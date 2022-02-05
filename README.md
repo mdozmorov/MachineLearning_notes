@@ -461,6 +461,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - neural artistic style transfer using MXNet. PyTorch and Torch implementations available
 
+- [openai.com](https://openai.com) - GPT-3 Access Without the Wait (API access to GPT-3)
+
 - [pathology_learning](https://github.com/millett/pathology_learning) - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides
 
 - [ruta](https://github.com/fdavidcl/ruta) - Unsupervised Deep Architechtures in R, autoencoders. Requires Keras and TensorFlow. [Book](https://ruta.software/)
