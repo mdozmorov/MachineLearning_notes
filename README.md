@@ -199,6 +199,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations
 
+- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - bias, variance, total error, classic figures and explanation by Scott Fortmann-Roe.
+
 - [lares](https://github.com/laresbernardo/lares) - R Library for Analytics and Machine Learning
 
 - [ml_techniques](https://github.com/ShirinG/ml_techniques) - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest, by Shirin Glander
