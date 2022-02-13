@@ -85,6 +85,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
 
+- [machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets, Jupyter notebooks, by [Sebastian Raschka](https://github.com/rasbt). 
+
 
 ## ML Books
 
