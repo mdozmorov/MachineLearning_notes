@@ -222,6 +222,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [GNNPapers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN). [Tweet](https://twitter.com/omarsar0/status/1368167852763717641?s=20)
 
+- [GNNs-Recipe](https://github.com/dair-ai/GNNs-Recipe) - A recipe to study Graph Neural Networks (GNNs), by [omarsar](https://github.com/omarsar)
+
 ## Keras, Tensorflow
 
 - [Deep learning with R](https://www.manning.com/books/deep-learning-with-r) by François Chollet (the creator of Keras) with J. J. Allaire (the founder of RStudio and the author of the R interfaces to Keras and TensorFlow), [R notebooks](https://github.com/jjallaire/deep-learning-with-r-notebooks), [Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
