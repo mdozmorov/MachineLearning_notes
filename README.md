@@ -90,13 +90,13 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## ML Books
 
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/), 2022 edition. Intro (probability, statistics, decision theory, information theory, linear algebra), linear models, nonparametric modeling, deep neural networks, dimensionality reduction, clustering, more. [GitHub](https://github.com/probml/pml-book), [Tweet1](https://twitter.com/omarsar0/status/1345021214671122433?s=20), [Tweet2](https://twitter.com/omarsar0/status/1494692845634174980?s=20&t=7IYo6CcxpTRrdh487t0_mw)
+
 - [Mathematics for Machine Learning](https://mml-book.github.io), 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. 
 
 - [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc.
 
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas. [Tweet](https://twitter.com/svpino/status/1346442575557758976?s=20)
-
-- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by Kevin P. Murphy. [Tweet](https://twitter.com/omarsar0/status/1345021214671122433?s=20)
 
 - [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) by Mihail Eric @mihail_eric. [Tweet](https://twitter.com/omarsar0/status/1312697532414394370?s=20)
 
