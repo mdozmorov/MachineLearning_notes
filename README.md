@@ -555,6 +555,8 @@ Yury Kashnitsky
 
 - [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 
+- [tpu-starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPU
+
 - [How to use R with Google Colaboratory?](https://stackoverflow.com/questions/54595285/how-to-use-r-with-google-colaboratory), direct link to [a new R-notebook](https://colab.research.google.com/notebook#create=true&language=r)
 
 - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch) - PyTorch implementations of deep reinforcement learning algorithms and environments
