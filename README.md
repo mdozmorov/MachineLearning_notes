@@ -510,6 +510,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
 
+- [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
+
 - [JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization. [Arxiv](https://arxiv.org/abs/2112.11641)
 
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
