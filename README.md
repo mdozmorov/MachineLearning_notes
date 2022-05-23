@@ -17,7 +17,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [ML Videos](#ml-videos)
   - [ML Papers](#ml-papers)
   - [ML Tools](#ml-tools)
-  - [Auto ML](#auto-ml)
   - [ML Misc](#ml-misc)
 - [Deep Learning](#deep-learning)
   - [Keras, Tensorflow](#keras-tensorflow)
@@ -29,6 +28,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [DL Papers](#dl-papers)
     - [DL Papers Genomics](#dl-papers-genomics)
   - [DL Tools](#dl-tools)
+    - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
   - [DL Misc](#dl-misc))
@@ -186,12 +186,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 ## ML Tools
 
 - [mlr3](https://mlr3.mlr-org.com/) - Machine learning in R R package, the unified interface to classification, regression, survival analysis, and other machine learning tasks. [GitHub repo](https://github.com/mlr-org/mlr3), [mlr3gallery](https://mlr3gallery.mlr-org.com/) - Examples of problems and code solutions, [mlr3 Manual](https://mlr3book.mlr-org.com/) - mlr3 bookdown. More on the [mlr3 package site](https://github.com/mlr-org/mlr3), including videos
-
-## Auto ML
-
-- [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
-
-
 
 ## ML Misc
 
@@ -490,6 +484,12 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
 - [PennAI](https://github.com/EpistasisLab/pennai) - AI-Driven Data Science, entry-level machine learning interface for non-experts. [A System for Accessible Artificial Intelligence](https://arxiv.org/abs/1705.00594)
+
+### Auto ML
+
+- [ClearML](https://github.com/allegroai/clearml) - Auto-Magical Suite of tools (Python) to streamline your ML workflow Experiment Manager, MLOps and Data-Management. [Documentation](https://clear.ml/docs/latest/docs/), [Youtube channel](https://www.youtube.com/c/ClearML/videos)
+
+- [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
 
 ### DL models
 
