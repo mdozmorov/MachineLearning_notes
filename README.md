@@ -309,6 +309,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Courses & Tutorials
 
+- [AI-For-Beginners](https://microsoft.github.io/AI-For-Beginners/) - 12 Weeks, 24 Lessons, AI for All! PyTorch, Keras/Tensorflow, notebooks. Computer vision, natural language processing, extras. [GitHub](https://github.com/microsoft/AI-For-Beginners)
+
 - [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan) - A complete study plan to become a Machine Learning Engineer with links to all FREE resources. 
 
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! Links to many resources
