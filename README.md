@@ -258,6 +258,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners](https://youtu.be/tPYj3fFJGjk) - 7 hours of walk-through programming with Tim Ruscica. Links to Google Colaboratory Notebooks are in the description
 
+- [Text Classification with TensorFlow](https://youtu.be/VtRLrQ3Ev-U) - Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial, by Kylie Ying. 1h 54m
+
 - [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
 
 
@@ -365,7 +367,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Videos
 
-- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet]()
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet](https://twitter.com/omarsar0/status/1458048207200657408?s=20&t=3Z19BX54dyaa_bScwRFEJQ)
 
 - [Applied Deep Learning](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4) playlist, short course lectures by Maziar Raissi. [GitHub](https://github.com/maziarraissi/Applied-Deep-Learning). 
 
