@@ -471,6 +471,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Interactive_Tools](https://github.com/Machine-Learning-Tokyo/Interactive_Tools) - Interactive Tools for Machine Learning, Deep Learning and Math. Play with deep neural network in browser
 
+- [ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework supporting JAX, TensorFlow, PyTorch, MXNet, and Numpy. Python module. [Documentation](https://lets-unify.ai/ivy/index.html)
+
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans [http://keras.io/](http://keras.io/)
 
 - [MXNet-Gluon-Style-Transfer](https://github.com/StacyYang/MXNet-Gluon-Style-Transfer) - neural artistic style transfer using MXNet. PyTorch and Torch implementations available
