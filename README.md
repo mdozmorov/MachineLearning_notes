@@ -271,6 +271,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples, by Yunjey Choi
 
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch) - The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+
 - [tutorials](https://github.com/pytorch/tutorials) - official PyTorch tutorials, with videos. [Website](https://pytorch.org/tutorials/)
 
 - [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
