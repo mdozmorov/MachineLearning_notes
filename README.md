@@ -481,6 +481,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [openai.com](https://openai.com) - GPT-3 Access Without the Wait (API access to GPT-3)
 
+- [OpenCV](https://opencv.org/) - Open Source Computer Vision library. [GitHub](https://github.com/opencv/opencv), [opencv-python](https://github.com/opencv/opencv-python) - CPU-only OpenCV packages for Python. [Documentation](https://docs.opencv.org/4.x/index.html). [Video](https://youtu.be/Z846tkgl9-U) - 3h OpenCV crash course
+
 - [pathology_learning](https://github.com/millett/pathology_learning) - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides
 
 - [ruta](https://github.com/fdavidcl/ruta) - Unsupervised Deep Architechtures in R, autoencoders. Requires Keras and TensorFlow. [Book](https://ruta.software/)
