@@ -291,6 +291,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 ## DL Books
 
+- [influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
+
 - [Deep Learning Interviews book](https://www.interviews.ai/) by Shlomo Kashani. Hundreds of fully solved job interview questions from a wide range of key topics in AI. [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) repo has link to free PDF.
 
 - [Deep Learning for Molecules and Materials](https://whitead.github.io/dmol-book/intro.html), [Tweet](https://twitter.com/thedataprof/status/1427667925436039170?s=20)
