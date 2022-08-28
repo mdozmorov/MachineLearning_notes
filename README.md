@@ -288,6 +288,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [GNNs-Recipe](https://github.com/dair-ai/GNNs-Recipe) - A recipe to study Graph Neural Networks (GNNs), by [omarsar](https://github.com/omarsar)
 
+- [Graph-Neural-Networks-in-Life-Sciences](https://github.com/dglai/Graph-Neural-Networks-in-Life-Sciences) - five-section tutorial (Jupyter notebooks) on Graph Neural Networks in Life Sciences
 
 ## DL Books
 
