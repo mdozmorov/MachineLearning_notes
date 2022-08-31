@@ -31,7 +31,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
-  - [DL Misc](#dl-misc))
+  - [DL Misc](#dl-misc)
 - [JAX](#jax)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
