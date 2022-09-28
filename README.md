@@ -181,6 +181,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Learning from data](https://work.caltech.edu/lectures.html#lectures) - Statistical learning theory course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. Videos, slides
 
+- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg) - 3h 53m video, from intro, kNN, Naive Bayes, regression, SVM to TensorFlow
+
 - [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
 
 ## ML Papers
