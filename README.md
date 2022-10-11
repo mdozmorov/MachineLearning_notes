@@ -22,6 +22,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [Keras, Tensorflow](#keras-tensorflow)
   - [PyTorch](#pytorch)
   - [Graph Neural Networks](#graph-neural-networks)
+  - [Transformers](#transformers)
   - [DL Books](#dl-books)
   - [DL Courses & Tutorials](#dl-courses--tutorials)
   - [DL Videos](#dl-videos)
@@ -294,6 +295,12 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Graph-Neural-Networks-in-Life-Sciences](https://github.com/dglai/Graph-Neural-Networks-in-Life-Sciences) - five-section tutorial (Jupyter notebooks) on Graph Neural Networks in Life Sciences
 
+## Transformers
+
+- [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks.
+
+- Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762v5),” arXiv:1706.03762, 6 Dec 2017 - Transformer paper. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://youtu.be/4Bdc55j80l8) - 15 min video. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - PyTorch implementation of the original transformer paper. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - blog post by Jay Alammar explaining Transformer architecture. [Tweet](https://twitter.com/iScienceLuvr/status/1471032149100797954?s=20) - best resources to learn Transformers
+
 ## DL Books
 
 - [influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming
@@ -419,8 +426,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) - implementations and illustrative code to accompany DeepMind publications. Jupyter notebooks and data, list of projects
 
 - Lee, Benjamin D, Anthony Gitter, Casey S Greene, Sebastian Raschka, Finlay Maguire, Alexander J Titus, Michael D Kessler, et al. “[Ten Quick Tips for Deep Learning in Biology](https://arxiv.org/abs/2105.14372).” ArXiv 29 May 2021 - 1. Use appropriate method; 2. Establish baseline; 3. Train reproducibly; 4. Know your data; 5. Select sensible architecture; 6. Optimize hyperparameters; 7. Mitigate overfitting; 8. Maximize interpretability; 9. Avoid over-interpretation; 10. Prioritize research ethics. Summary in Figure 1. References. [Latest version](https://benjamin-lee.github.io/deep-rules/)
-
-- Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762v5),” arXiv:1706.03762, 6 Dec 2017 - Transformer paper. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://youtu.be/4Bdc55j80l8) - 15 min video. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - PyTorch implementation of the original transformer paper. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - blog post by Jay Alammar explaining Transformer architecture. [Tweet](https://twitter.com/iScienceLuvr/status/1471032149100797954?s=20) - best resources to learn Transformers
 
 - [Sebastian Ruder](https://ruder.io/), “[An Overview of Gradient Descent Optimization Algorithms](http://arxiv.org/abs/1609.04747).” June 15, 2017 - Gradient descent optimization algorithm review, by . Definitions, intuitive progression of algorithm improvements. Gradient descent variants: Batch, Stochastic, Mini-batch. Gradient descent algorithme: Momentum, Nesterov accelerated gradient, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam. Visualizattion. Parallel implementations. 
 
