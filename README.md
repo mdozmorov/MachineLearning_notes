@@ -597,7 +597,7 @@ Yury Kashnitsky
 
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
 
-- [Elvis Saravia](https://github.com/omarsar) - machine learning researcher at Facebook AI, [Twitter account](https://twitter.com/omarsar0) to follow.
+- [Elvis Saravia](https://github.com/omarsar) - machine learning researcher at Facebook AI, [Twitter account](https://twitter.com/omarsar0) to follow. His [starred repos](https://github.com/omarsar?tab=stars) are gold.
 
 - [traingenerator.jrieke.com](https://traingenerator.jrieke.com) - A web app to generate template code for machine learning. [GitHub](https://github.com/jrieke/traingenerator), [Tweet](https://twitter.com/jrieke/status/1343587198671720449?s=20)
 
