@@ -591,6 +591,8 @@ Yury Kashnitsky
 
 - [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
 
+- [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
 
 ## DL Misc
