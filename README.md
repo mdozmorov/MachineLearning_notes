@@ -587,6 +587,8 @@ Yury Kashnitsky
 
 - [Magenta](https://github.com/magenta/magenta) - Music and Art Generation with Machine Intelligence
 
+- [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the [OpenAI](https://openai.com/) API. GPT-3, DALL-E2, other models.
+
 - [practical-ml](https://github.com/eugenesiow/practical-ml) - Learn by experimenting on state-of-the-art machine learning models and algorithms with Jupyter Notebooks. Computer vision, NLP, speech, notebooks open in Colab.
 
 - [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
