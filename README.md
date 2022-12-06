@@ -161,6 +161,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning course mlcourse.ai, 2018 English version. [Online version](https://mlcourse.ai), [Video](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
 
+- [MLfromscratch](https://github.com/patrickloeber/MLfromscratch) - Machine Learning algorithm implementations from scratch. [Youtube videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
 - [MTH594_MachineLearning](https://github.com/diefimov/MTH594_MachineLearning) - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)
 
 - [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
