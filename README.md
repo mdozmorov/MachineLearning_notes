@@ -11,14 +11,14 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 
 - [Cheatsheets](#cheatsheets)
-- [Machine learning](#machine-learning)
+- [Awesome Machine learning](#awesome-machine-learning)
   - [ML Books](#ml-books)
   - [ML Courses & Tutorials](#ml-courses--tutorials)
   - [ML Videos](#ml-videos)
   - [ML Papers](#ml-papers)
   - [ML Tools](#ml-tools)
   - [ML Misc](#ml-misc)
-- [Deep Learning](#deep-learning)
+- [Awesome Deep Learning](#awesome-deep-learning)
   - [Keras, Tensorflow](#keras-tensorflow)
   - [PyTorch](#pytorch)
   - [Graph Neural Networks](#graph-neural-networks)
@@ -70,7 +70,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [machine-learning-resource](https://github.com/crazyhottommy/machine-learning-resource) - Machine- and deep learning notes by Ming Tang
 
-# Machine learning
+# Awesome Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 
@@ -219,11 +219,13 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
 
-# Deep Learning
+# Awesome Deep Learning
 
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 
 - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
+
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
