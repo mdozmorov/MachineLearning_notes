@@ -289,6 +289,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - a collection of simple PyTorch implementations of neural networks and related algorithms, with explanations. Jupyter notebooks. [Website](https://nn.labml.ai/) rendering 
 
+- [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
+
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) - implementations and illustrative code to accompany DeepMind publications. Jupyter notebooks and data, list of projects
 
 - Lee, Benjamin D, Anthony Gitter, Casey S Greene, Sebastian Raschka, Finlay Maguire, Alexander J Titus, Michael D Kessler, et al. “[Ten Quick Tips for Deep Learning in Biology](https://arxiv.org/abs/2105.14372).” ArXiv 29 May 2021 - 1. Use appropriate method; 2. Establish baseline; 3. Train reproducibly; 4. Know your data; 5. Select sensible architecture; 6. Optimize hyperparameters; 7. Mitigate overfitting; 8. Maximize interpretability; 9. Avoid over-interpretation; 10. Prioritize research ethics. Summary in Figure 1. References. [Latest version](https://benjamin-lee.github.io/deep-rules/)
