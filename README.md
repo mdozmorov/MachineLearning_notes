@@ -11,16 +11,10 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 
 - [Cheatsheets](#cheatsheets)
-- [Awesome Machine learning](#awesome-machine-learning)
-  - [ML Books](#ml-books)
-  - [ML Courses & Tutorials](#ml-courses--tutorials)
-  - [ML Videos](#ml-videos)
-  - [ML Papers](#ml-papers)
-  - [ML Tools](#ml-tools)
-  - [ML Misc](#ml-misc)
 - [Awesome Deep Learning](#awesome-deep-learning)
   - [Keras, Tensorflow](#keras-tensorflow)
   - [PyTorch](#pytorch)
+  - [JAX](#jax)
   - [Graph Neural Networks](#graph-neural-networks)
   - [Transformers](#transformers)
   - [DL Books](#dl-books)
@@ -33,7 +27,13 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
   - [DL Misc](#dl-misc)
-- [JAX](#jax)
+- [Awesome Machine learning](#awesome-machine-learning)
+  - [ML Books](#ml-books)
+  - [ML Courses & Tutorials](#ml-courses--tutorials)
+  - [ML Videos](#ml-videos)
+  - [ML Papers](#ml-papers)
+  - [ML Tools](#ml-tools)
+  - [ML Misc](#ml-misc)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -69,155 +69,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [TOP 10 GitHub Repositories for Data Science](https://www.analyticsvidhya.com/blog/2022/01/top-10-github-repositories-for-data-science/) by Analysics Vidhya (Ayushi Gupta)
 
 - [machine-learning-resource](https://github.com/crazyhottommy/machine-learning-resource) - Machine- and deep learning notes by Ming Tang
-
-# Awesome Machine learning
-
-- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
-
-- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources
-
-- [awesome-machine-learning-operations](https://github.com/EthicalML/awesome-machine-learning-operations) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
-
-- [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
-
-- [data-science](https://github.com/open-source-society/data-science) - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning
-
-- [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place
-
-- [free-data-science](https://github.com/alastairrushworth/free-data-science) - Thematic list of high-quality data science resources. R, Python, Shell, Regular Expressions, Git, Docker, Markdown/Latex, Statistics, Machine/Deep learning, Visualization, Time Series, Spatial Analysis, more.
-
-- [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
-
-- [machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. More info at [mlengineer.io](https://mlengineer.io/)
-
-- [machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets, Jupyter notebooks, by [Sebastian Raschka](https://github.com/rasbt). 
-
-
-## ML Books
-
-- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/), 2022 edition. Intro (probability, statistics, decision theory, information theory, linear algebra), linear models, nonparametric modeling, deep neural networks, dimensionality reduction, clustering, more. [GitHub](https://github.com/probml/pml-book), [Tweet1](https://twitter.com/omarsar0/status/1345021214671122433?s=20), [Tweet2](https://twitter.com/omarsar0/status/1494692845634174980?s=20&t=7IYo6CcxpTRrdh487t0_mw)
-
-- [Mathematics for Machine Learning](https://mml-book.github.io), 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. 
-
-- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc.
-
-- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas. [Tweet](https://twitter.com/svpino/status/1346442575557758976?s=20)
-
-- [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) by Mihail Eric @mihail_eric. [Tweet](https://twitter.com/omarsar0/status/1312697532414394370?s=20)
-
-- [100+ Free Data Science Books](http://www.learndatasci.com/free-books/)
-
-- [ciml](https://github.com/hal3/ciml) - book "A Course in Machine Learning". [Online version](http://ciml.info/)
-
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) book by Christoph Molnar, A Guide for Making Black Box Models Explainable. [LearnPub](https://leanpub.com/interpretable-machine-learning)
-
-- [Introduction to Machine Learning](http://robotics.stanford.edu/people/nilsson/mlbook.html) book by Nils Nilsson, free PDF
-
-- [hands-on-machine-learning-with-r](https://github.com/koalaverse/hands-on-machine-learning-with-r) - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. [Supplementary material](https://github.com/koalaverse/homlr), [Online version](https://bradleyboehmke.github.io/HOML/)
-
-- [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. 
-
-- [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - Code accompanying the book "[Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)"
-
-- [rtemis](https://github.com/egenn/rtemis) - Advanced Machine Learning and Visualization in R. [Book](https://rtemis.netlify.com/)
-
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) by Kuhn and Johnson, [GitHub](https://github.com/topepo/FES)
-
-
-
-## ML Courses & Tutorials
-
-- [Machine Learning 2021](https://bioinformaticsdotca.github.io/MLE_2021) - a seven-module course covering basics of machine learning, by Bioinformatics.ca. [Youtube playlist](https://www.youtube.com/playlist?list=PL3izGL6oi0S_zXasgxccctQLNhIyVT_5o), [Course material on Google Drive](https://drive.google.com/drive/folders/1YBI_ellYJ7AKl2O1Y1glIqFxALjG2WPh)
-
-- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com) - from development to deployment of machine learning methods
-
-- [40+ Modern Tutorials Covering All Aspects of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning), [Tweet](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
-
-- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos.
-
-- [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/) by Shirin Glander. [More in her blog posts, twitter etc.](https://shirinsplayground.netlify.com/)
-
-- [aml-london-2019](https://github.com/topepo/aml-london-2019) - Course materials for Applied Machine Learning course in 2019 in London, by Max Kuhn
-
-- [aml-training](https://github.com/tidymodels/aml-training) - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn
-
-- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of 800+ Computer Science courses with video lectures, [Tweet](https://twitter.com/PrasoonPratham/status/1367404646101184518?s=20)
-
-- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Randy Olson's data analysis and machine learning projects
-
-- [google-interview-university]((https://github.com/jwasham/google-interview-university)) - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer
-
-- [H2O-3](https://github.com/h2oai/h2o-3) - The third version of H2OAI - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
-
-- [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer
-
-- [Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R) - Workshop (6 hours): preprocessing, cross-validation, lasso, decision trees, random forest, xgboost, superlearner ensembles
-
-- [LatinR-2019-h2o-tutorial](https://github.com/ledell/LatinR-2019-h2o-tutorial) - H2O Machine Learning Tutorial in R
-
-- [lecture_i2ml](https://github.com/compstat-lmu/lecture_i2ml) - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python
-
-- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning course mlcourse.ai, 2018 English version. [Online version](https://mlcourse.ai), [Video](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
-
-- [MLfromscratch](https://github.com/patrickloeber/MLfromscratch) - Machine Learning algorithm implementations from scratch. [Youtube videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-
-- [MTH594_MachineLearning](https://github.com/diefimov/MTH594_MachineLearning) - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)
-
-- [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
-
-- [sklearn-classification](https://github.com/dformoso/sklearn-classification) - Data Science Notebook on a Classification Task, using sklearn and Tensorflow. Jupyter Notebook, the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data. Docker-wrapped
-
-- [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R. [Book](https://supervised-ml-course.netlify.com/)
-
-- [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
-
-
-## ML Videos
-
-- [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd), [Tweet](https://twitter.com/omarsar0/status/1383360564710174720?s=20)
-
-- [10 Powerful YouTube Channels for Data Science Aspirants](https://www.analyticsvidhya.com/blog/2020/08/10-powerful-youtube-channels-for-data-science-aspirants/) - Analytics Vidhya's post. [Sentdex](https://www.youtube.com/c/sentdex/playlists), [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists), [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/playlists), [StatQuest](https://www.youtube.com/c/joshstarmer/playlists), [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists), [Python Programmer](https://www.youtube.com/c/FlickThrough/playlists), [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists), [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists), [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/playlists), [365 Data Science](https://www.youtube.com/c/365DataScience/playlists)
-
-- NC ASA Webinar: Introduction to Machine Learning, by Dr. Funda Gunes, [Part 1](https://www.youtube.com/watch?v=UcV17JEs5eQ), [Part 2](https://www.youtube.com/watch?v=fv-l4AuAgns). A one hour overview of the main machine learning concepts
-
-- [Learning from data](https://work.caltech.edu/lectures.html#lectures) - Statistical learning theory course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. Videos, slides
-
-- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg) - 3h 53m video, from intro, kNN, Naive Bayes, regression, SVM to TensorFlow
-
-- [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
-
-## ML Papers
-
-- Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. [Video lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
-
-## ML Tools
-
-- [mlr3](https://mlr3.mlr-org.com/) - Machine learning in R R package, the unified interface to classification, regression, survival analysis, and other machine learning tasks. [GitHub repo](https://github.com/mlr-org/mlr3), [mlr3gallery](https://mlr3gallery.mlr-org.com/) - Examples of problems and code solutions, [mlr3 Manual](https://mlr3book.mlr-org.com/) - mlr3 bookdown. More on the [mlr3 package site](https://github.com/mlr-org/mlr3), including videos
-
-## ML Misc
-
-- [The Algorithms - R](https://github.com/TheAlgorithms/R) - GitHub repo with code examples of main machine learning algorithms
-
-- [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks]
-
-- [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations
-
-- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - bias, variance, total error, classic figures and explanation by Scott Fortmann-Roe.
-
-- [lares](https://github.com/laresbernardo/lares) - R Library for Analytics and Machine Learning
-
-- [ml_techniques](https://github.com/ShirinG/ml_techniques) - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest, by Shirin Glander
-
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms
-
-- [Gradient Boosting Essentials in R Using XGBOOST](http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/)
-
-- [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible, problems and solutions in R. XGBoost, SVM, neural networks, and other methods
-
-- Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
-
 
 # Awesome Deep Learning
 
@@ -288,6 +139,13 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
 
+## JAX
+
+JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear ALgebra). XLA is a compiler developed by Google to work on TPU units. Jax has Numpy as its higher layer of abstraction, and works the same way on CPU, GPU, and TPU (much faster). 
+
+- [awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources
+
+- [JAX](https://github.com/yvrjsharma/JAX) - Jupyter (Colab) notebooks introducing JAX basic (jit, vmap, pmap, grad, and other) and advanced concepts, by [@yvrjsharma](https://github.com/yvrjsharma)
 
 ## Graph Neural Networks
 
@@ -629,13 +487,153 @@ Yury Kashnitsky
 
 - [Machine-Learning-Figures](https://github.com/Neuraxio/Machine-Learning-Figures) - images of most representative concepts and diagrams for machine- and deep learning.
 
-# JAX
+# Awesome Machine learning
 
-JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear ALgebra). XLA is a compiler developed by Google to work on TPU units. Jax has Numpy as its higher layer of abstraction, and works the same way on CPU, GPU, and TPU (much faster). 
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 
-- [awesome-jax](https://github.com/n2cholas/awesome-jax) - JAX - A curated list of resources
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources
 
-- [JAX](https://github.com/yvrjsharma/JAX) - Jupyter (Colab) notebooks introducing JAX basic (jit, vmap, pmap, grad, and other) and advanced concepts, by [@yvrjsharma](https://github.com/yvrjsharma)
+- [awesome-machine-learning-operations](https://github.com/EthicalML/awesome-machine-learning-operations) - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
+
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science
+
+- [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
+
+- [data-science](https://github.com/open-source-society/data-science) - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning
+
+- [Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources) - Carefully curated resource links for data science in one place
+
+- [free-data-science](https://github.com/alastairrushworth/free-data-science) - Thematic list of high-quality data science resources. R, Python, Shell, Regular Expressions, Git, Docker, Markdown/Latex, Statistics, Machine/Deep learning, Visualization, Time Series, Spatial Analysis, more.
+
+- [machine_learning](https://github.com/davetang/machine_learning) - Machine learning in R notes by Dave Tang
+
+- [machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. More info at [mlengineer.io](https://mlengineer.io/)
+
+- [machine-learning-notes](https://github.com/rasbt/machine-learning-notes) - Collection of useful machine learning codes and snippets, Jupyter notebooks, by [Sebastian Raschka](https://github.com/rasbt). 
+
+
+## ML Books
+
+- [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/), 2022 edition. Intro (probability, statistics, decision theory, information theory, linear algebra), linear models, nonparametric modeling, deep neural networks, dimensionality reduction, clustering, more. [GitHub](https://github.com/probml/pml-book), [Tweet1](https://twitter.com/omarsar0/status/1345021214671122433?s=20), [Tweet2](https://twitter.com/omarsar0/status/1494692845634174980?s=20&t=7IYo6CcxpTRrdh487t0_mw)
+
+- [Mathematics for Machine Learning](https://mml-book.github.io), 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. 
+
+- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python) - Lecture Notes for Linear Algebra Featuring Python. These lecture notes are intended for introductory linear algebra courses, suitable for university students, programmers, data analysts, algorithmic traders and etc.
+
+- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas. [Tweet](https://twitter.com/svpino/status/1346442575557758976?s=20)
+
+- [A Machine Learning Primer](https://www.confetti.ai/assets/ml-primer/ml_primer.pdf) by Mihail Eric @mihail_eric. [Tweet](https://twitter.com/omarsar0/status/1312697532414394370?s=20)
+
+- [100+ Free Data Science Books](http://www.learndatasci.com/free-books/)
+
+- [ciml](https://github.com/hal3/ciml) - book "A Course in Machine Learning". [Online version](http://ciml.info/)
+
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) book by Christoph Molnar, A Guide for Making Black Box Models Explainable. [LearnPub](https://leanpub.com/interpretable-machine-learning)
+
+- [Introduction to Machine Learning](http://robotics.stanford.edu/people/nilsson/mlbook.html) book by Nils Nilsson, free PDF
+
+- [hands-on-machine-learning-with-r](https://github.com/koalaverse/hands-on-machine-learning-with-r) - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. [Supplementary material](https://github.com/koalaverse/homlr), [Online version](https://bradleyboehmke.github.io/HOML/)
+
+- [mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. 
+
+- [ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) - Code accompanying the book "[Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)"
+
+- [rtemis](https://github.com/egenn/rtemis) - Advanced Machine Learning and Visualization in R. [Book](https://rtemis.netlify.com/)
+
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) by Kuhn and Johnson, [GitHub](https://github.com/topepo/FES)
+
+
+
+## ML Courses & Tutorials
+
+- [Machine Learning 2021](https://bioinformaticsdotca.github.io/MLE_2021) - a seven-module course covering basics of machine learning, by Bioinformatics.ca. [Youtube playlist](https://www.youtube.com/playlist?list=PL3izGL6oi0S_zXasgxccctQLNhIyVT_5o), [Course material on Google Drive](https://drive.google.com/drive/folders/1YBI_ellYJ7AKl2O1Y1glIqFxALjG2WPh)
+
+- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com) - from development to deployment of machine learning methods
+
+- [40+ Modern Tutorials Covering All Aspects of Machine Learning](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning), [Tweet](https://twitter.com/KirkDBorne/status/1183944499711631361?s=20)
+
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos.
+
+- [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/) by Shirin Glander. [More in her blog posts, twitter etc.](https://shirinsplayground.netlify.com/)
+
+- [aml-london-2019](https://github.com/topepo/aml-london-2019) - Course materials for Applied Machine Learning course in 2019 in London, by Max Kuhn
+
+- [aml-training](https://github.com/tidymodels/aml-training) - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn
+
+- [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of 800+ Computer Science courses with video lectures, [Tweet](https://twitter.com/PrasoonPratham/status/1367404646101184518?s=20)
+
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) - Randy Olson's data analysis and machine learning projects
+
+- [google-interview-university]((https://github.com/jwasham/google-interview-university)) - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer
+
+- [H2O-3](https://github.com/h2oai/h2o-3) - The third version of H2OAI - Open Source Fast Scalable Machine Learning Platform For Smarter Applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
+
+- [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer
+
+- [Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R) - Workshop (6 hours): preprocessing, cross-validation, lasso, decision trees, random forest, xgboost, superlearner ensembles
+
+- [LatinR-2019-h2o-tutorial](https://github.com/ledell/LatinR-2019-h2o-tutorial) - H2O Machine Learning Tutorial in R
+
+- [lecture_i2ml](https://github.com/compstat-lmu/lecture_i2ml) - Introduction to Machine Learning (regression/classification, performance evaluation, parameter tuning, random forests), Python
+
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning course mlcourse.ai, 2018 English version. [Online version](https://mlcourse.ai), [Video](https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX)
+
+- [MLfromscratch](https://github.com/patrickloeber/MLfromscratch) - Machine Learning algorithm implementations from scratch. [Youtube videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
+- [MTH594_MachineLearning](https://github.com/diefimov/MTH594_MachineLearning) - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)
+
+- [pattern_classification](https://github.com/rasbt/pattern_classification) - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks
+
+- [sklearn-classification](https://github.com/dformoso/sklearn-classification) - Data Science Notebook on a Classification Task, using sklearn and Tensorflow. Jupyter Notebook, the Census Income Dataset to predict whether an individual's income exceeds $50K/yr based on census data. Docker-wrapped
+
+- [supervised-ML-case-studies-course](https://github.com/juliasilge/supervised-ML-case-studies-course) - Supervised machine learning case studies in R. [Book](https://supervised-ml-course.netlify.com/)
+
+- [useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial) - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel
+
+
+## ML Videos
+
+- [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd), [Tweet](https://twitter.com/omarsar0/status/1383360564710174720?s=20)
+
+- [10 Powerful YouTube Channels for Data Science Aspirants](https://www.analyticsvidhya.com/blog/2020/08/10-powerful-youtube-channels-for-data-science-aspirants/) - Analytics Vidhya's post. [Sentdex](https://www.youtube.com/c/sentdex/playlists), [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists), [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/playlists), [StatQuest](https://www.youtube.com/c/joshstarmer/playlists), [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists), [Python Programmer](https://www.youtube.com/c/FlickThrough/playlists), [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists), [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists), [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/playlists), [365 Data Science](https://www.youtube.com/c/365DataScience/playlists)
+
+- NC ASA Webinar: Introduction to Machine Learning, by Dr. Funda Gunes, [Part 1](https://www.youtube.com/watch?v=UcV17JEs5eQ), [Part 2](https://www.youtube.com/watch?v=fv-l4AuAgns). A one hour overview of the main machine learning concepts
+
+- [Learning from data](https://work.caltech.edu/lectures.html#lectures) - Statistical learning theory course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. Videos, slides
+
+- [Machine Learning for Everybody – Full Course](https://youtu.be/i_LwzRVP7bg) - 3h 53m video, from intro, kNN, Naive Bayes, regression, SVM to TensorFlow
+
+- [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
+
+## ML Papers
+
+- Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. [Video lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+
+## ML Tools
+
+- [mlr3](https://mlr3.mlr-org.com/) - Machine learning in R R package, the unified interface to classification, regression, survival analysis, and other machine learning tasks. [GitHub repo](https://github.com/mlr-org/mlr3), [mlr3gallery](https://mlr3gallery.mlr-org.com/) - Examples of problems and code solutions, [mlr3 Manual](https://mlr3book.mlr-org.com/) - mlr3 bookdown. More on the [mlr3 package site](https://github.com/mlr-org/mlr3), including videos
+
+## ML Misc
+
+- [The Algorithms - R](https://github.com/TheAlgorithms/R) - GitHub repo with code examples of main machine learning algorithms
+
+- [algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks) - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks]
+
+- [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations
+
+- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html) - bias, variance, total error, classic figures and explanation by Scott Fortmann-Roe.
+
+- [lares](https://github.com/laresbernardo/lares) - R Library for Analytics and Machine Learning
+
+- [ml_techniques](https://github.com/ShirinG/ml_techniques) - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest, by Shirin Glander
+
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms
+
+- [Gradient Boosting Essentials in R Using XGBOOST](http://www.sthda.com/english/articles/35-statistical-machine-learning-essentials/139-gradient-boosting-essentials-in-r-using-xgboost/)
+
+- [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible, problems and solutions in R. XGBoost, SVM, neural networks, and other methods
+
+- Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
 # Material in Russian
 
