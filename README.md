@@ -193,6 +193,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## DL Courses & Tutorials
 
+- [NYU-DLFL22](https://atcold.github.io/NYU-DLFL22/) - NYU Deep Learning Fall 2022, by Alfredo Canziani & Yann LeCun. Videos, slides, Jupyter notebooks. Links to previous material. [GitHub](https://github.com/Atcold/NYU-DLFL22), [Youtube](https://www.youtube.com/@alfcnz/videos).
+
 - [AI-For-Beginners](https://microsoft.github.io/AI-For-Beginners/) - 12 Weeks, 24 Lessons, AI for All! PyTorch, Keras/Tensorflow, notebooks. Computer vision, natural language processing, extras. [GitHub](https://github.com/microsoft/AI-For-Beginners)
 
 - [The Ultimate FREE Machine Learning Study Plan](https://github.com/python-engineer/ml-study-plan) - A complete study plan to become a Machine Learning Engineer with links to all FREE resources. 
