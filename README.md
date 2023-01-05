@@ -205,7 +205,7 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [CS231n](http://cs231n.stanford.edu/schedule.html) - Convolutional Neural Networks for Visual Recognition course, by Fei-Fei Li, Ranjay Krishna, Danfei Xu, at Stanford. Lecture slides, additional material, Colab notebooks. [GitHub](https://github.com/cs231n/cs231n.github.io)
 
-- [t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) - Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks
+- [t81_558_deep_learning](https://github.com/jeffheaton/t81_558_deep_learning) - Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks, by Jeff Heaton. [Youtube](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
 
 - [CS685: Advanced Natural Language Processing](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL), [Tweet](https://twitter.com/omarsar0/status/1384214802214526984?s=20)
 
