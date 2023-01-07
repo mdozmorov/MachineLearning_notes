@@ -471,6 +471,11 @@ Yury Kashnitsky
 
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
 
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - A Unified Deep Learning System for Big Model Era. Scaling deep learning models using data, pipeline, tensor, and sequence parallelism. 1D, 2D, 2.5D, 3D distributed operators. Examples of each. Written in PyTorch, needs a configuration file defining parallelism. Benchmarked against DeepSpeed, Megatron-LM. <details>
+  <Summary>Paper</Summary>
+  Li, Shenggui, Jiarui Fang, Zhengda Bian, Hongxin Liu, Yuliang Liu, Haichen Huang, Boxiang Wang, and Yang You. “Colossal-AI: A Uniﬁed Deep Learning System For Large-Scale Parallel Training,” n.d.
+</details>
+
 - [Elvis Saravia](https://github.com/omarsar) - machine learning researcher at Facebook AI, [Twitter account](https://twitter.com/omarsar0) to follow. His [starred repos](https://github.com/omarsar?tab=stars) are gold.
 
 - [traingenerator.jrieke.com](https://traingenerator.jrieke.com) - A web app to generate template code for machine learning. [GitHub](https://github.com/jrieke/traingenerator), [Tweet](https://twitter.com/jrieke/status/1343587198671720449?s=20)
