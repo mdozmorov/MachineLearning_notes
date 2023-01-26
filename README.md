@@ -26,6 +26,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
+      - [ChatGPT](#chatgpt)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
   - [ML Books](#ml-books)
@@ -75,8 +76,6 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 
 - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
-
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
@@ -441,8 +440,6 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 - [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
 Yury Kashnitsky
 
-- [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
-
 - [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
 
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
@@ -468,6 +465,14 @@ Yury Kashnitsky
 - [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
+
+### ChatGPT
+
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+- [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
+
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
 ## DL Misc
 
