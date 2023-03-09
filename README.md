@@ -420,6 +420,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 
+- [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+
 - [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [HOW DALL-E COULD POWER A CREATIVE REVOLUTION](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution), The Verge. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 
 - [DeepSearch](https://ds4sd.github.io/) - extracts and structures data from PDF documents in four steps: Parse, Interpret, Index, and Integrate. Parses tables, images, paragraphs, output in json. [deepsearch-toolkit](https://github.com/ds4sd/deepsearch-toolkit) - Python interface to the DeepSearch platform for new knowledge explorations and discoveries, [Documentation](https://ds4sd.github.io/deepsearch-toolkit/). 
