@@ -246,6 +246,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [stat479-deep-learning-ss19](https://github.com/rasbt/stat479-deep-learning-ss19) - Course material for STAT 479: Deep Learning (SS 2019) taught by Sebastian Raschka at University Wisconsin-Madison, pdf slides
 
+- [UvA deep learning tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/) - upyter notebook tutorials for teaching the Deep Learning Course at the University of Amsterdam (MSc AI), Fall 2022/Spring 2022. PyTorch, JAX. [GitHub](https://github.com/phlippe/uvadlc_notebooks), [YouTube](https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA)
+
 ## DL Videos
 
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet](https://twitter.com/omarsar0/status/1458048207200657408?s=20&t=3Z19BX54dyaa_bScwRFEJQ)
