@@ -482,6 +482,8 @@ Yury Kashnitsky
 
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
 
+- [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
+
 ## DL Misc
 
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
