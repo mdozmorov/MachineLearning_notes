@@ -26,7 +26,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
-      - [ChatGPT](#chatgpt)
+      - [ChatGPT, LLMs](#chatgpt-llms)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
   - [ML Books](#ml-books)
@@ -472,13 +472,15 @@ Yury Kashnitsky
 
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
 
-### ChatGPT
+### ChatGPT, LLMs
 
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
 - [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+- [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
 
 ## DL Misc
 
