@@ -637,6 +637,8 @@ Yury Kashnitsky
 
 ## ML Papers
 
+- Whalen, Sean, Jacob Schreiber, William S. Noble, and Katherine S. Pollard. “Navigating the Pitfalls of Applying Machine Learning in Genomics.” Nature Reviews Genetics 23, no. 3 (March 2022): 169–81. https://doi.org/10.1038/s41576-021-00434-9. - Five machine learning problems in genomics, distributional differences, dependency structure, confounding variables, information leakage, unbalanced data. Description, examples, solutions.
+
 - Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. [Video lectures](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
 
 ## ML Tools
