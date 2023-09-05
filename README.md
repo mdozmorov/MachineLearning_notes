@@ -464,6 +464,8 @@ Yury Kashnitsky
 
 - [Magenta](https://github.com/magenta/magenta) - Music and Art Generation with Machine Intelligence
 
+- [MyGirlGPT](https://github.com/Synthintel0/MyGirlGPT) - a personal AI girlfriend running on a local server. Telegram chatbot integration. Voice messages, photos. 
+
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the [OpenAI](https://openai.com/) API. GPT-3, DALL-E2, other models.
 
 - [practical-ml](https://github.com/eugenesiow/practical-ml) - Learn by experimenting on state-of-the-art machine learning models and algorithms with Jupyter Notebooks. Computer vision, NLP, speech, notebooks open in Colab.
