@@ -388,6 +388,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ### Auto ML
 
+- [autokeras](https://github.com/keras-team/autokeras) - Keras-based AutoML library for deep learning. [Tutorials](https://autokeras.com/tutorial/overview/) for image/text/data classification/regression
+
 - [ClearML](https://github.com/allegroai/clearml) - Auto-Magical Suite of tools (Python) to streamline your ML workflow Experiment Manager, MLOps and Data-Management. [Documentation](https://clear.ml/docs/latest/docs/), [Youtube channel](https://www.youtube.com/c/ClearML/videos)
 
 - [TPOT](http://epistasislab.github.io/tpot/) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. Simplified interface to many machine learning algorithms. [Scaling Tree-Based Automated Machine Learning to Biomedical Big Data with a Feature Set Selector](https://doi.org/10.1093/bioinformatics/btz470)
