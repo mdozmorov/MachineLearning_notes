@@ -97,7 +97,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
 
-- [Learn TensorFlow for Deep Learning: Zero to Mastery book](https://dev.mrdbourke.com/tensorflow-deep-learning/) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course. [GitHub](https://github.com/mrdbourke/tensorflow-deep-learning/)
+- [Learn TensorFlow for Deep Learning: Zero to Mastery book](https://dev.mrdbourke.com/tensorflow-deep-learning/) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course. [GitHub](https://github.com/mrdbourke/tensorflow-deep-learning/), [Video 1](https://www.youtube.com/watch?v=tpCFfeUEGs8) 10h15m, [Video 2](https://www.youtube.com/watch?v=ZUKz4125WNI) 4h.
 
 - [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Several posts, each ncludes video, text and code tutorial
 
@@ -130,7 +130,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [DEEP LEARNING with PyTorch](https://atcold.github.io/pytorch-Deep-Learning/) by Yann LeCun & Alfredo Canziani. Videos, transcripts, slides, practicals. [YouTube playlist](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 
-- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. [GitHub](https://github.com/mrdbourke/pytorch-deep-learning/)
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) - Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. [GitHub](https://github.com/mrdbourke/pytorch-deep-learning/), [Video](https://www.youtube.com/watch?v=Z_ikDlimN6A) 25h36m
 
 - [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) - PyTorch Tutorial for Deep Learning Researchers. Basic, Intermediate, and Advanced code examples, by Yunjey Choi
 
