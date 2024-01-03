@@ -500,6 +500,8 @@ Yury Kashnitsky
 
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
 
+- [CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas. [Website](https://csrankings.org/#/index?all&us)
+
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - A Unified Deep Learning System for Big Model Era. Scaling deep learning models using data, pipeline, tensor, and sequence parallelism. 1D, 2D, 2.5D, 3D distributed operators. Examples of each. Written in PyTorch, needs a configuration file defining parallelism. Benchmarked against DeepSpeed, Megatron-LM. <details>
   <Summary>Paper</Summary>
   Li, Shenggui, Jiarui Fang, Zhengda Bian, Hongxin Liu, Yuliang Liu, Haichen Huang, Boxiang Wang, and Yang You. “Colossal-AI: A Uniﬁed Deep Learning System For Large-Scale Parallel Training,” n.d.
