@@ -492,6 +492,8 @@ Yury Kashnitsky
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 
+- [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
+
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
