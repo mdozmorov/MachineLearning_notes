@@ -97,6 +97,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2. Example code and solutions for the [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book by Aurélien Géron. Run on Google Colab
 
+- [Learn PyTorch for Deep Learning: Zero to Mastery book](https://dev.mrdbourke.com/tensorflow-deep-learning/) - All course materials for the Zero to Mastery Deep Learning with TensorFlow course. [GitHub](https://github.com/mrdbourke/tensorflow-deep-learning/)
+
 - [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) - Deep Learning basics with Python, TensorFlow and Keras. Several posts, each ncludes video, text and code tutorial
 
 - [image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf) - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG)
