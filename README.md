@@ -445,6 +445,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
 
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - voice cloning tool, transfer voice tones to pronounce different words, even in different language.
+
 - [Photo restoration with GFP-GAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [Online version](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
 
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. Learn voice characteristics from a short audio clip and perform text-to-speech conversion using this voice.
