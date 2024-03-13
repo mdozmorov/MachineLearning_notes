@@ -693,6 +693,10 @@ Yury Kashnitsky
 
 - Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
+# Material in Chinese
+
+- [Autopilot-Notes](https://github.com/gotonote/Autopilot-Notes) - Autonomous driving notes summarizing the basics, hardware, perception, position, planning, control, product, tools, and manufacturing plan topics.
+
 # Material in Russian
 
 - [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - matplotlib for scientific graphics. 3 parts, 13 chapters. By Pavel Shabanov
