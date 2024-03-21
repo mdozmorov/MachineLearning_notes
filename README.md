@@ -79,6 +79,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources
 
+- [awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
+
 - [AI and DeepRL](https://github.com/smc77/DeepRL) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
 
 - [THE NEURAL NETWORK ZOO](https://www.asimovinstitute.org/neural-network-zoo/) - infographics of different neural network architectures, explanation of each, references to the original papers
