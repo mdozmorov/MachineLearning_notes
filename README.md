@@ -196,6 +196,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Algorithms for Convex Optimization](https://convex-optimization.github.io), by Nisheeth K. Vishnoi. [PDF](https://convex-optimization.github.io/ACO-v1.pdf), [Tweet](https://twitter.com/NisheethVishnoi/status/1300487896894443521?s=20) 
 
+- [what_are_embeddings](https://github.com/veekaybee/what_are_embeddings) - A deep dive into embeddings starting from fundamentals, online and PDF.
+
 ## DL Courses & Tutorials
 
 - [courses](https://github.com/SkalskiP/courses) - a curated collection of links to various courses and resources about Artificial Intelligence (AI).
