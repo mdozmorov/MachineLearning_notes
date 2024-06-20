@@ -208,6 +208,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn! Links to many resources
 
+- [ml-road-map](https://github.com/loganthorneloe/ml-road-map) - The most streamlined road map to learn ML for free. Links to free resources covering topics from general programming to language models.
+
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/) by Terence Parr and Jeremy Howard.
 
 - [CS231n](http://cs231n.stanford.edu/schedule.html) - Convolutional Neural Networks for Visual Recognition course, by Fei-Fei Li, Ranjay Krishna, Danfei Xu, at Stanford. Lecture slides, additional material, Colab notebooks. [GitHub](https://github.com/cs231n/cs231n.github.io)
