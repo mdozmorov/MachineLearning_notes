@@ -449,6 +449,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization. [Arxiv](https://arxiv.org/abs/2112.11641)
 
+- [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
+
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
 
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - voice cloning tool, transfer voice tones to pronounce different words, even in different language.
