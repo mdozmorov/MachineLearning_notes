@@ -142,6 +142,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [tutorials](https://github.com/pytorch/tutorials) - official PyTorch tutorials, with videos. [Website](https://pytorch.org/tutorials/)
 
+- [udlbook](https://github.com/udlbook/udlbook) - Understanding Deep Learning - Simon J.D. Prince. Jupyter notebooks with comments, slides, figures. Need to be cloned.
+
 - [Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) - PyTorch, video course and Jupyter notebooks
 
 ## JAX
