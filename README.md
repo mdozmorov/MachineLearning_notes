@@ -242,6 +242,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Azure Machine Learning Python SDK notebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK, Microsoft
 
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI. Azure platform, Python-based, with videos
+
 - [Deep Learning in Computer Vision](https://www.cs.ryerson.ca/~kosta/CP8309-F2018/index.html) with Prof. Kosta Derpanis (Ryerson University)
 
 - [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch, by Spandan Madan,Visual Computing Group, Harvard University. Python
