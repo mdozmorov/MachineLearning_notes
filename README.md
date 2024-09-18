@@ -26,6 +26,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
+      - [Image, vision](#image-vision)
       - [ChatGPT, LLMs](#chatgpt-llms)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
@@ -499,6 +500,10 @@ Yury Kashnitsky
 - [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
+
+### Image, vision
+
+- [CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
 
 ### ChatGPT, LLMs
 
