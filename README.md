@@ -26,6 +26,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
+      - [Audio, voice, music](#audio-voice-music)
       - [Image, vision](#image-vision)
       - [ChatGPT, LLMs](#chatgpt-llms)
   - [DL Misc](#dl-misc)
@@ -437,45 +438,16 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ### DL projects
 
-- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
-
 - [ai-collection](https://github.com/ai-collection/ai-collection) - A collection of generative AI applications, for text, code, image, video, audio, etc.
-
-- [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 
 - [awesome-colab-notebooks](https://github.com/amrzv/awesome-colab-notebooks) - Collection of google colaboratory notebooks for fast and easy experiments
 
 - [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services.
 
-- [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-
-- [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [HOW DALL-E COULD POWER A CREATIVE REVOLUTION](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution), The Verge. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
-
 - [DeepSearch](https://ds4sd.github.io/) - extracts and structures data from PDF documents in four steps: Parse, Interpret, Index, and Integrate. Parses tables, images, paragraphs, output in json. [deepsearch-toolkit](https://github.com/ds4sd/deepsearch-toolkit) - Python interface to the DeepSearch platform for new knowledge explorations and discoveries, [Documentation](https://ds4sd.github.io/deepsearch-toolkit/). 
-
-- [CogView2](https://github.com/THUDM/CogView2) - official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" ([ArXiv](
-https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/CogView2/files/8553662/big.1.pdf)
-
-- [JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization. [Arxiv](https://arxiv.org/abs/2112.11641)
-
-- [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
-
-- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
-
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - voice cloning tool, transfer voice tones to pronounce different words, even in different language.
-
-- [Photo restoration with GFP-GAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [Online version](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
-
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. Learn voice characteristics from a short audio clip and perform text-to-speech conversion using this voice.
-
-- [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
 
 - [bert-finetuning-catalyst](https://github.com/Yorko/bert-finetuning-catalyst) - Code for BERT classifier finetuning for multiclass text classification, code and video, by 
 Yury Kashnitsky
-
-- [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
-
-- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
 
 - [Deeplearning-digital-pathology](https://github.com/zhaoxuanma/Deeplearning-digital-pathology) - Python code demonstrating image classification using Keras with Caffe or TensorFlow backend, image manipulation utilities
 
@@ -485,25 +457,56 @@ Yury Kashnitsky
 
 - [neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow
 
-- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
-
-- [Magenta](https://github.com/magenta/magenta) - Music and Art Generation with Machine Intelligence
-
 - [MyGirlGPT](https://github.com/Synthintel0/MyGirlGPT) - a personal AI girlfriend running on a local server. Telegram chatbot integration. Voice messages, photos. 
 
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the [OpenAI](https://openai.com/) API. GPT-3, DALL-E2, other models.
 
 - [practical-ml](https://github.com/eugenesiow/practical-ml) - Learn by experimenting on state-of-the-art machine learning models and algorithms with Jupyter Notebooks. Computer vision, NLP, speech, notebooks open in Colab.
 
-- [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
-
-- [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
+
+### Audio, voice, music
+
+- [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+
+- [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
+
+- [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
+
+- [Magenta](https://github.com/magenta/magenta) - Music and Art Generation with Machine Intelligence
+
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - voice cloning tool, transfer voice tones to pronounce different words, even in different language.
+
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time. Learn voice characteristics from a short audio clip and perform text-to-speech conversion using this voice.
+
+- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
+
+- [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
 
 ### Image, vision
 
+- [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
+
+- [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
+
+- [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
+
+- [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
+
 - [CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+
+- [CogView2](https://github.com/THUDM/CogView2) - official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers" ([ArXiv](
+https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/CogView2/files/8553662/big.1.pdf)
+
+- [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [HOW DALL-E COULD POWER A CREATIVE REVOLUTION](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution), The Verge. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
+
+- [JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization. [Arxiv](https://arxiv.org/abs/2112.11641)
+
+- [Photo restoration with GFP-GAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [Online version](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
+
+- [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
+
+- [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 ### ChatGPT, LLMs
 
