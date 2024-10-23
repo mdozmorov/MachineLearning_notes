@@ -160,6 +160,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## Graph Neural Networks
 
+- [PyG](https://www.pyg.org/) - a PyTorch library for Graph Neural Networks. [Documentation](https://pytorch-geometric.readthedocs.io/).
+
 - [CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) - Youtube playlist with course videos, by Jure Leskovec. Main concepts and deep neural networks training on graphs. [Course website](https://web.stanford.edu/class/cs224w/)
 
 - [Deep Learning on Graphs](https://web.njit.edu/~ym329/dlg_book/) book by Yao Ma and Jiliang Tang. Basics, methods, applications, and more. English and Chinese versions. [Tweet](https://twitter.com/omarsar0/status/1495783472228716551?s=20&t=1dQPuanBrvUUlP_g-Uo9jQ)
