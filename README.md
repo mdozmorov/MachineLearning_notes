@@ -489,6 +489,8 @@ Yury Kashnitsky
 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
 
+- [Top 10 Computer Vision Papers 2020](https://github.com/louisfb01/Top-10-Computer-Vision-Papers-2020) - A list of the top 10 computer vision papers in 2020 with video demos, articles, code and paper reference.
+
 - [awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis) - A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.
 
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Old Photo Restoration (Official PyTorch Implementation)
