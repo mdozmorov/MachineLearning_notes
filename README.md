@@ -176,6 +176,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [GraphGym](https://snap.stanford.edu/gnn-design/) - Design Space for Graph Neural Networks, Platform for designing and evaluating Graph Neural Networks (GNN). [GitHub](https://github.com/snap-stanford/graphgym), [Paper](https://arxiv.org/abs/2011.08843)
 
+- [GraphSAGE](https://github.com/williamleif/GraphSAGE) - Representation learning on large graphs using stochastic graph convolutions. Learning on node attributes. Tensorflow implementation, PyTorch available. [Project website](https://snap.stanford.edu/graphsage/), [Paper](https://arxiv.org/abs/1706.02216)
+
 ## Transformers
 
 - [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks.
