@@ -129,6 +129,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [useR! 2020: Deep Learning with Keras and TensorFlow (S. Elsinghorst), tutorial](https://youtu.be/uBISMeExoqk) 2h 07m video, and the GitLab repo [keras_tutorial_user2020](https://gitlab.com/ShirinG/keras_tutorial_user2020)
 
+- [Workshop-R-Tensorflow-Scientific-Computing](https://github.com/philbowsher/Workshop-R-Tensorflow-Scientific-Computing) - Workshop R for Deep Learning with Tensorflow with Applications in Research & Scientific Computing
+
 
 ## PyTorch
 
