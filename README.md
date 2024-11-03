@@ -358,6 +358,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Schmidhuber, “Deep Learning in Neural Networks.”](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) - Deep overview of deep learning history. Year-by-year description of types of DL, approaches, algorithmic (backpropagation) improvements, problems, and solutions
 
+- [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) - Scientific Large Language Models: A Survey on Biological & Chemical Domains
+
 ### DL Papers Genomics
 
 - [genomicsnotebook](https://github.com/microsoft/genomicsnotebook) - Genomics Data Analysis with Jupyter Notebooks on Azure.
