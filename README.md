@@ -524,6 +524,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
+- [VGG](https://www.robots.ox.ac.uk/~vgg/) - Visual Geometry Group. Large source of image datasets. Also, practicals, demos, software, publications, more.
+
 ### ChatGPT, LLMs
 
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
