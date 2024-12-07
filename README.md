@@ -26,9 +26,9 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
+      - [Language models](#language-models)
       - [Audio, voice, music](#audio-voice-music)
       - [Image, vision](#image-vision)
-      - [ChatGPT, LLMs](#chatgpt-llms)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
   - [ML Books](#ml-books)
@@ -479,6 +479,34 @@ Yury Kashnitsky
 
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples) - This repository provides State-of-the-Art Deep Learning examples that are easy to train and deploy, achieving the best reproducible accuracy and performance with NVIDIA CUDA-X software stack running on NVIDIA Volta, Turing and Ampere GPUs.
 
+### Language models
+
+- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+
+- [awesome-llm-courses](https://github.com/wikit-ai/awesome-llm-courses) - A curated list of awesome online courses about Large Langage Models (LLMs)
+
+- [chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+
+- [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
+
+- [h2ogpt](https://github.com/h2oai/h2ogpt) - open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai/
+
+- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step, the Python code for coding, pretraining, and finetuning a GPT-like LLM. By Sebastian Raschka. For the book [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch).
+
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. [Documentation](https://llm.mlc.ai/docs/)
+
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+- [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
+
+- [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
+
+- [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
+
 ### Audio, voice, music
 
 - [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -525,34 +553,6 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 - [stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 
 - [VGG](https://www.robots.ox.ac.uk/~vgg/) - Visual Geometry Group. Large source of image datasets. Also, practicals, demos, software, publications, more.
-
-### ChatGPT, LLMs
-
-- [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-
-- [awesome-llm-courses](https://github.com/wikit-ai/awesome-llm-courses) - A curated list of awesome online courses about Large Langage Models (LLMs)
-
-- [chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-
-- [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
-
-- [h2ogpt](https://github.com/h2oai/h2ogpt) - open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai/
-
-- [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-
-- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step, the Python code for coding, pretraining, and finetuning a GPT-like LLM. By Sebastian Raschka. For the book [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch).
-
-- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-
-- [mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices. [Documentation](https://llm.mlc.ai/docs/)
-
-- [nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
-- [ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally.
-
-- [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
-
-- [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 
 ## DL Misc
 
