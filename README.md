@@ -27,7 +27,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
       - [Language models](#language-models)
-      - [Audio, voice, music](#audio-voice-music)
+      - [Music, voice, audio](#music-voice-audio)
       - [Image, vision](#image-vision)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
@@ -511,7 +511,7 @@ Yury Kashnitsky
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 
-### Audio, voice, music
+### Music, voice, audio
 
 - [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
@@ -528,6 +528,8 @@ Yury Kashnitsky
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - A TensorFlow implementation of Baidu's DeepSpeech architecture. Transcribe audio data, English model available. [Documentation](https://deepspeech.readthedocs.io/)
 
 - [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
+
+- [vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers. [arXiv paper](https://arxiv.org/abs/2307.04686), [supplementary page](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33)
 
 ### Image, vision
 
