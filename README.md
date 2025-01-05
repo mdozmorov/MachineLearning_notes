@@ -573,6 +573,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 ## DL Misc
 
+- [geospy.ai](https://geospy.ai/) - location identification from photos
+
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
 
 - [CSrankings](https://github.com/emeryberger/CSrankings) - A web app for ranking computer science departments according to their research output in selective venues, and for finding active faculty across a wide range of areas. [Website](https://csrankings.org/#/index?all&us)
