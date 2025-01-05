@@ -486,7 +486,7 @@ Yury Kashnitsky
 
 ### Language models
 
-[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/)
+[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Storm](https://storm.genie.stanford.edu/)
 
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -517,6 +517,8 @@ Yury Kashnitsky
 - [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API. [Rendered version](https://platform.openai.com/docs/introduction)
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
+
+- [Storm](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [GitHub](https://github.com/stanford-oval/storm)
 
 ### Music, voice, audio
 
