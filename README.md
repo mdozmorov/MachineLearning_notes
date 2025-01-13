@@ -544,6 +544,8 @@ Yury Kashnitsky
 
 ### Image, vision
 
+- [Sora](https://openai.com/sora/) - OpenAI's text-to-video generation tool that allows users to create, animate, and remix videos from text prompts, images, and existing videos.
+
 - [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
 
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - links to many ML/DL projects and resources
