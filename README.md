@@ -28,7 +28,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [DL projects](#dl-projects)
       - [Language models](#language-models)
       - [Music, voice, audio](#music-voice-audio)
-      - [Image, vision](#image-vision)
+      - [Image, video, vision](#image-video-vision)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
   - [ML Books](#ml-books)
@@ -486,7 +486,7 @@ Yury Kashnitsky
 
 ### Language models
 
-[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Storm](https://storm.genie.stanford.edu/), [Qwen](https://chat.qwenlm.ai/)
+[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Storm](https://storm.genie.stanford.edu/), [Qwen](https://chat.qwenlm.ai/), [DeepSeek](https://chat.deepseek.com/)
 
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
@@ -495,6 +495,8 @@ Yury Kashnitsky
 - [chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 - [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - Build Yo'own ChatGPT with OpenAI API & Gradio. A Python app for web browser intercage to ChatGPT.
+
+- [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. Excellent performance at a fraction of the cost. [Web chatbot](https://chat.deepseek.com/).
 
 - [h2ogpt](https://github.com/h2oai/h2ogpt) - open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai/
 
@@ -544,7 +546,7 @@ Yury Kashnitsky
 
 - [vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers. [arXiv paper](https://arxiv.org/abs/2307.04686), [supplementary page](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33)
 
-### Image, vision
+### Image, video, vision
 
 - [Sora](https://openai.com/sora/) - OpenAI's text-to-video generation tool that allows users to create, animate, and remix videos from text prompts, images, and existing videos.
 
@@ -564,6 +566,8 @@ Yury Kashnitsky
 https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/CogView2/files/8553662/big.1.pdf)
 
 - [Cosmos](https://github.com/NVIDIA/Cosmos) - Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs. Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos. Docker options.
+
+- [HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - A Systematic Framework For Large Video Generation Model
 
 - [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [HOW DALL-E COULD POWER A CREATIVE REVOLUTION](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution), The Verge. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 
