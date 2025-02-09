@@ -548,6 +548,8 @@ Yury Kashnitsky
 
 ### Image, video, vision
 
+- [Krea](https://www.krea.ai/chat) - image and video generation from text prompt, enhancing image quality, image editing from text prompt.
+
 - [Sora](https://openai.com/sora/) - OpenAI's text-to-video generation tool that allows users to create, animate, and remix videos from text prompts, images, and existing videos.
 
 - [18 All-Time Classic Open Source Computer Vision Projects for Beginners](https://www.analyticsvidhya.com/blog/2020/09/18-open-source-computer-vision-projects-beginners/) by Analytics Vidhya
