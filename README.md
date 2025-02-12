@@ -366,6 +366,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [genomicsnotebook](https://github.com/microsoft/genomicsnotebook) - Genomics Data Analysis with Jupyter Notebooks on Azure.
 
+- [LLM-for-genomics-training](https://github.com/raphaelmourad/LLM-for-genomics-training) - Tutorial on large language models for genomics
+
 - [Machine Learning for Genomics](https://github.com/ML4GLand) - ML4GLand is a community for that develops and maintains tools (primarily in Python) for genomics sequence based machine learning.
 
 - [SEQUOIA](https://sequoia.stanford.edu/) - a linearized transformer model for gene expression prediction from pathology slides. Uses UNI (foundational model for slides), compared with ResNet50. Compared with tRNAsformer, HE2RNA. Trained on 7584 tumor samples across 16 cancer types (TCGA), validated on independent cohorts (CPTAC, Tempus). BRCA shows best performance, the model predicts the risk of breast cancer recurrence. About 15K out of 20K genes can be predicted, well-known signature genes are predicted best. Detected 272 genes significantly associated with recurrence. Predicts spatially-specific gene expression. Python, [GitHub](https://github.com/gevaertlab/sequoia-pub). <details>
