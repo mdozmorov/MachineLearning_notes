@@ -83,6 +83,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [awesome-kan](https://github.com/mintisan/awesome-kan) - A comprehensive collection of KAN(Kolmogorov-Arnold Network)-related resources, including libraries, projects, tutorials, papers, and more, for researchers and developers in the Kolmogorov-Arnold Network field.
 
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+
 - [awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 
 - [AI and DeepRL](https://github.com/smc77/DeepRL) - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning
