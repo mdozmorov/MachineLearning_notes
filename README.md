@@ -768,6 +768,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible, problems and solutions in R. XGBoost, SVM, neural networks, and other methods
 
+- [resources_2025](https://github.com/PatWalters/resources_2025) - Machine Learning in Drug Discovery Resources 2024
+
 - Best XGBoost settings: "a second xgboost version (xgboost_best) with the best parameter settings that I obtained in on of my [publications](https://arxiv.org/abs/1802.09596). These are: nrounds=500, eta=0.0518715, subsample=0.8734055, booster=”gbtree”, max_depth=11, min_child_weight=1.750185, colsample_bytree=0.7126651, colsample_bylevel=0.6375492." From [Is catboost the best gradient boosting R package?](https://www.r-bloggers.com/is-catboost-the-best-gradient-boosting-r-package/) post on r-bloggers.com
 
 # Material in Chinese
