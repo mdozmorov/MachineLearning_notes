@@ -246,6 +246,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
     - [d2l.ai](https://d2l.ai) - Dive into Deep Learning: An interactive deep learning book with code, math, and discussions, based on the NumPy interface, [Jupyter notebooks](https://github.com/d2l-ai/d2l-en)
     - [Mathematics for Deep Learning, d2l.ai](https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html) - systematic deep learning math, linear algebra and matrix operations, eigendecomposition, single- and multivariable calculus, integral calculus, maximum likelihood and optimization, statistics (random variables, distributions, naive Bayes), information theory
 
+- [OxML-GenAI](https://github.com/pcpp94/OxML-GenAI) - material from Oxford ML Generative AI course
+
 - [Practical Deep Learning for Coders, v3](http://course.fast.ai/index.html) - FAST.AI main course. [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) - another course by Jeremy Howard, with videos
 
 - [Step-by-step guides to learn Applied Machine Learning](https://machinelearningmastery.com/start-here/) - Machine Learning Mastery web site aggregating structured posts for beginner and intermediate machine learning users, deep learning
