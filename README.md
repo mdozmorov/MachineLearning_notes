@@ -497,7 +497,7 @@ Yury Kashnitsky
 
 ### Language models
 
-[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Storm](https://storm.genie.stanford.edu/), [Qwen](https://chat.qwenlm.ai/), [DeepSeek](https://chat.deepseek.com/)
+[ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/app), [NotebookLM](https://notebooklm.google.com/), [Claude](https://claude.ai/new), [OpenRouter](https://openrouter.ai/), [Groq](https://groq.com/), [Storm](https://storm.genie.stanford.edu/), [Qwen](https://chat.qwenlm.ai/), [DeepSeek](https://chat.deepseek.com/), [Perplexity.ai](https://www.perplexity.ai/)
 
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 
