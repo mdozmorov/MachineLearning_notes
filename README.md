@@ -21,7 +21,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
   - [DL Courses & Tutorials](#dl-courses--tutorials)
   - [DL Videos](#dl-videos)
   - [DL Papers](#dl-papers)
-    - [DL Papers Genomics](#dl-papers-genomics)
+    - [DL Genomics](#dl-genomics)
   - [DL Tools](#dl-tools)
     - [Auto ML](#auto-ml)
     - [DL models](#dl-models)
@@ -364,7 +364,7 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) - Scientific Large Language Models: A Survey on Biological & Chemical Domains
 
-### DL Papers Genomics
+### DL Genomics
 
 - [genomicsnotebook](https://github.com/microsoft/genomicsnotebook) - Genomics Data Analysis with Jupyter Notebooks on Azure.
 
