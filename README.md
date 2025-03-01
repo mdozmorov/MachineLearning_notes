@@ -541,6 +541,8 @@ Yury Kashnitsky
 
 - [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 
+- [ElevenReader](https://elevenreader.io/) - text to speech converter, for ebooks (EPUB), PDFs, text files. iOS and Android mobile apps.
+
 - [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
 
 - [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
