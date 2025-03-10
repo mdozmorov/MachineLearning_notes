@@ -184,6 +184,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## Transformers
 
+- [transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
 - [Treasure-of-Transformers](https://github.com/ashishpatel26/Treasure-of-Transformers) - Awesome Treasure of Transformers Models for Natural Language processing contains papers, videos, blogs, official repo along with colab Notebooks.
 
 - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N Gomez, Łukasz Kaiser, and Illia Polosukhin. “[Attention Is All You Need](https://arxiv.org/abs/1706.03762v5),” arXiv:1706.03762, 6 Dec 2017 - Transformer paper. [Illustrated Guide to Transformers Neural Network: A step by step explanation](https://youtu.be/4Bdc55j80l8) - 15 min video. [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) - PyTorch implementation of the original transformer paper. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - blog post by Jay Alammar explaining Transformer architecture. [Tweet](https://twitter.com/iScienceLuvr/status/1471032149100797954?s=20) - best resources to learn Transformers
