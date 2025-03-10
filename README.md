@@ -517,6 +517,8 @@ Yury Kashnitsky
 
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
+- [llm_engineering](https://github.com/ed-donner/llm_engineering) - repo for the [Mastering AI and LLM Engineering](https://edwarddonner.com/2024/11/13/llm-engineering-resources/) course. Python, includes videos.
+
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step, the Python code for coding, pretraining, and finetuning a GPT-like LLM. By Sebastian Raschka. For the book [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch).
 
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
