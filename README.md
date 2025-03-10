@@ -602,6 +602,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 ## DL Misc
 
+- [100_days_of_CUDA](https://github.com/Firojpaudel/100_days_of_CUDA) - notes about learning CUDA
+
 - [geospy.ai](https://geospy.ai/) - location identification from photos
 
 - [app.wombo.art](https://app.wombo.art/) - deep generative model dreaming awesome images from text, Android and iOS apps available. [Tweet](https://twitter.com/iScienceLuvr/status/1468115406858514433?s=20) describing the VQGAN+CLIP technology behind it
