@@ -520,6 +520,8 @@ Yury Kashnitsky
 
 - [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "[Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)" by Jay Alammar and Maarten Grootendorst. PyTorch, Jupyter notebooks, can be opened in Google colab. 
 
+- [litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]. [Docs](https://docs.litellm.ai/docs/)
+
 - [llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 - [llm_engineering](https://github.com/ed-donner/llm_engineering) - repo for the [Mastering AI and LLM Engineering](https://edwarddonner.com/2024/11/13/llm-engineering-resources/) course. Python, includes videos.
