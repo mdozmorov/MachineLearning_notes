@@ -366,6 +366,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [Scientific-LLM-Survey](https://github.com/HICAI-ZJU/Scientific-LLM-Survey) - Scientific Large Language Models: A Survey on Biological & Chemical Domains
 
+- [TextGrad](https://github.com/zou-group/textgrad) - text (prompt) optimization by backpropagating LLM-generated feedback. Each AI system is transformed into a computational graph where components exchange text, code, and images through complex (not necessarily differentiable) functions. TextGrad generates feedback in the form of text to guide the modifications of unstructured variables in a system - textual gradient descent analogy. Tested on LeetCode Hard, Google-proof Question Answering (GPQA), Massive Multitask Language Understanding (MMLU), MathVista, ScienceQA, GSM8k datasets. Outperforms Reflexion, OPRO, DSPy. <details>
+  <summary>Paper</summary>
+  Yuksekgonul, Mert, Federico Bianchi, Joseph Boen, Sheng Liu, Pan Lu, Zhi Huang, Carlos Guestrin, and James Zou. “Optimizing Generative AI by Backpropagating Language Model Feedback.” Nature 639, no. 8055 (March 20, 2025): 609–16. https://doi.org/10.1038/s41586-025-08661-4.
+</details>
+
 ### DL Genomics
 
 - [genomicsnotebook](https://github.com/microsoft/genomicsnotebook) - Genomics Data Analysis with Jupyter Notebooks on Azure.
