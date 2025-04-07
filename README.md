@@ -1,4 +1,4 @@
-# Machine- and Deep Learning resources
+https://github.com/ed-donner/llm_engineering?tab=readme-ov-file# Machine- and Deep Learning resources
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
@@ -372,6 +372,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 </details>
 
 ### DL Genomics
+
+- Review or genome Language Models (gLMs) using the transformer architecture. Intro about deep learning in genomics, references. DNA tokenization approaches (one-hot, k-mer (overlapping and not), byte-pair encoding). Masked Language Modeling (MLM), Autoregressive Language Modeling (ALM), State Space Models (SSM). The Hyena layer and the Mamba layer. Description of individual models: SATORI (self-attention-based model to detect regulatory element interactions), Enformer, Borzoi, C.Origami, DNABERT (-XL, -2), the Nucleotide transformer, GENA-LM, GPN, HyenaDNA, Evo (Striped Hyena), summarized in Table 1. Benchmarking datasets, the BEND benchmarking paper shows gLMs do not consistently outperform supervised baselines. Limitations - not accounting for long-range interactions, cell type specificity, high computing cost. Interpretability approaches - attention scores, attention flow, rollout, SHAP. Excellent supplementary texts describing the attention mechanisms, each model (SSM, Hyena), add-and-norm layers, skip connections, fully connected layers, encoder-decoder interplay. Supplementary Table S1 - an in-depth summary of all models. Supplementary figures - schematic representation. <details>
+  <summary>Paper</summary>
+  Consens, Micaela E., Cameron Dufault, Michael Wainberg, Duncan Forster, Mehran Karimzadeh, Hani Goodarzi, Fabian J. Theis, Alan Moses, and Bo Wang. “Transformers and Genome Language Models.” Nature Machine Intelligence 7, no. 3 (March 13, 2025): 346–62. https://doi.org/10.1038/s42256-025-01007-9.
+</details>
 
 - [genomicsnotebook](https://github.com/microsoft/genomicsnotebook) - Genomics Data Analysis with Jupyter Notebooks on Azure.
 
