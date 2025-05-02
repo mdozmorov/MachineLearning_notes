@@ -602,6 +602,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [DALL-E-2](https://openai.com/dall-e-2/) - a new AI system that can create realistic images and art from a description in natural language. [Tweet](https://twitter.com/_serajuddin/status/1520848051728007168?s=20&t=nslwWf9JTPC7QvRCnHNJQw). [How This A.I. Draws Anything You Describe](https://youtu.be/U1cF9QCu1rQ) 16m video by ColdFusion. [HOW DALL-E COULD POWER A CREATIVE REVOLUTION](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution), The Verge. [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image. 
+
 - [JoJoGAN](https://github.com/mchong6/JoJoGAN) - Official PyTorch repo for JoJoGAN: One Shot Face Stylization. [Arxiv](https://arxiv.org/abs/2112.11641)
 
 - [Photo restoration with GFP-GAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [Online version](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
