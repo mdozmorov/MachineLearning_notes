@@ -667,6 +667,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [Machine-Learning-Figures](https://github.com/Neuraxio/Machine-Learning-Figures) - images of most representative concepts and diagrams for machine- and deep learning.
 
+- [TorchDR](https://github.com/TorchDR/TorchDR) - PyTorch Dimensionality Reduction
+
 # Awesome Machine learning
 
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
