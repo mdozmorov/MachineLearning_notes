@@ -561,6 +561,8 @@ Yury Kashnitsky
 
 - [privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks.
 
+- [prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+
 - [Qwen](https://github.com/QwenLM/Qwen) - LLM created by Alibaba Cloud. Transformer-based, lightweight but among top performers. [Website](https://qwenlm.github.io/)
 
 - [Storm](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [GitHub](https://github.com/stanford-oval/storm)
