@@ -829,6 +829,11 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 # Material in Russian
 
+- [GigaChat](https://giga.chat/) - Russian language-focused language model. Based on the mixture of experts (MoE) architecture, GPT-3, 13B parameters. 2 min [Video](https://youtu.be/TDD9av314XY?feature=shared) demo. [Leaderboard](https://mera.a-ai.ru/ru/submits/11273). Alternatives: [YandexGPT5](https://ya.ru/ai/gpt), [Cotype](https://mts.ai/product/cotype/). [GigaAM](https://github.com/salute-developers/GigaAM) for speech processing. Models on [Huggingface](https://huggingface.co/ai-sage/models). @gigachat_bot Telegram bot. <details>
+  <summary>Paper</summary>
+  team, GigaChat, Mamedov Valentin, Evgenii Kosarev, Gregory Leleytner, Ilya Shchuckin, Valeriy Berezovskiy, Daniil Smirnov, et al. “GigaChat Family: Efficient Russian Language Modeling Through Mixture of Experts Architecture.” arXiv, June 11, 2025. https://doi.org/10.48550/arXiv.2506.09440.
+</details>
+
 - [Scientific_graphics_in_python](https://github.com/whitehorn/Scientific_graphics_in_python) - matplotlib for scientific graphics. 3 parts, 13 chapters. By Pavel Shabanov
 
 - [ml-course-hse](https://github.com/esokolov/ml-course-hse) - machine learning course at the Computer Sciences Department, High Schoool of Economy. Multiple years, videos
