@@ -394,6 +394,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
   Pizurica, Marija. “Digital Profiling of Gene Expression from Histology Images with Linearized Attention.” Nature Communications, 2024.
 </details>
 
+- [MAMBA](https://github.com/state-spaces/mamba) original paper. Selective state space models (SSMs), integrated into a simple architecture without attention or MLP blocks. Performance improves with longer sequence length, up to million tokens. Detailed theory. Compared with H3, Gated MLP architectures. Outperforms other models on language tasks, DNA modeling, audio modeling and generation, fast. <details>
+  <summary>Paper</summary>
+  Gu, Albert, and Tri Dao. “Mamba: Linear-Time Sequence Modeling with Selective State Spaces.” arXiv, May 31, 2024. https://doi.org/10.48550/arXiv.2312.00752.
+</details>
+
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna) - a genomic foundation model with context lengths of up to 1M tokens at the single nucleotide-level. A Hyena operator (long convolutions and element-wise gate layers). Pretrained on the human reference genome to predict next token, masked tokens. Scales sub-quadratically. Tested on GenomicBenchmarks dataset (classification, prediction), compared with DNABERT, Nucleotide Transformer. <details>
   <summary>Paper</summary>
   Nguyen, Eric, Michael Poli, Marjan Faizi, Armin W Thomas, Callum Birch Sykes, Michael Wornow, Aman Patel, et al. “HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution,” https://arxiv.org/abs/2306.15794
