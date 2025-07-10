@@ -373,6 +373,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ### DL Genomics
 
+- [Chai-2](https://github.com/chaidiscovery/chai-lab) model for antibody development. Compared with AlphaProteo, RFDiffusion. Tested on IL7R, InsulinR, PD-L1, PDGFb, TNFa, experimental validation. Target-specific and cross-reactive proteins. <details>
+<summary>Paper</summary> 
+  Chai Discovery, Jacques Boitreaud, Jack Dent, Matthew McPartlon, Joshua Meier, Vinicius Reis, Alex Rogozhonikov, and Kevin Wu. “Chai-1: Decoding the Molecular Interactions of Life.” BioRxiv, 2024, 2024–10. https://doi.org/10.1101/2024.10.10.615955
+</details>
+
 - [Evo](https://github.com/evo-design/evo) - foundational model for sequence prediction (mutational effect, activity of regulatory DNA, gene essentiality) and generation (CRISPR-Cas complexes, transposons). Striped Hyena-based architecture using 29 Hyena layers, 3 rotary position embedding, over 131K single-nucleotide token window. Pretrained on the OpenGenome dataset with more than 80K bacterial and archaeal genomes, millions of phage and plasmid sequences, viruses excluded. Compared Transformer, Mamba, Hyena, StripedHyena architectures. <details>
   <summary>Paper</summary>
   Nguyen, Eric, Michael Poli, Matthew G Durrant, Brian Kang, Dhruva Katrekar, David B Li, Liam J Bartie, et al. “Sequence Modeling and Design from Molecular to Genome Scale with Evo,” 2024. https://www.science.org/doi/10.1126/science.ado9336
