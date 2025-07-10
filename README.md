@@ -604,6 +604,8 @@ Yury Kashnitsky
 
 - [SpeechBrain](https://speechbrain.github.io/) - A PyTorch-based Speech Toolkit for speech/speaker recognition, speech enhancement, processing, and more. [GitHub repo](https://github.com/speechbrain/speechbrain)
 
+- [Unmute (Kyutai)](https://kyutai.org/next/unmute) - [open source](https://kyutai.org/2025/07/03/tts-unmute-open-source.html) text-to-speech and speech-to-text model, [GitHub](https://github.com/kyutai-labs/delayed-streams-modeling).
+
 - [vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers. [arXiv paper](https://arxiv.org/abs/2307.04686), [supplementary page](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33)
 
 ### Image, video, vision
