@@ -373,6 +373,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ### DL Genomics
 
+- [AlphaGenome](https://www.alphagenomedocs.com/) - DNA deep learning model with 1Mb input to predict base-level genomic tracks (gene expression, transcription initiation, chromatin accessibility, histone modifications, TF binding, Hi-C contact maps, splice sites). 1Mb input partitioned into 131kb overlapping sequences, U-net-style design (encoder-transformer-decoder, rotary position embedding). Trained on ENCODE, GTEx, 4D Nucleome, FANTOM5. Outperforms nearly all models (Enformer, Borzoi, Pangolin, SpliceAI, DeltaSplice, others). Implemented using JAX and Haiku, pseudocode for main methods steps. [API](https://github.com/google-deepmind/alphagenome), [Google Deepmind blog](https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/). <details>
+  <summary>Paper</summary>
+  AlphaGenome: advancing regulatory variant effect prediction with a unified DNA sequence model Žiga Avsec, Natasha Latysheva, Jun Cheng, Guido Novati, Kyle R. Taylor, Tom Ward, Clare Bycroft, Lauren Nicolaisen, Eirini Arvaniti, Joshua Pan, Raina Thomas, Vincent Dutordoir, Matteo Perino, Soham De, Alexander Karollus, Adam Gayoso, Toby Sargeant, Anne Mottram, Lai Hong Wong, Pavol Drotár, Adam Kosiorek, Andrew Senior, Richard Tanburn, Taylor Applebaum, Souradeep Basu, Demis Hassabis, Pushmeet Kohli bioRxiv 2025.06.25.661532; doi: https://doi.org/10.1101/2025.06.25.661532
+</details>
+
 - [Chai-2](https://github.com/chaidiscovery/chai-lab) model for antibody development. Compared with AlphaProteo, RFDiffusion. Tested on IL7R, InsulinR, PD-L1, PDGFb, TNFa, experimental validation. Target-specific and cross-reactive proteins. <details>
 <summary>Paper</summary> 
   Chai Discovery, Jacques Boitreaud, Jack Dent, Matthew McPartlon, Joshua Meier, Vinicius Reis, Alex Rogozhonikov, and Kevin Wu. “Chai-1: Decoding the Molecular Interactions of Life.” BioRxiv, 2024, 2024–10. https://doi.org/10.1101/2024.10.10.615955
