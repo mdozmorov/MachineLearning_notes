@@ -326,6 +326,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## DL Papers
 
+- [Vision Transformer](https://github.com/google-research/vision_transformer) - pure transformer applied to sequences of 16x16 image patches. Architecture experiments. [GitHub](https://github.com/google-research/vision_transformer) references other papers about visual transformers. <details>
+  <summary>Paper</summary>
+  Dosovitskiy, Alexey, Lucas Beyer, Alexander Kolesnikov, et al. “An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale.” arXiv:2010.11929. Preprint, arXiv, June 3, 2021. https://doi.org/10.48550/arXiv.2010.11929.
+</details>
+
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - a collection of simple PyTorch implementations of neural networks and related algorithms, with explanations. Jupyter notebooks. [Website](https://nn.labml.ai/) rendering 
 
 - [best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
