@@ -565,6 +565,8 @@ Yury Kashnitsky
 
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. Excellent performance at a fraction of the cost. [Web chatbot](https://chat.deepseek.com/).
 
+- [Emergent](https://app.emergent.sh/) - an LLM model for website/app creation. Uses Claude, ChatGPT, connects to GitHub
+
 - [h2ogpt](https://github.com/h2oai/h2ogpt) - open-source GPT with document and image Q&A, 100% private chat, no data leaks, Apache 2.0 https://arxiv.org/pdf/2306.08161.pdf Live Demo: https://gpt.h2o.ai/
 
 - [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "[Hands-On Large Language Models](https://www.amazon.com/Hands-Large-Language-Models-Understanding/dp/1098150961)" by Jay Alammar and Maarten Grootendorst. PyTorch, Jupyter notebooks, can be opened in Google colab. 
