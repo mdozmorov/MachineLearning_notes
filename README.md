@@ -27,7 +27,7 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
     - [DL models](#dl-models)
     - [DL projects](#dl-projects)
       - [Language models](#language-models)
-      - [Music, voice, audio](#music-voice-audio)
+      - [Audio, music, voice](#audio-music-voice)
       - [Image, video, vision](#image-video-vision)
   - [DL Misc](#dl-misc)
 - [Awesome Machine learning](#awesome-machine-learning)
@@ -597,7 +597,7 @@ Yury Kashnitsky
 
 - [Storm](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [GitHub](https://github.com/stanford-oval/storm)
 
-### Music, voice, audio
+### Audio, music, voice
 
 - [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
@@ -610,6 +610,8 @@ Yury Kashnitsky
 - [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
 
 - [Magenta](https://github.com/magenta/magenta) - Music and Art Generation with Machine Intelligence
+
+- [MINIMAX](https://www.minimax.io/audio) - text-to-speech, music creation. Voice clone, voice design, noise removal.
 
 - [OpenVoice](https://github.com/myshell-ai/OpenVoice) - voice cloning tool, transfer voice tones to pronounce different words, even in different language.
 
