@@ -664,6 +664,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 - [Photo restoration with GFP-GAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [Online version](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
 
+- [Reve](https://app.reve.com/) - image editing model
+
 - [seedream](https://seed.bytedance.com/en/seedream4_0) - advanced image generation/editing model 
 
 - [Selfie2Anime](https://selfie2anime.com/) online tool and a [GitHub repo](https://github.com/t04glovern/selfie2anime)
