@@ -629,6 +629,8 @@ Yury Kashnitsky
 
 - [vampnet](https://github.com/hugofloresgarcia/vampnet) - music generation with masked transformers. [arXiv paper](https://arxiv.org/abs/2307.04686), [supplementary page](https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33)
 
+- [VibeVoice](https://microsoft.github.io/VibeVoice/) - VibeVoice is a novel framework designed for generating expressive, long-form, multi-speaker conversational audio, such as podcasts, from text.
+
 ### Image, video, vision
 
 - [Krea](https://www.krea.ai/chat) - image and video generation from text prompt, enhancing image quality, image editing from text prompt.
