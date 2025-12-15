@@ -49,6 +49,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://blog.datasciencedojo.com/machine-learning-algorithms/) - Brief description and R/Python examples of algorithms, categorized into several categories: classification, regression, neural networks, anomaly detection, dimensionality reduction, ensemble learning, clusterint, association rule analysis, regularization
 
+- [Claude Code for Babies](https://gexijin.github.io/vibe/) - 15-minute tutorials for Claude Code, a powerful AI for coding, research, & more
+
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
 
 - [Data Science Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet) - Data Science and ML Cheat Sheet, by Maverick Lin. [Source](https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet)
