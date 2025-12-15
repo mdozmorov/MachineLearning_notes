@@ -57,6 +57,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 - [Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between
 
+- [ChatGPT Secret Tricks Cheat Sheet - 50 Power Commands!](ChatGPT50.md), [source](https://www.reddit.com/r/PromptEngineering/comments/1pifidh/chatgpt_secret_tricks_cheat_sheet_50_power/)
+
 - [Gemini CLI Tips & Tricks](https://github.com/addyosmani/gemini-cli-tips) - over 30 pro-tips for effectively using Gemini CLI for agentic coding
 
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/) - Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. 
