@@ -5,7 +5,7 @@ https://www.reddit.com/r/PromptEngineering/comments/1pifidh/chatgpt_secret_trick
 
 Use these simple codes to supercharge your ChatGPT prompts for faster, clearer, and smarter outputs.
 
-I've been collecting these for months and finally compiled the ultimate list. Bookmark this.
+<!-- I've been collecting these for months and finally compiled the ultimate list. Bookmark this. -->
 
 ---
 
