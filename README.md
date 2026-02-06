@@ -292,6 +292,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## DL Videos
 
+- [Harvard CS50 (2026)](https://www.youtube.com/watch?v=gmuTjeQUbTM) – Full Computer Science University Course, 24h. [Course website](https://cs50.harvard.edu/x/)
+
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet](https://twitter.com/omarsar0/status/1458048207200657408?s=20&t=3Z19BX54dyaa_bScwRFEJQ)
 
 - [Applied Deep Learning](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4) playlist, short course lectures by Maziar Raissi. [GitHub](https://github.com/maziarraissi/Applied-Deep-Learning). 
