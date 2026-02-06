@@ -643,6 +643,8 @@ Yury Kashnitsky
 
 ### Image, video, vision
 
+- [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - Automating Academic Illustration for AI Scientists. Visual language model trained on NeurIPS diagrams. [GitHub](https://github.com/dwzhu-pku/PaperBanana)
+
 - [Krea](https://www.krea.ai/chat) - image and video generation from text prompt, enhancing image quality, image editing from text prompt.
 
 - [Sora](https://openai.com/sora/) - OpenAI's text-to-video generation tool that allows users to create, animate, and remix videos from text prompts, images, and existing videos.
