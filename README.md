@@ -206,7 +206,7 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - [The Deep Learning textbook](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville. Includes lectures in `.key` and `.pdf` formats, [videos discussing different chapters](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos). https://www.deeplearningbook.org/
 
-- [The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/) - Free book teaching the math behind AI with plain English explanations and Python code examples
+- [The Math Behind Artificial Intelligence: A Guide to AI Foundations [Full Book]](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/) - Free book teaching the math behind AI with plain English explanations and Python code examples. [GitHub](http://github.com/tiagomonteiro0715/The-Math-Behind-Artificial-Intelligence-A-Guide-to-AI-Foundations)
 
 - [Fundamentals-of-Deep-Learning-Book](https://github.com/darksigma/Fundamentals-of-Deep-Learning-Book) - Python code companion to the O'Reilly "[Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)" book
 
