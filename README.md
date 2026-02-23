@@ -641,6 +641,8 @@ Yury Kashnitsky
 
 - [VibeVoice](https://microsoft.github.io/VibeVoice/) - VibeVoice is a novel framework designed for generating expressive, long-form, multi-speaker conversational audio, such as podcasts, from text.
 
+- [voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS.
+
 ### Image, video, vision
 
 - [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - Automating Academic Illustration for AI Scientists. Visual language model trained on NeurIPS diagrams. [GitHub](https://github.com/dwzhu-pku/PaperBanana)
