@@ -336,6 +336,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## DL Papers
 
+- [H-Net](https://github.com/goombalab/hnet) - Hierarchical network (U-net-inspired, tokenization-free architecture for end-to-end sequencing modeling. Raw data processed by encoder (SSM, Mamba-2 layers, downsampled, passed through the main network (Transformer layers, can itself be an H-net), and upsampled by a decoder (a smoothing module and an upsampler). Novel dynamic chunking (a routing module for boundary prediction and a downsampler module retaining those boundaries). Dynamically predicts chunking boundaries as spots where the embeddings of nearby tokens diverge, and those boundaries are selected for processing. Careful sequence of projection and normalization, adjustment of optimization parameters for each layer, regularization, other techniques for hierarchical sequence modeling and training.Outperforms MambaByte, LlamaByte, SpaceByte and its modifications (HellaSwag, high computational efficiency. [HuggingFace](https://huggingface.co/cartesia-ai). <details>
+  <summary>Paper</summary>
+  Hwang, Sukjun, Brandon Wang, and Albert Gu. “Dynamic Chunking for End-to-End Hierarchical Sequence Modeling.” arXiv:2507.07955. Preprint, arXiv, July 15, 2025. https://doi.org/10.48550/arXiv.2507.07955.
+</details>
+
 - [Vision Transformer](https://github.com/google-research/vision_transformer) - pure transformer applied to sequences of 16x16 image patches. Architecture experiments. [GitHub](https://github.com/google-research/vision_transformer) references other papers about visual transformers. <details>
   <summary>Paper</summary>
   Dosovitskiy, Alexey, Lucas Beyer, Alexander Kolesnikov, et al. “An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale.” arXiv:2010.11929. Preprint, arXiv, June 3, 2021. https://doi.org/10.48550/arXiv.2010.11929.
