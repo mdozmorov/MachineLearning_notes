@@ -629,6 +629,8 @@ Yury Kashnitsky
 
 - [ElevenReader](https://elevenreader.io/) - text to speech converter, for ebooks (EPUB), PDFs, text files. iOS and Android mobile apps.
 
+- [insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - An opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by Transformers, Optimum & flash-attn. Transcribe 150 minutes (2.5 hours) of audio in less than 98 seconds - with OpenAI's Whisper Large v3. Blazingly fast transcription is now a reality!
+
 - [Jukebox](https://github.com/openai/jukebox) - music generation neural network. Hierarchical Vector Quantised-Variational AutoEncoder (VQ-VAE) architecture, three separate temporal resolutions. Able to generate singing from lyrics, extend music examples. [Dhariwal et al., “Jukebox: A Generative Model for Music.”](https://arxiv.org/abs/2005.00341), [Blog post with examples of generated music](https://openai.com/blog/jukebox/)
 
 - [june](https://github.com/mezbaul-h/june) - Local voice chatbot for engaging conversations, powered by Ollama, Hugging Face Transformers, and Coqui TTS Toolkit
