@@ -81,6 +81,8 @@ Machine and deep learning and data analysis resources. Please, [contribute and g
 
 # Awesome Deep Learning
 
+- [ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
+
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities
 
 - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers) - the most cited deep learning papers
