@@ -458,6 +458,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 - Avsec, Žiga, Vikram Agarwal, Daniel Visentin, Joseph R. Ledsam, Agnieszka Grabska-Barwinska, Kyle R. Taylor, Yannis Assael, John Jumper, Pushmeet Kohli, and David R. Kelley. “[Effective Gene Expression Prediction from Sequence by Integrating Long-Range Interactions](https://doi.org/10.1038/s41592-021-01252-x).” Nature Methods, (October 2021) - [Enformer](https://github.com/deepmind/deepmind-research/tree/master/enformer) - a deep learning model (transformers) to predict epigenetic and gene expression profiles (128bp resolution) from human and mouse cell types using only the DNA sequence as input, incorporating information from up to 100 kb on either side of the target locus (200kb of input DNA sequence). Transformers, allow to increase the receptive field up to 100kb, in contrast to 20kb for Basenji2 or ExPecto. Significant increase in performance. Predictions using CAGE data. Improves variant effect prediction on eQTL data. Excellent transformer description.
 
+- Foundation models in bioinformatics, language, vision, graph, multimodel. Specific models, tools, briefly described, organized in categories (Figures, tables). Genes, proteomics, drug discovery, cell clustering, multi-omics integration. <details>
+  <summary>Paper</summary>
+  Guo, Fei, Renchu Guan, Yaohang Li, et al. “Foundation Models in Bioinformatics.” National Science Review 12, no. 4 (2025): nwaf028. https://doi.org/10.1093/nsr/nwaf028.
+</details>
+
 - Deep learning for genomics. Network architectures - CNN, RNN, autoencoders, hybrid architectures, transformer-based LLMs. Model interpretation - saliency maps, attention scores. Transfer, multitask, multi-view learning. Applications - prediction of gene expression, promoters, enhancers, splicing, DNA and RNA binding sites, mutation effect, subcellular locations. Proteins, structural classification, prediction, secondary, tertiary structure. <details>
   <summary>Paper</summary>
   Yue, Tianwei, Yuanxin Wang, Longxiang Zhang, et al. “Deep Learning for Genomics: A Concise Overview.” arXiv:1802.00810. Preprint, arXiv, October 4, 2023. https://doi.org/10.48550/arXiv.1802.00810.
