@@ -296,6 +296,8 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ## DL Videos
 
+- [Stanford CME295, Transformers and LLMs](https://cme295.stanford.edu/syllabus/), lectures from 2025: [Transformers](https://www.youtube.com/watch?v=Ub3GoFaUcds), [Transformer-Based Models](https://www.youtube.com/watch?v=yT84Y5zCnaA), [LLMs](https://www.youtube.com/watch?v=Q5baLehv5So), [Training](https://www.youtube.com/watch?v=VlA_jt_3Qc4), [Tuning](https://www.youtube.com/watch?v=PmW_TMQ3l0I), [Reasoning](https://www.youtube.com/watch?v=k5Fh-UgTuCo), [Agentic LLMs](https://www.youtube.com/watch?v=h-7S6HNq0Vg), [LLM Evaluation](https://www.youtube.com/watch?v=8fNP4N46RRo), [Recap & Trends](https://www.youtube.com/watch?v=Q86qzJ1K1Ss)
+
 - [Harvard CS50 (2026)](https://www.youtube.com/watch?v=gmuTjeQUbTM) – Full Computer Science University Course, 24h. [Course website](https://cs50.harvard.edu/x/)
 
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A repository to index and organize the latest machine learning courses found on YouTube. [Tweet](https://twitter.com/omarsar0/status/1458048207200657408?s=20&t=3Z19BX54dyaa_bScwRFEJQ)
