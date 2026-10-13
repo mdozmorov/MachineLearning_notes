@@ -2,7 +2,7 @@ https://github.com/ed-donner/llm_engineering?tab=readme-ov-file# Machine- and De
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
 
-Machine and deep learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
+Machine and AI/deep learning and data analysis resources. Please, [contribute and get in touch](CONTRIBUTING.md)! See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for other programming and genomics-related notes.
 
 # Table of content
 
@@ -339,6 +339,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 - [Deep Reinforcement Learning: CS 285 Fall 2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) - Lectures for UC Berkeley CS 285: Deep Reinforcement Learning.
 
 ## DL Papers
+
+- [Model Context Protocol](https://github.com/security-pride/MCP_Landscape) - analysis of MCP ecosystem, architecture (host, client, server), adoption (Table 1), servers (Table 2), security issues (Table 3) and recommendations. <details>
+  <summary>Paper</summary>
+  Hou, Xinyi, Yanjie Zhao, Shenao Wang, and Haoyu Wang. “Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions.” ACM Transactions on Software Engineering and Methodology 35, no. 10 (2026): 1–37. https://doi.org/10.1145/3796519.
+</details>
 
 - [Paper2Agent](https://github.com/jmiao24/Paper2Agent) - converting papers into agents by constructing a model context protocol (MCP) server (Paper2Skill, Paper2MCP). Implemented with Claude Code. Outperforms [Biomni](https://biomni.stanford.edu/). [AlphaGenome](https://github.com/google-deepmind/alphagenome) agent for variant analysis, 22 MCP tools. [Scanpy](https://github.com/scverse/scanpy) agent for single-cell analysis, 7 tools. [TISSUE](https://github.com/sunericd/TISSUE) (Transcript Imputation with Spatial Single-cell Uncertainty Estimation) agent. Tested on 100 papers. Agents can be hosted at https://huggingface.co/spaces. [GitHub](https://github.com/jmiao24/Paper2Agent) explaining how parts play together. [Online paper2agent.ai](https://paper2agent.ai/live). <details>
   <summary>Paper</summary>
