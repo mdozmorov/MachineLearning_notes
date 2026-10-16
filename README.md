@@ -407,6 +407,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
 
 ### DL Genomics
 
+- [Biomni](https://biomni.stanford.edu/) - biomedical AI agent for research. 150 tools for  warious analyses, 59 databases, 105 software.  The environment component (E1) and the agent component (A1) to use the environment (built using [CodeAct](https://github.com/xingyaoww/code-act)). Benchmarked on Humanity's last exam (HLE), LAB-Bench, ourperforms 6 baselines (base LLM, coding agent, literature agent). Tested on 8 biomedical benchmarks (genetics, genomics, microbiology, pharmacology, clinical medicine), details of each. [GitHub](https://github.com/snap-stanford/biomni). <details>
+  <summary>Paper</summary>
+  Huang K, Zhang S, Wang H, Qu Y, Lu Y, Roohani Y, Li R, Qiu L, Li G, Zhang J, Yin D, Marwaha S, Carter JN, Zhou X, Wheeler M, Bernstein JA, Wang M, He P, Zhou J, Snyder M, Cong L, Regev A, Leskovec J. Biomni: A General-Purpose Biomedical AI Agent. bioRxiv [Preprint]. 2025 Jun 2:2025.05.30.656746. doi: 10.1101/2025.05.30.656746. PMID: 40501924; PMCID: PMC12157518.
+</details>
+
 - **dnaHNet** - the [HNet](#hnet) architecture specifically tuned for DNA end-to-end tokenizer-free modeling. Differentiable dynamic chunking mechanism, balancing compression with predictive accuracy. Outperforms StripedHyena2, Evo2. Evaluated on protein variant efects (MaveDB), Gene essentiality (DEG), Genomic structure interpretation (NCBI). Computationally efficient, scales well. <details>
   <summary>Paper</summary>
   Shah, Arnav, Junzhe Li, Parsa Idehpour, et al. “dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning.” Version 3. Preprint, arXiv, 2026. https://doi.org/10.48550/ARXIV.2602.10603.
