@@ -413,6 +413,11 @@ JAX is a combination of Automatic Differentiation and XLA (Accelerated Linear AL
   Carbon: Decoding the Language of Life. Loubna Ben Allal, Qiuyi Li, Maurizio Fiusco, Lewis Tunstall, Kashif Rasul, Ed Beeching, Dana Aubakirova, Carlos Patiño, Thibaud Frere, Anton Lozhkov, Georgia Channing, Thomas Wolf, Diego di Bernardo, Leandro von Werra. bioRxiv 2026.05.22.727119; doi: https://doi.org/10.64898/2026.05.22.727119
 </details>
 
+- [GENERator](https://github.com/GenerTeam/GENERator) - generative genomic foundation model (transformer decoder), context length 98k nucleotides, pretrained on 386bn nucleotides of eucaryotic DNA. 6-mer tokenization performs best. Tested on Variant Effect Prediction task (ClinVar), various genomics benchmark tasks. <details>
+  <summary>Paper</summary>
+  Wu, Wei, Qiuyi Li, Yuanyuan Zhang, et al. “GENERator: A Long-Context Generative Genomic Foundation Model.” arXiv:2502.07272. Preprint, arXiv, January 31, 2026. https://doi.org/10.48550/arXiv.2502.07272.
+</details>
+
 - [Biomni](https://biomni.stanford.edu/) - biomedical AI agent for research. 150 tools for  warious analyses, 59 databases, 105 software.  The environment component (E1) and the agent component (A1) to use the environment (built using [CodeAct](https://github.com/xingyaoww/code-act)). Benchmarked on Humanity's last exam (HLE), LAB-Bench, ourperforms 6 baselines (base LLM, coding agent, literature agent). Tested on 8 biomedical benchmarks (genetics, genomics, microbiology, pharmacology, clinical medicine), details of each. [GitHub](https://github.com/snap-stanford/biomni). <details>
   <summary>Paper</summary>
   Huang K, Zhang S, Wang H, Qu Y, Lu Y, Roohani Y, Li R, Qiu L, Li G, Zhang J, Yin D, Marwaha S, Carter JN, Zhou X, Wheeler M, Bernstein JA, Wang M, He P, Zhou J, Snyder M, Cong L, Regev A, Leskovec J. Biomni: A General-Purpose Biomedical AI Agent. bioRxiv [Preprint]. 2025 Jun 2:2025.05.30.656746. doi: 10.1101/2025.05.30.656746. PMID: 40501924; PMCID: PMC12157518.
