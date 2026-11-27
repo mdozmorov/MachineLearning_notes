@@ -813,6 +813,8 @@ https://doi.org/10.48550/arXiv.2204.14217)), [Example](https://github.com/THUDM/
 
 ## ML Books
 
+- [AI-pdf-books](https://github.com/MinhNguyenDS/AI-pdf-books) - The AI/Data book repository for AI Engineers, ML Engineers, LLMOps, MLOps, and Data Scientists
+
 - [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by [Kevin Patrick Murphy](https://www.cs.ubc.ca/~murphyk/), 2022 edition. Intro (probability, statistics, decision theory, information theory, linear algebra), linear models, nonparametric modeling, deep neural networks, dimensionality reduction, clustering, more. [GitHub](https://github.com/probml/pml-book), [Tweet1](https://twitter.com/omarsar0/status/1345021214671122433?s=20), [Tweet2](https://twitter.com/omarsar0/status/1494692845634174980?s=20&t=7IYo6CcxpTRrdh487t0_mw)
 
 - [Mathematics for Machine Learning](https://mml-book.github.io), 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. 
